@@ -118,6 +118,13 @@ A participant can only see the chat since they most recently joined. If a partic
 
 Emojis are not recommended as they are not consistently available and do not render consistently across platforms.
 
+#### Live captioning calls
+
+Zoom offers the option for Hosts to live caption calls. The host will see "Closed Caption" option in their toolbar.  This will give the host the option to assign a participant to type live captions, or to type captions themselves.  We do not currently offer third party closed captioning services. 
+
+![Closed caption options](images/zoom_closed_caption.png)
+
+
 #### Ending a call
 
 When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
