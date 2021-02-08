@@ -42,8 +42,8 @@ Read below and find out how to contribute a blog post to
   `new-carpentries-team-member` over `new-team-member`.
 * Use 3 to 6 words to compose the file names (and permalinks) and the headings
   on your page and blog posts.
-* For titles, we recommend ...
-* For headings, we recommend ...
+* For titles, we recommend making sure the title is descriptive and uses no more than 5-7 words. EX: How We Use Feedback at The Carpentries
+* For headings, we recommend a full sentence that succinctly describes the contents of the blog. EX: Read on to learn about our strategic plan progress through Q3 2020 (July - September)
 
 You can include a `time:` entry in the YAML header of the blog posts. The time
 is in the 24-hour format and in UTC. It is useful to think of this time as the
