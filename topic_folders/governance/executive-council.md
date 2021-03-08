@@ -16,7 +16,7 @@ there are three ways for communicating with Executive Council Members:
 
 1. **File an [issue](https://github.com/carpentries/executive-council-info/issues) in this repository.** This is appropriate if you would like to solicit additional community feedback on a topic of general interest to the community.
 2. **Send us an [email](mailto:carpentries-executive-council@carpentries.org).** This is appropriate for communicating directly with the Executive Council but not the rest of our community.
-3. **Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLScdo7AlYfeQN-z5dnO-p8KVI8t17kQUc1VH-Cvrlga5txIwCA/viewform?usp=sf_link).** This is preferable if you would like confidential communication with the Executive Council, or if you would like to remain anonymous.
+3. **Submit [this form](https://forms.gle/Adi54ESBi5hHmcdu5).** This is preferable if you would like confidential communication with the Executive Council, or if you would like to remain anonymous.
 
 ### The Carpentries Executive Council Documentation
 
