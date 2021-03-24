@@ -78,7 +78,7 @@ Hello,
 
 We are excited for the  [ Data/Library/Software ] Carpentry workshop this coming [ days of week ] and hope you are too. A few notes:  
 
-Be sure to complete the pre-workshop survey [ link to survey ]. We use this to calibrate the pace of the workshop and, together with a post-workshop survey, to assess how it went.  
+Be sure to complete the pre-workshop survey [ link to survey - custom link is generated in workshop website]. We use this to calibrate the pace of the workshop and, together with a post-workshop survey, to assess how it went.  
 
 Make sure you have the necessary software installed on your laptop [ list required software for your workshop ]. Here are the instructions [ link to instructions ]. If you have any trouble, send us an email or come a little early [ day of week ] morning. Someone will be there by [ time ] to help with installation issues.  
 
