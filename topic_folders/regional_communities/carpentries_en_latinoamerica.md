@@ -6,6 +6,22 @@ Building a sustainable and active community in Latin America include several ini
 
 ### Como puedes ayudar / Ways to Help
 
+Hay muchas formas de ayudar a construir la comunidad de Carpentries en América Latina.
+
+- Necesitamos hablantes nativos y con fluidez de español para ayudar a traducir los materiales de las lecciones.
+
+- Necesitamos una forma de mantener sincronizadas las diferentes versiones de idiomas de las lecciones de The Carpentries para que las contribuciones hechas a una versión aparezcan en las otras.
+
+- Necesitamos instructores experimentados para enseñar y guiar a los nuevos instructores en América Latina, especialmente aquellos familiarizados con la región.
+
+- Necesitamos Capacitadores ubicados en América Latina o con fuertes vínculos con la región.
+
+- Necesitamos ayuda con la coordinación de talleres de personas familiarizadas con las estructuras de precios, la geografía y la infraestructura computacional en América Latina.
+
+- Necesitamos campeones locales para correr la voz sobre The Carpentries y el trabajo que hacemos y abogar por los talleres y membresías de The Carpentries en la región.
+
+Si puede ayudar de alguna de estas formas, o conoce otra forma en la que pueda apoyar el desarrollo de la comunidad de The Carpentries en América Latina, [¡póngase en contacto a través de la lista de correo!](mailto:local-latinoamerica@lists.carpentries.org)
+
 There are many ways to help build The Carpentries community in Latin America. 
 
 - We need native and fluent Spanish speakers to help translate lesson materials. 
