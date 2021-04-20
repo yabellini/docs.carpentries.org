@@ -1,4 +1,4 @@
-## The Carpentries Commitee Policy
+## The Carpentries Committee Policy
 
 ### Context
 
