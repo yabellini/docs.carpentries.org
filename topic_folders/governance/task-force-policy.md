@@ -34,6 +34,7 @@ Each task force shall have a folder in the [Carpentries Task Forces GitHub repos
 * [Task Force Charter](https://github.com/carpentries/task-forces/blob/master/task-force-charter-template.md)
 * Meeting notes or minutes
 * Task Force report 
+
 The task force chair is responsible for updating this information as necessary.
 
 ### Internal Documentation
