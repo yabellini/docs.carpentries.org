@@ -4,9 +4,9 @@ TEACHING AND HOSTING
 Opportunities for certified instructors to teach Carpentries workshops are listed `here <https://docs.google.com/spreadsheets/d/1YhTAzEalDqKUowgej7aRa7E1K0XcB6ZezoVUt6VN2qY/edit#gid=0>`_.  Join the `instructors mailing list <https://carpentries.topicbox.com/groups/instructors>`_ to be notified when new opportunities are posted.
 
 Certified instructors are also encouraged to run workshops themselves. When organising a workshop, you 
-have two options: a centrally-organised or self-organised workshop. 
+have two options: a centrally-organised or Self-Organised workshop. 
 
-One way to understand the distinction between centrally-organised and self-organised workshops is who 
+One way to understand the distinction between centrally-organised and Self-Organised workshops is who 
 is responsible for certain key workshop components: 
 
 Centrally Organized Workshop
@@ -15,7 +15,7 @@ Centrally Organized Workshop
     * registration managed by The Carpentries Workshop Administration Team
     * instructor recruitment managed by The Carpentries Workshop Administration Team
 
-Self-Organized Workshop
+Self-Organised Workshop
 ******************************
 
     * registration managed by local organizer
@@ -55,7 +55,7 @@ then proceeding through the relevant checklists and list of tips below.
 For centrally organised workshops, the Regional Coordinator will guide the host and instructor(s) on following 
 through on all these steps. A global team of Regional Coordinators support workshop activity and community building in regions around the world. `Read more <https://carpentries.org/regionalcoordinators/>`_ about who they are and what they do.
 
-For self organised workshops, the host and instructor are directly responsible for ensuring all the steps below are followed without support from the Regional Coordinator. If you are planning to self-organise a workshop, check out these `Tips for Organising Your First Carpentries Workshop <https://carpentries.org/blog/2019/10/organising-workshops/>`_.
+For Self-Organised workshops, the host and instructor are directly responsible for ensuring all the steps below are followed without support from the Regional Coordinator. If you are planning to self-organise a workshop, check out these `Tips for Organising Your First Carpentries Workshop <https://carpentries.org/blog/2019/10/organising-workshops/>`_.
 
 .. toctree::
    :maxdepth: 2

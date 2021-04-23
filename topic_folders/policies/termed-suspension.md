@@ -41,7 +41,7 @@ The suspended member will, for the duration of their suspension:
 - Be asked not to sign up for workshops on the Instructor Spreadsheet.
 - Not be able to participate as a helper at any workshops.
 - Be removed from Eventbrite login access.
-- Not be allowed to plan self-organised workshops.
+- Not be allowed to plan Self-Organised workshops.
 - Not be allowed to request or host centrally coordinated workshops.
 - Not be listed as an instructor on the “Instructors” webpage.
 - Be removed from the instructors email list.

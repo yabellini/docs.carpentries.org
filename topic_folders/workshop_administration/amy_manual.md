@@ -86,7 +86,7 @@ New events can be created one of several ways:
 
 ![AMY new event host](images/amy_new_event_host.png)
 
-* Select the administrator from the drop down menu.  This will almost always be `Software Carpentry`, `Data Carpentry`, `Library Carpentry`, or `self organised`.
+* Select the administrator from the drop down menu.  This will almost always be `Software Carpentry`, `Data Carpentry`, `Library Carpentry`, or `Self-Organised`.
 
 ![AMY new event administrator](images/amy_new_event_administrator.png)
 
@@ -280,7 +280,7 @@ On the organisation's page, click the green "Add a membership" button.  Enter th
 * Agreement start and end dates
 * Contribution type (Financial, Person-days, or other)
 * Workshops without admin fee per agreement
-* Self organised workshops per agreement (can be left blank as this is typically unlimited)
+* Self-Organised workshops per agreement (can be left blank as this is typically unlimited)
 * Instructor training seats (actual number allotted in contract)
 * Additional instructor training seats (any additional seats allowed beyond contracted amount)
 * Notes.

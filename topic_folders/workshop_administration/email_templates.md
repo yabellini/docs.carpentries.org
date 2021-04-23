@@ -7,7 +7,7 @@ Regional Coordinators use Helpscout to manage communication around workshop admi
 
 #### From Instructors and Hosts
 
-##### For Self Organised Workshops: Recruiting Co-instructor
+##### For Self-Organised Workshops: Recruiting Co-instructor
 
 Subject: Recruiting co-instructors for Carpentry Workshop
 

@@ -60,9 +60,9 @@
 
 #### For Self-Organised Workshops
  
-1. Host submits the [Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/). There is no fee (suggested or mandated) for a self organised workshop.
+1. Host submits the [Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/). There is no fee (suggested or mandated) for a Self-Organised workshop.
 
-1. Regional Coordinator reminds them that as a self organised workshop they will have access to our surveys but will not receive any other support in coordinating this workshop.
+1. Regional Coordinator reminds them that as a Self-Organised workshop they will have access to our surveys but will not receive any other support in coordinating this workshop.
 
 1. Regional Coordinator reminds instructors to set up a workshop website using the
 [workshop template](https://github.com/carpentries/workshop-template).
