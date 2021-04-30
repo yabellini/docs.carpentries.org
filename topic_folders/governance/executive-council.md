@@ -179,7 +179,6 @@ Additional recurring tasks:
 * Solicit nominations for Executive Council officers
 * Suggest annual goals for new Executive Council
 * Assess availability of incoming Executive Council Members for in-person meeting
-* Review Q4 financial report
 * Publish Q4 Code of Conduct Transparency Report
 
 #### February
@@ -188,25 +187,26 @@ Additional recurring tasks:
 * Select new officers
 * Select Executive Council liason to Code of Conduct Committee
 * Finalise annual goals for Executive Council
+* Review Q4 financial report
 
 #### March
 * Review and discussion of strategic plan activities
-* Review draft financial report for community (the draft may first be available early April)
 
 #### April
-* Review Q1 financial report
+* Review draft of annual financial report
 * Publish Q1 Code of Conduct Transparency Report
 
 #### May
+* Review Q1 financial report
 
 #### June
 * Review and discussion of strategic plan activities
 
 #### July
-* Review Q2 financial report
 * Publish Q2 Code of Conduct Transparency Report
 
 #### August
+* Review Q2 financial report
 
 #### September
 * Assign individuals to reassess bylaws (required in even-numbered years, due in November)
@@ -216,7 +216,6 @@ Additional recurring tasks:
 * Assess desired skills for incoming Executive Council members
 * Announce opening of self-nomination for Executive Council
 * Solicit nominees for community awards
-* Review Q3 financial report
 * Publish Q3 Code of Conduct Transparency Report
 
 #### November
@@ -225,6 +224,7 @@ Additional recurring tasks:
 * Nominations for Executive Council elections close (at start of first community call)
 * Community call for Executive Council nominees
 * Vote on reassessed bylaws
+* Review Q3 financial report
 
 #### December
 * Announce community award winners
