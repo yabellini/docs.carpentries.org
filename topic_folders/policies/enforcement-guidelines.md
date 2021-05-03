@@ -119,7 +119,7 @@ Appeals can be requested up to 30 days after a resolution has been determined.
 
 ##### Accountability
 
-The CoC committee will submit a report to The Carpentries Executive Council and The Carpentries Executive Director in the event of an ongoing resolution, such as a termed suspension or ban.  
+The CoC committee will submit a report to The Carpentries Executive Council and The Carpentries Executive Director in the event of an ongoing resolution such as a termed suspension or ban.  
 
 The CoC committee will never publicly discuss the details of an incident; any public statements will be made by The Carpentries Executive Council.  
 
