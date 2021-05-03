@@ -7,6 +7,8 @@ The Committee will onboard its members on a yearly basis through open calls and 
 The Executive Council (EC) will be notified about any new members. 
 New members will undergo an application and onboarding process before they are officially seated on the Committee.
 
+The EC has oversight of the governance of the Code of Conduct Committee but will have no influence over potential incidents and their resolutions. 
+
 ## Onboarding and training
 
 The onboarding process is determined by the Committee, and the EC will be notified about this process.
