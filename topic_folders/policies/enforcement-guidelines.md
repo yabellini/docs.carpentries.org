@@ -74,7 +74,7 @@ When following up with the reportee, the CoCc representatives will:
 - Give them the opportunity to state their view of the incident.
 - Remind them of the consequences of their behaviour, or future consequences if the behaviour is repeated.
 - Explain the possible resolutions that may be enforced should the CoCc determine there is a breach.
-- A final meeting/email-communication will ensure that reportee understands the resolution and has an opportunity to clarify concerns.
+- Conduct a final meeting to ensure that the reportee understands the resolution and has an opportunity to clarify concerns. In some cases, this final communication could be carried over email at the discretion of the IRG.
 
 ##### Resolutions
 
