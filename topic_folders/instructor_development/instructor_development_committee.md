@@ -22,7 +22,7 @@ The Co-Chairs of the Instructor Development Committee are responsible for:
 ##### Time Commitment
 
 - 1-2 hours/week 
-- 1 year term beginning 1-May  
+- 1 year term beginning 1-May or 1-Nov  
 
 ##### Requirements
 
