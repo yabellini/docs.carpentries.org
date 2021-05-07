@@ -43,7 +43,7 @@ The Secretary of the Instructor Development Committee is responsible for:
 ##### Time Commitment
 
 - 1-2 hours/week 
-- 1 year term beginning 1-May
+- 1 year term beginning 1-May or 1-Nov
 
 ##### Requirements
 
@@ -62,7 +62,7 @@ The Communications Chair of the Instructor Development Committee is responsible 
 ##### Time Commitment
 
 - 1-2 hours/week 
-- 1 year term beginning 1-May
+- 1 year term beginning 1-May or 1-Nov
 
 ##### Requirements
 
@@ -84,7 +84,7 @@ The Mentoring Chair of the Instructor Development Committee is responsible for:
 ##### Time Commitment
 
 - 1-2 hours/week 
-- 1 year term beginning 1-May
+- 1 year term beginning 1-May or 1-Nov
 
 ##### Requirements
 
@@ -107,7 +107,7 @@ The primary responsibilities of the Discussion Session Coordinator are:
 ##### Time Commitment
 
 - 1-2 hours a week
-- 1 year term beginning 1-May
+- 1 year term beginning 1-May or 1-Nov
 
 ##### Requirements
 
@@ -125,7 +125,7 @@ The Special Projects Chair of the Instructor Development Committee is responsibl
 ##### Time Commitment
 
 - 1-2 hours/week 
-- 1 year term beginning 1-May
+- 1 year term beginning 1-May or 1-Nov
 
 ##### Requirements
 
