@@ -55,6 +55,14 @@ If you would like to watch an example teaching demo, there is a recording of one
 -  Clear Etherpad of data from your session.  
 -  Send each trainee an email letting them know they [passed](email_templates_trainers.html#trainee-did-pass-teaching-demo) or [did not pass](email_templates_trainers.html#trainee-didnt-pass-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and asking them to retry.
 
+##### Canceling a Demo
+
+Trainers may choose to cancel a teaching demo if few or no trainees have signed up, or due to a personal scheduling conflict.  If you need to cancel a teaching demo:
+
+- If there are trainees signed up, notify them you are canceling this demo and ask them to sign up for another. 
+- Remove the event from the [Etherpad][trainer-pad].
+- Notify [checkout@carpentries.org](mailto:checkout@carpentries.org) so we can remove this from the [Community Calendar][community-calendar].
+
 ##### Starting Points for Demos
 
 This table has moved. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*).
