@@ -51,7 +51,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 - If a trainee is teaching a Python lesson and their Jupyter notebook doesn't start, direct them to http://jupyter.org/try.
 
 ##### After the Demo
--  Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentires who passed and who did not pass.
+-  Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentries who passed and who did not pass.
 -  Clear Etherpad of data from your session.  
 -  Send each trainee an email letting them know they [passed](email_templates_trainers.html#trainee-did-pass-teaching-demo) or [did not pass](email_templates_trainers.html#trainee-didnt-pass-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and asking them to retry.
 
