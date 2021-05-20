@@ -5,9 +5,9 @@ The Trainers group meets regularly. Our meetings include three sections: 1) Disc
 
 #### Signing up to Teach an Instructor Training Event
 
-1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the [upcoming time period](scheduling_training_events.md). Trainers should sign up for as many days as they are available and hold those dates in their calendar until the schedule is confirmed.
-1. The Program Manager will confirm events with individual Trainers, at which point they are free to release all other dates on their calendar.
-1. The Program Manager will invite member sites to register for upcoming events. Accepted trainees from the open application process will be invited to register one month before each event.
+1. A Carpentries Core Team member will send an email to the Trainers list asking all Trainers to fill in their calendar for the [upcoming time period](scheduling_training_events.md). Trainers should sign up for as many days as they are available and hold those dates in their calendar until the schedule is confirmed.
+1. A Carpentries Core Team member will confirm events with individual Trainers, at which point they are free to release all other dates on their calendar.
+1. A Carpentries Core Team member will invite member sites to register for upcoming events. Accepted trainees from the open application process will be invited to register one month before each event.
 
 *Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrolment.  If this happens, trainees and Trainers will be notified two weeks before the event.  Trainees will have the opportunity to sign up for a future event.*
 
