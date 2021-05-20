@@ -70,14 +70,14 @@ This table has moved. Suggested lessons are available in the [Instructor Trainin
 
 [trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement
 [trainer-process]: ../instructor_training/trainers_training.html
-[trainer-pad]: http://pad.software-carpentry.org/trainers
-[community-calendar]: https://software-carpentry.org/join/#community-events
+[trainer-pad]: http://pad.carpentries.org/trainers
+[community-calendar]: https://carpentries.org/community/#community-events
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
-[Etherpad-template]: http://pad.software-carpentry.org/ttt-template
+[Etherpad-template]: http://pad.carpentries.org/ttt-template
 [googledoc-template]: https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit
 [training-template]: https://github.com/carpentries/training-template
 [minute-cards-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/edit
-[checkout-checklist]: http://www.datacarpentry.org/checkout/
+[checkout-checklist]: https://carpentries.github.io/instructor-training/checkout/
 [training-repo]: https://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
 [demo-video]: https://www.youtube.com/watch?v=FFO2cq-3PPg
