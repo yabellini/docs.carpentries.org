@@ -5,9 +5,9 @@ The Trainers group meets regularly. Our meetings include three sections: 1) Disc
 
 #### Signing up to Teach an Instructor Training Event
 
-1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the [upcoming time period](scheduling_training_events.md). Trainers should sign up for as many days as they are available and hold those dates in their calendar until the schedule is confirmed.
-1. The Program Manager will confirm events with individual Trainers, at which point they are free to release all other dates on their calendar.
-1. The Program Manager will invite member sites to register for upcoming events. Accepted trainees from the open application process will be invited to register one month before each event.
+1. A Carpentries Core Team member will send an email to the Trainers list asking all Trainers to fill in their calendar for the [upcoming time period](scheduling_training_events.md). Trainers should sign up for as many days as they are available and hold those dates in their calendar until the schedule is confirmed.
+1. A Carpentries Core Team member will confirm events with individual Trainers, at which point they are free to release all other dates on their calendar.
+1. A Carpentries Core Team member will invite member sites to register for upcoming events. Accepted trainees from the open application process will be invited to register one month before each event.
 
 *Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrolment.  If this happens, trainees and Trainers will be notified two weeks before the event.  Trainees will have the opportunity to sign up for a future event.*
 
@@ -23,11 +23,10 @@ Please see the [Instructor Notes](https://carpentries.github.io/instructor-train
 
 If you would like to watch an example teaching demo, there is a recording of one [here][demo-video]. Trainer-suggested scripts and other tips and tricks for hosting these sessions are included in the [Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html#vi-teaching-demonstration-tips) section of the Instructor Training Curriculum. 
 
-##### Before the demo
--  Sign up to [lead demos][demo-pad].  
--  Get acquainted with using [Zoom](../communications/tools/zoom_rooms.md) for videoconferencing.
-- a day or two before the demo, send a reminder email using the [email template](email_templates_trainers.html#reminder-teaching-demo). This often leads to people letting you know they cannot make it, or clarifications regarding what to prepare for (episode versus lesson)
--  For each trainee, pick a suitable starting point in the lesson that they have chosen. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
+##### Before the demo 
+- Get acquainted with using [Zoom](../communications/tools/zoom_rooms.md) for videoconferencing.
+- A day or two before the demo, send a reminder email using the [email template](email_templates_trainers.html#reminder-teaching-demo). This often leads to people letting you know they cannot make it, or clarifications regarding what to prepare for (episode versus lesson)
+- For each trainee, pick a suitable starting point in the lesson that they have chosen. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
 ##### During the Demo
 -  Go to the Zoom room. The link is in the [Etherpad][demo-pad].    
@@ -51,7 +50,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 - If a trainee is teaching a Python lesson and their Jupyter notebook doesn't start, direct them to http://jupyter.org/try.
 
 ##### After the Demo
--  Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentires who passed and who did not pass.
+-  Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentries who passed and who did not pass.
 -  Clear Etherpad of data from your session.  
 -  Send each trainee an email letting them know they [passed](email_templates_trainers.html#trainee-did-pass-teaching-demo) or [did not pass](email_templates_trainers.html#trainee-didnt-pass-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and asking them to retry.
 
@@ -70,14 +69,14 @@ This table has moved. Suggested lessons are available in the [Instructor Trainin
 
 [trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement
 [trainer-process]: ../instructor_training/trainers_training.html
-[trainer-pad]: http://pad.software-carpentry.org/trainers
-[community-calendar]: https://software-carpentry.org/join/#community-events
+[trainer-pad]: http://pad.carpentries.org/trainers
+[community-calendar]: https://carpentries.org/community/#community-events
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
-[Etherpad-template]: http://pad.software-carpentry.org/ttt-template
+[Etherpad-template]: http://pad.carpentries.org/ttt-template
 [googledoc-template]: https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit
 [training-template]: https://github.com/carpentries/training-template
 [minute-cards-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/edit
-[checkout-checklist]: http://www.datacarpentry.org/checkout/
+[checkout-checklist]: https://carpentries.github.io/instructor-training/checkout/
 [training-repo]: https://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
 [demo-video]: https://www.youtube.com/watch?v=FFO2cq-3PPg
