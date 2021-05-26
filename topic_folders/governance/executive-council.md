@@ -1,14 +1,75 @@
 ## The Carpentries Executive Council
 
-### About the Executive Council
+### Introduction
 
-The Carpentries Executive Council is the highest leadership body of The Carpentries. It is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the Council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organization’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of monthly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
+The Carpentries Executive Council is the highest leadership body of The Carpentries, to whom the Executive Director of 
+the Carpentries reports. The Council comprises nine members - four elected by the community and five appointed by the Executive Council. 
 
-The governance of The Carpentries by the Executive Council is outlined in the [Bylaws](bylaws.md).
+The Executive Council is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the Council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organization’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of monthly Executive Council meetings and regular correspondence and collaboration via email and online platforms. For the full description of the Executive Council’s roles and responsibilities, see the Executive Council section of the [Carpentries Bylaws](bylaws.html#executive-council). 
 
 In addition to [publicly posting meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes), the Executive Council reports on its activities periodically in [Carpentry Clippings](https://carpentries.org/newsletter/) (the organizational newsletter) as well as through [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance).
 The council also prepares [Yearly Summaries](https://github.com/carpentries/executive-council-info/tree/master/year-in-review) of its activities.
 
+### Executive Council's Standing Committees
+As of January 2021, the following standing committee structure was implemented as a practical way to manage the work and engagement of the Executive Council:
+
+- [Officers Committee](#officers-committee)
+- [Governance Committee](#governance-committee)
+- [Finance Committee](#finance-committee)
+- [Communications Committee](#communications-committee)
+- [Program Committee](#program-committee)
+
+Serving on a specific standing committee provides Executive Council members with the opportunity to bring their subject matter expertise to specific governance and operational priorities, deal with issues and projects more effectively and efficiently, and maximize time and resources between meetings. Each Executive Council member serves on at least one, but no more than two committees. When considered beneficial or necessary, these committees can have members from The Carpentries community and/or Core Team.
+
+In addition to the Standing committees, the Executive council may appoint Ad hoc committees to handle issues that are typically short-term and specialized in nature.
+
+#### Officers Committee
+This committee consists of the Executive Council Officers: Chair, Vice Chair, Secretary and Treasurer.
+
+**Roles & Responsibilities**
+- Act with full authority of the Executive Council between EC meetings when needed in urgent matters, subject to Executive Council imposed limitations on committee action
+Prioritize the agenda of the Executive Council meetings
+- Monitor the performance of the Executive Director, conduct their annual performance review, and make recommendations to the Executive Council regarding the Executive Director’s performance goals for the subsequent year
+- Provide a sounding board to the Executive Director and serve as a source of ready advice on operating and personnel matters
+- Obtain and evaluate relevant compensation information and make a recommendation to the Executive Council regarding the Executive Director’s compensation (including all benefits)
+- Provide support to the Executive Director and direction to the Executive Council on oversight of legal and operational issues
+- Lead Executive Council level oversight of the organization's long-term strategic plan and short-term annual planning, including annual review of strategic plan performance metrics against anticipated community end results (outcomes).
+
+#### Governance Committee
+This committee is chaired by the Vice Chair of the Executive Council.
+
+**Roles & Responsibilities**
+- Assessing the Executive Council’s performance as the governing body of The Carpentries 
+- Leading the writing, maintenance, and updates to the Carpentries bylaws, revising/re-approving the bylaws every 2 years, or as needed, according to the bylaws
+- Organizing the annual Executive Council retreat
+- Leading the process to identify, nominate, and onboard new Executive Council members
+- Suggesting special committees/task forces as needed and preparing for their formation as per the Committee Policy
+
+#### Finance Committee
+This committee is chaired by the Treasurer of the Executive Council.
+
+**Roles & Responsibilities**
+- Ensuring strong fiduciary oversight and financial management
+- Making sure financial reports are accurate
+- Overseeing the organization’s budget 
+- Identifying revenue streams and resource development
+- Advise on a strategy for establishing reserve funds, lines of credit, and short- and long-term investments
+
+#### Communications Committee
+This committee is chaired by the Secretary of the Executive Council.
+
+**Roles & Responsibilities**
+- Work to enhance The Carpentries public image
+- Prepare Public Statements from The Carpentries when needed
+- Ensure blog posts related to the work of the Executive council are published in a timely fashion
+- Write the Year-in-review summary of the major activities accomplished by the Executive Council
+
+#### Program Committee
+This committee can be chaired by any member of the Executive Council.
+
+**Roles & Responsibilities**
+- Evaluating The Carpentries programs and services
+- Making recommendations to strengthen programs and services in line with the Carpentries mission, vision, and strategic plan
 
 ### Contacting the Executive Council
 If you have a question or concern for the Executive Council,
@@ -18,7 +79,7 @@ there are three ways for communicating with Executive Council Members:
 2. **Send us an [email](mailto:carpentries-executive-council@carpentries.org).** This is appropriate for communicating directly with the Executive Council but not the rest of our community.
 3. **Submit [this form](https://forms.gle/Adi54ESBi5hHmcdu5).** This is preferable if you would like confidential communication with the Executive Council, or if you would like to remain anonymous.
 
-### The Carpentries Executive Council Documentation
+### Executive Council's Documentation
 
 The information below describes all procedures, routines and resources
 relevant for the Executive Council.
@@ -60,7 +121,7 @@ liaisons to Committees or Task Forces may have additional commitments for meetin
 agenda items for meetings, responding to email requests for opinions, and formal voting on resolutions (as issues in this
 repository), and work resulting from being on a task force or committee representing the Executive Council.
 
-### Officers
+### Executive Council Officers
 
 Executive Council officers are selected at the first regular meeting following election and appointment of new members and serve one year
 terms. Officer positions include:
@@ -78,8 +139,8 @@ More detailed descriptions can be found on the page describing the [Executive Co
 
 We use two mailing lists:
 
-* executive-council@carpentries.org: this is an internal list, and includes Executive Council and Executive Director; this list can only receive messages from list members
-* carpentries-executive-council@carpentries.org: recipients are Executive Council Chair and Vice Chair; anyone can send to this, allowing the community to communicate directly with the Executive Council (but not the rest of our community)
+* [executive-council@carpentries.org](mailto:executive-council@carpentries.org): this is an internal list, and includes Executive Council and Executive Director; this list can only receive messages from list members
+* [carpentries-executive-council@carpentries.org](mailto:carpentries-executive-council@carpentries.org): recipients are Executive Council Chair and Vice Chair; anyone can send to this, allowing the community to communicate directly with the Executive Council (but not the rest of our community)
 
 ### Meetings
 
