@@ -6,7 +6,7 @@ The CoC committee will attempt to ensure your safety and help with any immediate
 
 If there is an ongoing incident or a threat to physical safety, the committee’s immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.  
 
-The committee will make all efforts to meet within two business days to review the incident and determine next steps. Once the committee has a complete account of the events, they will make a decision as to how to respond. Examples of possible incident responses are outlined in The Carpentries [Enforcement Guidelines](enforcement-guidelines.md). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
+The committee will make all efforts to meet within two business days to review the incident and determine next steps such as setting a 1:1 meeting with the reporter(s) and/or reportee(s). Once the committee has a complete account of the events, they will make a decision as to how to respond. Examples of possible incident responses are outlined in The Carpentries [Enforcement Guidelines](enforcement-guidelines.md). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
 
 Once the committee has determined its resolution, the original reporter will be contacted to let them know what action (if any) will be taken. The committee will take into account feedback from the reporter on the appropriateness of its response but may decide not to act on that feedback.  
 
@@ -37,6 +37,7 @@ The following is a summary of the steps the Code of Conduct Committee takes when
 - After further collection and review of information, if needed, the IRG determines a resolution. Possible [resolutions](#resolutions) are located in this documentation and include, but are not limited to, a private reprimand, public reprimand, and termed suspension.
 - The IRL updates the reporter and  solicits feedback on the resolution. Feedback may or may not be used to update the resolution. 
 - The IRL updates the reportee(s).
+- IRG conducts a final meeting/communication to ensure that reportee understands the resolution and has an opportunity to clarify concerns.
 - The Core Team Liaison determines whether the [Termed Suspension Checklist](termed-suspension.md) should be employed or other actions taken.
 - Essential personnel are notified to implement any actions. Report details remain confidential. 
 - Decisions and outcomes are logged on the private Code of Conduct Committee GitHub repository. 
@@ -73,6 +74,7 @@ When following up with the reportee, the CoCc representatives will:
 - Give them the opportunity to state their view of the incident.
 - Remind them of the consequences of their behaviour, or future consequences if the behaviour is repeated.
 - Explain the possible resolutions that may be enforced should the CoCc determine there is a breach.
+- Conduct a final meeting to ensure that the reportee understands the resolution and has an opportunity to clarify concerns. In some cases, this final communication could be carried over email at the discretion of the IRG.
 
 ##### Resolutions
 
@@ -117,7 +119,7 @@ Appeals can be requested up to 30 days after a resolution has been determined.
 
 ##### Accountability
 
-The CoC committee will submit a report to The Carpentries Executive Council and The Carpentries Executive Director in the event of an ongoing resolution, such as a termed suspension or ban.  
+The CoC committee will submit a report to The Carpentries Executive Council and The Carpentries Executive Director in the event of an ongoing resolution such as a termed suspension or ban.  
 
 The CoC committee will never publicly discuss the details of an incident; any public statements will be made by The Carpentries Executive Council.  
 
