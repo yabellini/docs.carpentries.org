@@ -9,7 +9,7 @@
 * <s>25 February </s> 
 * <s>25 March</s> 
 * <s>22 April</s>
-* 27 May
+* <s>27 May</s>
 * 24 June
 * 22 July
 * 26 August
