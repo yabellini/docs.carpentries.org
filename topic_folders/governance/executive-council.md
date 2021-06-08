@@ -121,6 +121,31 @@ liaisons to Committees or Task Forces may have additional commitments for meetin
 agenda items for meetings, responding to email requests for opinions, and formal voting on resolutions (as issues in this
 repository), and work resulting from being on a task force or committee representing the Executive Council.
 
+#### Executive Council transparency in decision making
+
+The Executive Council, the Core Team and the Executive Director agreed on the following points:
+
+_1. The Executive Council should vote on:_
+
+* The strategic plan: approving mid to long term strategic direction priorities (Mid term 1 year and long term 3-5 years). Include voting on strategic alliances with outside organisations
+* The yearly budget: oversee the yearly budget and annual financial reports
+* By-laws: modifying and approving official policy changes biannually
+* Mission, vision, and values: defining, updating and approving the public mission, vision, and values statements
+* Council-elected members: Policy to identifying, appointing, and removing/ replacing council-elected members when necessary
+* Executive director: Appointing/removing the Executive Director when necessary
+
+_2. The Executive Council should advise on but not vote on:_
+* New staff appointments: Executive Council advice should continue to be considered alongside community members and The Core Team
+* Equity, inclusion and access matters
+* Approaches to growth in new regions
+* Formation of committees/sub communities, specially if they affect multiple communities
+
+_3. The Executive Council should be informed of (but no decision or advising expected):_
+
+* Decisions relating to Core Team changes
+* The Executive Council needs to be generally informed where groups have explicit powers that affect the culture of the organisation (e.g. Decisions of the Lessons Programs governance committees and Task Forces)
+
+
 ### Executive Council Officers
 
 Executive Council officers are selected at the first regular meeting following election and appointment of new members and serve one year
