@@ -111,3 +111,15 @@ any relevant channels on [The Carpentries Slack workspace](https://carpentries.o
 and/or [by publishing a post on our blog](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html).
 Please do not post calls for Instructors to the general channel on Slack, or the discuss and instructors lists on TopicBox: any messages to recruit Instructors will be removed from those channels. If after taking these steps, you find that you need help finding Instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org)
 for assistance.
+
+#### Creating a Pilot Workshop Webpage
+
+[The Carpentries workshop webpage template](https://github.com/carpentries/workshop-template)
+supports the creation of webpages for pilot workshops.
+See [the Customisation page of the template documentation](https://carpentries.github.io/workshop-template/customization/#configuration-file-_configyml)
+for details of how to configure the webpage for a pilot workshop.
+
+The Carpentries does not currently track pilot workshops in the same
+way as workshops teaching our official lessons,
+so you do not need to submit details of your workshop/webpage
+as you would when [hosting a self-organised workshop](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html#self-organised-workshop).
