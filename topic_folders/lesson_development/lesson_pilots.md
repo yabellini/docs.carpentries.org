@@ -1,0 +1,90 @@
+## Lesson Pilot Workshops
+
+### Purpose
+
+Teaching a lesson for the first time is very rewarding
+but the experience of the Instructors and Learners also
+identifies opportunities to address and further clarify
+parts of the content.
+This makes these early runs through a lesson,
+which we refer to as _lesson pilots_,
+crucial milestones in the development of a high-quality lesson.
+As well as teaching new and exciting skills to learners,
+the additional purpose of pilot workshops is to collect information
+and feedback that can be used to polish content
+and make the lesson more reusable by other Instructors
+e.g. by recording accurate timings for episodes and exercises,
+expanding Instructor Notes, etc.
+
+#### Alpha and Beta Pilots
+
+The lesson development process includes pilot workshops at
+two different stages, which we refer to as _alpha_ and _beta_ pilots.
+Alpha pilots are the first workshops where the lesson is taught,
+almost always by some or all of the original developers of the lesson.
+
+After the feedback from these alpha pilots has been used to improve
+the lesson, it can enter the beta stage, where other Instructors -
+who did not have a major part in the previous development of the lesson -
+teach it and provide feedback.
+
+For more information about these pilots,
+and the requirements for piloting official Carpentries lessons,
+see [the Lesson Life Cycle chapter of The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/the-lesson-life-cycle.html).
+
+### Information for Lesson Developers
+
+#### Finding Hosts for Beta Pilots
+
+If you are developing a new official Carpentries lesson -
+a lesson developed based on prior agreement with The Carpentries,
+intended to become another lesson/curriculum offered
+in centrally-organised workshops -
+[the Curriculum Team](mailto:team@carpentries.org) will help you
+find hosts and Instructors for pilot workshops.
+
+If you are developing a lesson in The Carpentries Incubator,
+we encourage you to try to find hosts for pilot workshops yourself.
+You can do this by putting out a call for hosts via
+[the `discuss` TopicBox list](https://carpentries.topicbox.com/groups),
+[the `general` channel on The Carpentries Slack workspace](https://carpentries.org/connect/),
+[by publishing a post on our blog](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html),
+and/or by any other communications channel that you think appropriate
+(e.g. the mailing list of a specific community likely to be interested in the lesson topic).
+You may find this
+[template blog post](https://docs.google.com/document/d/1z8QmxDIiew-p1d8aLzXa0vt0FLUHNtK3oS3tucyrRsI/edit?usp=sharing)
+and/or this
+[template email message](https://docs.google.com/document/d/1hHnm-Ljb_o_rNd9bvQ83ilq40KoGoEfMPTSrFS4QOj8/edit?usp=sharing)
+helpful starting points.
+If after taking these steps,
+you find that you need help finding hosts to pilot your lesson,
+or if you have any questions about the lesson pilot process for
+lessons in The Carpentries Incubator,
+you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org).
+
+### Information for Hosts
+
+#### Recruiting Instructors for Beta Pilots
+
+If you are hosting a pilot of a new official Carpentries lesson -
+a lesson developed based on prior agreement with The Carpentries,
+intended to become another lesson/curriculum offered
+in centrally-organised workshops -
+[the Curriculum Team](mailto:team@carpentries.org) will help you
+find Instructors for pilot workshops.
+
+The Carpentries is also keen to support the development and piloting
+of lessons in The Carpentries Incubator.
+If you are hosting a pilot of a lesson in the Incubator,
+we ask that you **first** try to find Instructors for pilot workshops yourself.
+Often, hosts are able to recruit certified Instructors from their local
+community
+with relevant knowledge of the lesson topic
+but in some cases this will not be possible.
+If you wish to recruit Instructors for a pilot workshop,
+try putting a call out on
+[local/regional community mailing lists](https://carpentries.topicbox.com/groups),
+any relevant channels on [The Carpentries Slack workspace](https://carpentries.org/connect/) (the lesson authors may be able to direct you to these),
+and/or [by publishing a post on our blog](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html).
+Please do not post calls for Instructors to the general channel on Slack, or the discuss and instructors lists on TopicBox: any messages to recruit Instructors will be removed from those channels. If after taking these steps, you find that you need help finding Instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org)
+for assistance.
