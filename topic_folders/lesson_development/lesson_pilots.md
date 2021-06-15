@@ -62,6 +62,29 @@ or if you have any questions about the lesson pilot process for
 lessons in The Carpentries Incubator,
 you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org).
 
+#### Collecting Feedback on the Lesson
+
+Feedback from learners will be a valuable source of information
+and suggestions about how your lesson could be further improved after the pilot.
+The standard Carpentries pre- and post-workshop surveys
+do not support lesson pilots
+so you will need to create your own surveys to send out before/after a pilot workshop.
+Although surveys for pilot workshops will frequently include questions
+that are specific to the particular lesson being trialled,
+there are some standard feedback questions that can be asked after a pilot
+to assess the design and flow of the lesson.
+This [template post-pilot workshop survey](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)
+can be copied and adapted to suit the needs of your lesson,
+and shared with learners in place of the standard post-workshop survey.
+
+It is also important to gather information about the lesson
+while it is being taught.
+Check
+[the Lesson Life Cycle chapter of The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/the-lesson-life-cycle.html#field-testing-alpha-stage)
+for a list of things to take note of during the pilot workshop.
+We recommend assigning a specific person or people with responsibility
+to keep track of these points, e.g. an Instructor or Helper.
+
 ### Information for Hosts
 
 #### Recruiting Instructors for Beta Pilots
