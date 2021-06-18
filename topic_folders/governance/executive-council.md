@@ -123,7 +123,7 @@ repository), and work resulting from being on a task force or committee represen
 
 #### Executive Council transparency in decision making
 
-The Executive Council, the Core Team and the Executive Director agreed on the following points:
+The Executive Council, the Core Team and the Executive Director [agreed](https://github.com/carpentries/executive-council-info/issues/61) on the following points:
 
 _1. The Executive Council should vote on:_
 
