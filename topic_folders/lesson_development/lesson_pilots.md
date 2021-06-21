@@ -116,7 +116,7 @@ for assistance.
 [The Carpentries workshop webpage template](https://github.com/carpentries/workshop-template)
 supports the creation of webpages for pilot workshops.
 See [the Customisation page of the template documentation](https://carpentries.github.io/workshop-template/customization/#configuration-file-_configyml)
-for details of how to configure the webpage for a pilot workshop.
+for instructions on how to configure the webpage for a pilot workshop.
 
 The Carpentries does not currently track pilot workshops in the same
 way as workshops teaching our official lessons,
