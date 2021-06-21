@@ -81,7 +81,7 @@ while it is being taught.
 Check
 [the Lesson Life Cycle chapter of The Carpentries Curriculum Development Handbook](https://cdh.carpentries.org/the-lesson-life-cycle.html#field-testing-alpha-stage)
 for a list of things to take note of during the pilot workshop.
-We recommend assigning a specific person or people with responsibility
+We recommend assigning a specific person or people
 to keep track of these points, e.g. an Instructor or Helper.
 
 ### Information for Hosts
