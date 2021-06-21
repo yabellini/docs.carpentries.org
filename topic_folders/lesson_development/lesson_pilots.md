@@ -108,7 +108,7 @@ try putting a call out on
 [local/regional community mailing lists](https://carpentries.topicbox.com/groups),
 any relevant channels on [The Carpentries Slack workspace](https://carpentries.org/connect/) (the lesson authors may be able to direct you to these),
 and/or [by publishing a post on our blog](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html).
-Please do not post calls for Instructors to the general channel on Slack, or the discuss and instructors lists on TopicBox: any messages to recruit Instructors will be removed from those channels. If after taking these steps, you find that you need help finding Instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org)
+Please do not post calls for Instructors to the general or instructors channel on Slack, or the discuss and instructors lists on TopicBox: any messages to recruit Instructors will be removed from those channels. If after taking these steps, you find that you need help finding Instructors for your lesson pilot, you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org)
 for assistance.
 
 #### Creating a Pilot Workshop Webpage
