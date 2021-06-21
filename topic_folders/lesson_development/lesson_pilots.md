@@ -64,7 +64,7 @@ you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org).
 #### Collecting Feedback on the Lesson
 
 Feedback from learners will be a valuable source of information about
-and suggestions about how your lesson could be further improved after the pilot.
+and suggestions for how your lesson could be further improved after the pilot.
 The standard Carpentries pre- and post-workshop surveys
 do not support lesson pilots
 so you will need to create your own surveys to send out before/after a pilot workshop.
