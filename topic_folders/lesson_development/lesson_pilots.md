@@ -63,7 +63,7 @@ you can [contact incubator@carpentries.org](mailto:incubator@carpentries.org).
 
 #### Collecting Feedback on the Lesson
 
-Feedback from learners will be a valuable source of information
+Feedback from learners will be a valuable source of information about
 and suggestions about how your lesson could be further improved after the pilot.
 The standard Carpentries pre- and post-workshop surveys
 do not support lesson pilots
