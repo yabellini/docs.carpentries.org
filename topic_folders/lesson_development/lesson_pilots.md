@@ -69,7 +69,7 @@ The standard Carpentries pre- and post-workshop surveys
 do not support lesson pilots
 so you will need to create your own surveys to send out before/after a pilot workshop.
 Although surveys for pilot workshops will frequently include questions
-that are specific to the particular lesson being trialled,
+that are specific to the particular lesson being piloted,
 there are some standard feedback questions that can be asked after a pilot
 to assess the design and flow of the lesson.
 This [template post-pilot workshop survey](https://docs.google.com/forms/d/1OGCQBotD2nOJkc7KpFZLhFfb3EBcxEDwHz_3p48qz3U/template/preview)
