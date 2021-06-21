@@ -9,6 +9,7 @@ For more information on lesson development with The Carpentries, please visit `T
 
    lesson_development_roles.md
    lesson_sprint_recommendations.md
+   lesson_pilots.md
    bug_bbq.md
    lesson_release.md
    email_templates.md
