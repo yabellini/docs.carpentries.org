@@ -101,7 +101,7 @@ If you are hosting a pilot of a lesson in the Incubator,
 we ask that you **first** try to find Instructors for pilot workshops yourself.
 Often, hosts are able to recruit certified Instructors from their local
 community
-with relevant knowledge of the lesson topic
+with relevant knowledge of the lesson topic,
 but in some cases this will not be possible.
 If you wish to recruit Instructors for a pilot workshop,
 try putting a call out on
