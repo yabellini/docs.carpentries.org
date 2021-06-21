@@ -90,7 +90,7 @@ to keep track of these points, e.g. an Instructor or Helper.
 
 If you are hosting a pilot of a new official Carpentries lesson -
 a lesson developed based on prior agreement with The Carpentries,
-intended to become another lesson/curriculum offered
+and which is intended to become another lesson/curriculum offered
 in centrally-organised workshops -
 [the Curriculum Team](mailto:team@carpentries.org) will help you
 find Instructors for pilot workshops.
