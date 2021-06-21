@@ -3,7 +3,7 @@
 ### Purpose
 
 Teaching a lesson for the first time is very rewarding
-but the experience of the Instructors and Learners also
+but the experience of the Instructors and learners also
 identifies opportunities to address and further clarify
 parts of the content.
 This makes these early runs through a lesson,
