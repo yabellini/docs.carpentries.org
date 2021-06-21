@@ -44,7 +44,7 @@ in centrally-organised workshops -
 find hosts and Instructors for pilot workshops.
 
 If you are developing a lesson in The Carpentries Incubator,
-You can do this by putting out a call for hosts via
+you can recruit pilot hosts by putting out a call via
 [the `discuss` TopicBox list](https://carpentries.topicbox.com/groups),
 [the `general` channel on The Carpentries Slack workspace](https://carpentries.org/connect/),
 [by publishing a post on our blog](https://docs.carpentries.org/topic_folders/communications/guides/submit_blog_post.html),
