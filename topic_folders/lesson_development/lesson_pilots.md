@@ -118,7 +118,20 @@ supports the creation of webpages for pilot workshops.
 See [the Customisation page of the template documentation](https://carpentries.github.io/workshop-template/customization/#configuration-file-_configyml)
 for instructions on how to configure the webpage for a pilot workshop.
 
-The Carpentries does not currently track pilot workshops in the same
-way as workshops teaching our official lessons,
-so you do not need to submit details of your workshop/webpage
-as you would when [hosting a self-organised workshop](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html#self-organised-workshop).
+If you are piloting a new official Carpentries lesson -
+a lesson developed based on prior agreement with The Carpentries,
+and which is intended to become another lesson/curriculum offered
+in centrally-organised workshops -
+please [register your pilot as a Self-Organised Workshop](https://amy.carpentries.org/forms/self-organised/).
+If you do not see the lesson/curriculum being piloted listed
+as one of the choices on that form,
+please contact [The Carpentries Core Team](mailto:team@carpentries.org).
+
+The Carpentries does not currently track pilot workshops
+for lessons in The Carpentries Incubator,
+so you do not need to submit details of your workshop to
+The Carpentries.
+Nevertheless, we strongly encourage you to create a workshop webpage
+and to communicate with the lesson authors
+so that they are aware of your pilot workshop and can benefit
+from the feedback you collect.
