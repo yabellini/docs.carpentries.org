@@ -25,11 +25,19 @@ Self-Organised Workshop
 .. note:: 
     **Recruitment of Instructors for Self-Organised workshops**
 
-    If you are organising a Self-Organised workshop, there are resources for you to recruit Instructors, Supporting Instructors, and/or Helpers. Below are the channels you can use: 
+    While Self-Organised workshops are not managed by The Carpentries Workshop Administration Team, we want to be able to provide you with resources to make the load lighter.       When hosting a Carpentries workshop there are many steps in the coordination process. One of the most important components is ensuring you have Instructors to teach your         workshop. This can be even more difficult when you have to recruit the instructors for a Self-Organised workshop.
+
+    The Workshop Administration Team has seen an increase in both Self-Organised workshops and Centrally-Organised workshops. With this increase, we have also seen a decrease 
+    in the amount of available instructors to teach Centrally-Organised workshops. As an organisation, we need to ensure that we are able to provide Instructors for our paid         workshops while also providing resources for Self-Organised workshops.
+    
+    
+    To ensure the Instructor community is not oversaturated with request to teach, the Workshop Administration Team has identified specific places for recruiting Instructors,       Supporting Instructors and/or helpers for a Self-Organised workshop. Below are the channels you can use: 
 
     - Any local or group specific mailing list on `TopicBox <https://carpentries.topicbox.com/groups>`_
 
     - Any local or group specific Slack channel
+    
+    *These channels were designed specifically for community members to communicate about specific needs and to build local capacity*. 
 
     We ask that you only use the resources listed above. Please **do not** use the following channels. Any recruitment messages used on these channels will be removed.
 
@@ -37,7 +45,9 @@ Self-Organised Workshop
 
     * `General Channel <https://swcarpentry.slack.com/archives/C03LE48AY>`_ on Slack
 
-    * `Instructors Channel <https://swcarpentry.slack.com/archives/C08BVNU00>`_ on Slack
+    * `Instructors Channel <https://carpentries.topicbox.com/groups/instructors>`_ on TopicBox
+    
+    * `Instructors List <https://swcarpentry.slack.com/archives/C08BVNU00>`_ on Slack
 
 
 In both cases, the host site is expected to pay for instructor travel (if needed) and
