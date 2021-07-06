@@ -22,6 +22,31 @@
 - Angelique van Rensburg works with  <a href="https://carpentries.org/">The Carpentries</a> as the Regional Consultant for Southern Africa, and is ready to help you with any questions you have about running **Carpentries workshops** or any other ways you can get involved with **The Carpentries in Africa**!  Contact her at [admin-afr@carpentries.org](mailto:admin-afr@carpentries.org)
 
 
+### CarpentryConnect South Africa 2021 ###
+
+6 - 17 September 2021
+
+#### 2 weeks · 2 Carpentries Workshops · 1 Carpentries Instructor Training ·2 Networking + Learning Sessions · 1 Keynote ####
+
+
+#### What is CarpentryConnect ZA 2021? ####
+
+The main goal of CarpentryConnect South Africa 2021 is to build capacity for workshops through instructor training, and establish a network for the regional Carpentries community.
+
+CarpentryConnects are community convenings, organised to bring together community members of The Carpentries that are in close proximity geographically for knowledge exchange, collaboration, and networking.
+
+[The first South African CarpentryConnect](https://carpentries.org/blog/2019/01/carpentryconnect-jhb2018/) took place in Johannesburg, South Africa in September 2018. CarpentryConnect South Africa 2021 will build on the successes of that first event, with an aim to bring together and grow the Carpentries community in South Africa even further.
+
+The second South African CarpentryConnect will be held virtually and will bring together newer and more experienced community members to share knowledge, network, to develop new skills, and to develop strategies for building strong local communities around digital and computational literacy at universities in the country.
+
+CarpentryConnect South Africa 2021 is designed for:
+- current Carpentries community members based in Africa
+- those looking to learn foundational coding and data science skills,
+- those who would like to train and become Carpentries instructors,
+- all interested in conducting efficient, open, and reproducible research.
+
+For more information visit: [https://za2021.carpentryconnect.org/](https://za2021.carpentryconnect.org/)
+
 ### Join Us
 
 To join the conversation about The Carpentries in Africa, sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#african-carpentries](https://swc-slack-invite.herokuapp.com/). If you’ve trained as an instructor in Africa (even if you’re not qualified yet), sign up at [Topicbox](https://carpentries.topicbox.com/groups/instructors)
