@@ -35,7 +35,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 -  Give the assignment to the first trainee, then give them a bit of time to set up the demo (they may have to import some packages, load some data, move to a certain folder etc).  
 -  Ask them to share their screen using the “Share Screen” lower menu in Zoom.  
 -  Once they are ready, give them a 3-2-1 countdown to start.  
--  Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone), or just say “bong” really loudly at the end of their time.  
+-  Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone or the Carpentries cuckoo timer linked in the [teaching-demos Etherpad][demo-pad]), or just say “bong” really loudly at the end of their time.
 -  After the five minute timer, allow them to finish their sentence and tell them time’s up.
 -  Use a [rubric][demo-rubric] to help you take notes.   
 -  After the trainee is finished, first ask how they themselves thought it went. If you have time, other trainees can give verbal feedback, or you can summarise what is in the Etherpad. Then, give focused, constructive feedback based on your notes and the comments of others. You might choose one or two things to particularly emphasise to help focus trainees' efforts as they proceed to teach a workshop. It is also sometimes necessary to take time to (gently) disagree with feedback from another trainee.
