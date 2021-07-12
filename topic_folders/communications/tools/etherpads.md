@@ -2,7 +2,7 @@
 
 #### General Usage
 
-The Carpentries offers the use of our [Etherpads](https://pad.carpentries.org/) as collaborative note taking tool during workshops, training events, and other Carpentries related events.
+The Carpentries offers the use of our [Etherpads](https://pad.carpentries.org/) as collaborative note taking tool during workshops, training events, and other Carpentries related events.  A list of our most commonly used pads and other resources can be found on our [pad-of-pads](https://pad.carpentries.org/pad-of-pads).
 
 A new Etherpad can be created by appending a descriptive name to the url `https://pad.carpentries.org/`, such as `https://pad.carpentries.org/committeename`.
 
