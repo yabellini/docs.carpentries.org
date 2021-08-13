@@ -2,7 +2,7 @@
 
 #### Host Checklist
 
-A workshop host contacts The Carpentries Core Team about running a workshop.  They will work with The Carpentries Workshop Administration Team to plan and implement the workshop.
+A workshop host contacts The Carpentries Core Team about running a workshop. They will work with The Carpentries Workshop Administration Team to plan and implement the workshop.
 
 **Before the workshop, the host will**
 
@@ -48,7 +48,7 @@ The Workshop Administration Team will introduce workshop hosts and instructors.
 **Before the workshop, instructors will**
 
 1. Decide on the order of the lessons and who will teach what modules
-1. Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and send to The Carpentries Workshop Administration Team.  Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
+1. Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and it send to The Carpentries Workshop Administration Team.  Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
 1. Create a collaborative document for the workshop (e.g. an [Etherpad](https://pad.carpentries.org/))
 1. Assist the host in recruiting helpers if possible
 1. Assist the host in ensuring the workshop location is accessible
@@ -58,7 +58,7 @@ The Workshop Administration Team will introduce workshop hosts and instructors.
 1. Join a [community discussion](https://pad.carpentries.org/community-discussions)
 1. Confirm criteria for reimbursement (*per diem* or save receipts)
 
-**During the workshop instructors will**
+**During the workshop, instructors will**
 
 1. Review Code of Conduct with learners
 1. Remind learners to use sticky notes to give feedback
@@ -66,7 +66,7 @@ The Workshop Administration Team will introduce workshop hosts and instructors.
 1. Support host in collecting attendee names and emails
 1. Send out the post-workshop survey at the very end of the workshop
 
-**After the workshop instructors will**
+**After the workshop, instructors will**
 
 1. Remind the host to send workshop attendance data to The Carpentries Workshop Administration Team
 1. Submit receipts for reimbursement
@@ -78,7 +78,7 @@ The Workshop Administration Team will introduce workshop hosts and instructors.
 
 Helpers are often recruited from the local community at the host site to support Carpentries workshops.  Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
 
-**Before a workshop helpers will**
+**Before a workshop, helpers will**
 
 1. Introduce themselves to the instructors, letting them know any particular areas of expertise
 1. Review the curriculum the instructors will be teaching
@@ -86,13 +86,13 @@ Helpers are often recruited from the local community at the host site to support
 1. Make sure the instructors have listed you on the workshop website
 
 
-**During the workshop helpers will**
+**During the workshop, helpers will**
 
 1. Help learners with setup problems or anywhere else they get stuck
 1. Monitor room for anyone who may need help.  Learners may put up a red sticky note or indicate in other ways that they are stuck.
 1. Monitor any questions that come up on the collaborative document and answer them or remind the instructor about them during a break.
 
-**After the workshop helpers will**
+**After the workshop, helpers will**
 
 1. Send their own feedback to the instructors and the Workshop Administration Team including any configuration problems
 1. Consider applying to become a certified Carpentries instructor
