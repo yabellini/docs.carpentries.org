@@ -123,7 +123,7 @@ Avoid saying things like:
 - "It is too easy..."
 - "It is too hard..."
 - "I cannot believe you do not know X ..."
-- Say negative things about any applications or OS (Word, Excel, Windows, Mac, GUI). No tool is perfect, and this kind of disdain is not productive or conducive to the learning process.
+- Negative things about any applications or OS (Word, Excel, Windows, Mac, GUI): No tool is perfect, and this kind of disdain is not productive or conducive to the learning process.
 
 
 **Code of Conduct (Summary View)**  
