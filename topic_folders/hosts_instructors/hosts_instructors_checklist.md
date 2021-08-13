@@ -48,7 +48,7 @@ The Workshop Administration Team will introduce workshop hosts and instructors.
 **Before the workshop, instructors will**
 
 1. Decide on the order of the lessons and who will teach what modules
-1. Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and it send to The Carpentries Workshop Administration Team.  Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
+1. Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and send it to The Carpentries Workshop Administration Team.  Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
 1. Create a collaborative document for the workshop (e.g. an [Etherpad](https://pad.carpentries.org/))
 1. Assist the host in recruiting helpers if possible
 1. Assist the host in ensuring the workshop location is accessible
