@@ -1,33 +1,80 @@
 ## Lesson Development Roles
 
-### Curriculum Advisory Committee
+### Curriculum Advisory Committees
 
 Curriculum Advisors are part of a team that provides the oversight, vision, and leadership for a particular set of lessons. Advisors represent The Carpentries community and should strive to embody The Carpentries philosophy by:
+
 - Recognising the importance of communication and being welcoming to all contributors.
 - Giving feedback to contributors using The Carpentries model:
-  - Find what’s good. Be specific about improvements needed. Use motivational language.
-  - Evaluating lesson contributions in light of The Carpentries pedagogical model:
-  - Teach what’s most relevant and useful for learners.
-  - Avoid getting bogged down in technical details.
-  - Keep language motivating. 
-  - Emphasise the importance of continued learning and improvement.
+- Find what is good. Be specific about improvements needed. Use motivational language.
+- Evaluating lesson contributions in light of The Carpentries pedagogical model:
+- Teach what is most relevant and useful for learners.
+- Avoid getting bogged down in technical details.
+- Keep language motivating.
+- Emphasise the importance of continued learning and improvement.
 
-Curriculum Advisors are responsible for: 
+#### Meetings
+Each Curriculum Advisory Committee will meet at least quarterly, and preferably every two months. These meetings are the primary avenue through which CAC members will interact, and should follow best practices for The Carpentries meetings, including having meeting [roles](#meeting-roles), taking notes, and creating and holding a space for everyone to contribute. CAC members should prepare for meetings by reading and contributing to relevant documents in advance of the meeting. 
 
-- Routinely, as needed:
-  - Responding to requests for comments on curriculum in GitHub.
-  - Acting as Maintainers for the workshop homepage repository for their curriculum - making sure it’s up to date with the overall 
-  goals of the workshops, correcting links to curriculum, and updating as needed.
+#####  <a name="meeting-roles">Meeting Roles</a>
+The Chair will assign the following rotating roles for each meeting:
+- Facilitator - Introduces each agenda item. Monitors both the chat and the visual meeting window for “hands”, keeps track of order, and says whose turn it is to speak. Makes sure everyone has a chance to share their views.
+- Notetaker - Records meeting attendance and major points of discussion. Especially takes note of decisions and action items.
+- Timekeeper - Pays attention to the clock and notifies the group when time for specific agenda items is running short.
 
-- Meet bi-annually to:
-  - Discuss curricular updates that have been proposed by Instructors, Maintainers, or other community members.
-  - Provide recommendations for other potential updates based on current approaches in the field.
-  - Discuss proposals for new lesson ideas and provide recommendations about whether they should be developed or accepted and whether they should be incorporated into existing workshop curriculum or standalone.
-  - Provide a written report of the meeting regarding decisions around curriculum updates and recommendations.
-  - Review individual lessons to make sure curriculum-level learning objectives are being met by the set of lessons.
-  - Prepare the workshop homepage repository for lesson release. Curriculum Advisors will be listed as Editors for this repository at release.
+##### Meeting Minutes
+The Secretary will use the written meeting notes to prepare official minutes, and post these minutes to the appropriate GitHub repository listed below:
 
-Curriculum Advisors commit to serving a one year term, but are welcome to continue for additional years.
+- [Data Carpentry](https://github.com/datacarpentry/curriculum-advisors)
+- [Library Carpentry](https://github.com/LibraryCarpentry/curriculum-advisors)
+- [Software Carpentry](https://github.com/swcarpentry/curriculum-advisors)
+
+Minutes should include: 
+- Date and time of meeting
+- Names of those in attendance
+- Agenda items discussed and a summary of each discussion
+- The outcomes of any votes taken
+
+Minutes must be approved by Chair before posting.
+
+#### Committee Roles
+A Curriculum Advisory Committee consists of 5-8 members, including a Chair and a Secretary. The roles and responsibilities for Chair, Secretary, and other members are detailed below.
+
+##### Chair
+- Prepare agenda for regular meetings, including time estimates for each item.
+- Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of meeting.
+- Assign [meeting roles](#meeting-roles).
+- Serve as primary point of contact for Maintainers
+- Watch lesson repositories for instances where the CAC is mentioned. Respond in a timely fashion, including letting Maintainers and contributors know when items are going to be considered at the next meeting.
+- Generally watch lesson repositories for items that may come under the CAC’s purview, according to the CAC consultation rubric, even if not mentioned.
+- Communicate with lesson Maintainers and contributors, through GitHub issues, about decisions made by the CAC. Put contributors and Maintainers in touch with CAC members who will assist with implementation. 
+- Notify Curriculum Team Lead (Toby Hodges) if a CAC member needs to step down mid-term or becomes unresponsive to communications, so that Core Team can help recruit replacement if needed. 
+- Approve meeting minutes. 
+- Fulfill all other responsibilities of a CAC member. 
+
+##### Secretary
+- Schedule regular meetings. 
+- Arrange meeting room logistics. 
+- Send calendar invites. 
+- Send meeting reminders. 
+- Prepare meeting minutes and post to the appropriate CAC repository. 
+- Fulfill all other responsibilities of a CAC member. 
+
+##### Other members
+- Notify Chair of potential agenda items as they arise.
+- Read agenda and other relevant documents sent by Chair prior to meeting.
+- Attend and actively participate in regular meetings by listening and sharing knowledge, expertise, ideas, and information.
+- Participate in asynchronous voting through GitHub as needed. 
+- Work with community members and Maintainers to implement voted upon changes as needed.
+- (Optional) Be involved in discussions on GitHub with Maintainers and community members when CAC is mentioned. 
+
+#### Term lengths, recruitment, and onboarding
+
+Curriculum Advisors commit to serving a two year term, but are welcome to continue for additional years. 
+
+Additional details about recruitment and onboarding cycles will be posted in September 2021.
+
+#### Current Curriculum Advisors
 
 * [Curriculum Advisors, Data Carpentry](https://datacarpentry.org/lesson-leadership/)
 * [Curriculum Advisors, Library Carpentry](https://librarycarpentry.org/cac/)
