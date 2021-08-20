@@ -25,9 +25,9 @@ The Chair will assign the following rotating roles for each meeting:
 ##### Meeting Minutes
 The Secretary will use the written meeting notes to prepare official minutes, and post these minutes to the appropriate GitHub repository listed below:
 
-- [Data Carpentry](https://github.com/datacarpentry/curriculum-advisors)
-- [Library Carpentry](https://github.com/LibraryCarpentry/curriculum-advisors)
-- [Software Carpentry](https://github.com/swcarpentry/curriculum-advisors)
+- [Data Carpentry Curriculum Advisors repo](https://github.com/datacarpentry/curriculum-advisors)
+- [Library Carpentry Curriculum Advisors repo](https://github.com/LibraryCarpentry/curriculum-advisors)
+- [Software Carpentry Curriculum Advisors repo](https://github.com/swcarpentry/curriculum-advisors)
 
 Minutes should include: 
 - Date and time of meeting
