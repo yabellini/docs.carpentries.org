@@ -6,7 +6,7 @@ Curriculum Advisors are part of a team that provides the oversight, vision, and 
 
 - Recognising the importance of communication and being welcoming to all contributors.
 - Giving feedback to contributors using The Carpentries model:
-- Find what is good. Be specific about improvements needed. Use motivational language.
+- Finding what is good. Be specific about improvements needed. Use motivational language.
 - Evaluating lesson contributions in light of The Carpentries pedagogical model:
   - Teach what is most relevant and useful for learners.
   - Avoid getting bogged down in technical details.
