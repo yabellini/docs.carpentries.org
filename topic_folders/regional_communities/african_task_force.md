@@ -12,8 +12,8 @@
 * <s>27 May</s>
 * <s>24 June</s>
 * <s>22 July</s>
-* 26 August
-* 23 September
+* <s>26 August</s>
+* 7 and 16 September 2021 14:00 - 15:00 SAST/12:00-13:00 UTC (see Networking events during [https://za2021.carpentryconnect.org/](https://za2021.carpentryconnect.org/))
 * 28 October
 * 25 November
 
