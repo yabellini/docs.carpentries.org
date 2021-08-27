@@ -2,7 +2,11 @@
 
 ### Curriculum Advisory Committees
 
-Curriculum Advisors are part of a team that provides the oversight, vision, and leadership for a particular set of lessons. Advisors represent The Carpentries community and should strive to embody The Carpentries philosophy by:
+Curriculum Advisors are part of a team that provides the oversight, vision, and leadership for a particular set of lessons.
+The division of responsibilities between Curriculum Advisors and Maintainers is detailed 
+in [this consultation rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
+
+Curriculum Advisors represent The Carpentries community and should strive to embody The Carpentries philosophy by:
 
 - Recognising the importance of communication and being welcoming to all contributors.
 - Giving feedback to contributors using The Carpentries model:
