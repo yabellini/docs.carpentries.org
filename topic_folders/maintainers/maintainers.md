@@ -5,6 +5,9 @@ The Carpentries Maintainers work with the community to make sure that lessons st
 their lesson repository, make sure that PRs and Issues are addressed in a timely manner, and participate in the lesson development cycle
 including lesson releases. They endeavour to be welcoming and supportive of contributions from all members of the community.
 
+The division of responsibilities between Maintainers and Curriculum Advisors is detailed 
+in [this consultation rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
+
 Maintainers are responsible for:
  - Routinely:
     - Ensuring reasonable response time to all submitted Issues and PRs. At a minimum, ensuring all Issues and PRs are acknowledged within two days.
