@@ -127,11 +127,12 @@ If you do not see the lesson/curriculum being piloted listed
 as one of the choices on that form,
 please contact [The Carpentries Core Team](mailto:team@carpentries.org).
 
-The Carpentries does not currently track pilot workshops
-for lessons in The Carpentries Incubator,
-so you do not need to submit details of your workshop to
-The Carpentries.
-Nevertheless, we strongly encourage you to create a workshop webpage
-and to communicate with the lesson authors
-so that they are aware of your pilot workshop and can benefit
-from the feedback you collect.
+For workshops teaching lessons in The Carpentries Incubator,
+you should create a workshop webpage but should not submit the workshop
+details to The Carpentries team via the form linked above.
+Instead, if you want to tell the community about your event
+you can do so by filling in
+the form under _Workshops_ on
+[The Incubator homepage](https://carpentries-incubator.org/).
+Workshops submitted there will be processed by the Curriculum Team and will
+be listed in the table on that page.
