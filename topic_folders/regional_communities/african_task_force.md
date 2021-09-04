@@ -67,6 +67,8 @@ Since then more than 100 African instructors have participated in online or in-p
 
 ### Blog posts on Carpentries activities in Africa
 
+- [Highlighting our strategic plan efforts to support local community building](https://carpentries.org/blog/2021/07/Highlighting-our-strategic-plan-efforts-to-support-local-community-building/) by Kari L. Jordan and Angelique Trusler
+- [Registration for CarpentryConnect South Africa 2021 now open!](https://carpentries.org/blog/2021/06/CarpentryConnectSouthAfrica/) by Angelique Trusler
 - [University of the Western Cape’s first Data Carpentry Workshop of 2021](https://carpentries.org/blog/2021/05/uwc-first-data-carpentry-workshop/) by Sarah Schäfer.
 - [Our First Workshop - Bioinformatics Hub of Kenya](https://carpentries.org/blog/2021/05/our-First-Workshop/) by Pauline Karega, Michael Kofia ane Festus Nyasimi.
 - [Reflections on my First Data Carpentry Workshop](https://carpentries.org/blog/2020/10/reflections-on-my-first-Data-Carpentry-workshop/) by Selorm Tamakloe.
