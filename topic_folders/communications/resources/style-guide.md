@@ -100,6 +100,10 @@ Company names are always singular, _e.g.,_ ‘Twitter is …’, ‘Amazon Web S
 
 ## D
  
+##### data frames
+
+When referring to data frames in text, use two words, sentence case, which is [the convention in the R language](https://cran.r-project.org/doc/manuals/r-release/R-intro.html#Data-frames). If you are writing for Python, then using, DataFrame (one word, upper camel case) is appropriate in line with [the convention of the Python language](https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html)
+
 ##### dates
 Our style is 21 July, 2011 (day month year).
 
