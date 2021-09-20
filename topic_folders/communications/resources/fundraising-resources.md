@@ -18,7 +18,7 @@ __Our goal is to raise $30,000 in individual contributions by December 31, 2020.
 
 Donating even a small amount can make a big difference - we value all contributions. Your donation will allow The Carpentries to expand into new geographies and new disciplines, and will help bring workshops to individuals who might otherwise have barriers to participation.
 
-If you are interested in supporting The Carpentries’ mission of teaching data skills globally, [please visit our campaign page](https://carpentries.wedid.it/campaigns/8261) and donate any amount you are comfortable with.
+If you are interested in supporting The Carpentries’ mission of teaching data skills globally, [please visit our campaign page](https://give.communityin.org/TheCarpentries) and donate any amount you are comfortable with.
 Thank you so much!
 
 Sincerely,
@@ -52,11 +52,11 @@ Read Executive Director, @DrKariLJordan's  letter to The Carpentries Community a
 
 - “The Carpentries supports more than 1,700 highly skilled instructors in communities in 61 countries… Now more than ever we need you to champion our mission.” - Dr. Kari L. Jordan <br />
 Help us teach data skills to the communities that need them most<br />
-https://carpentries.wedid.it/campaigns/8261 
+https://give.communityin.org/TheCarpentries
 
 - Thank you to everyone who has donated so far to help The Carpentries achieve our mission! With your help we are on track to reach our goal.<br/>
 Please consider donating to help us achieve our 2020 fundraising goal
-https://carpentries.wedid.it/campaigns/8261
+https://give.communityin.org/TheCarpentries
 
 
 ## Videos
