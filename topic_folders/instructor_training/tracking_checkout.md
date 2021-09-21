@@ -7,7 +7,7 @@
 
 #### Tracking Training Event Attendance
 
-1. After a training event, trainers will email a list of trainees who completed and did not complete the event to [checkout@carpentries.org](mailto:checkout@carpentries.org).
+1. After a training event, trainers will email a list of trainees who completed and did not complete the event to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 1. Carpentries Core Team will go to this person's record in AMY and [mark this step complete](../workshop_administration/amy_manual.md).
 
 #### Tracking Discussion Attendance
@@ -18,12 +18,12 @@
 
 #### Tracking Teaching Demos
 
-1. Discussion session hosts will email a list of trainees who participated in a teaching demo to [checkout@carpentries.org](mailto:checkout@carpentries.org), noting whether each participant passed or failed.
+1. Discussion session hosts will email a list of trainees who participated in a teaching demo to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org), noting whether each participant passed or failed.
 1. Carpentries Core Team will go to this person's record in AMY and [mark this step complete](../workshop_administration/amy_manual.md).
 
 #### Tracking Lesson Contributions
 
-1. Trainees should email the link to their contribution to [checkout@carpentries.org](mailto:checkout@carpentries.org).
+1. Trainees should email the link to their contribution to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 1. Carpentries Core Team will go to this person's record in AMY and [mark this step as complete](../workshop_administration/amy_manual.md), including a link to their contribution.
 
 #### Recording Extensions to Complete Checkout

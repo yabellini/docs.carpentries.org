@@ -60,7 +60,7 @@ Trainers may choose to cancel a teaching demo if few or no trainees have signed 
 
 - If there are trainees signed up, notify them you are canceling this demo and ask them to sign up for another. 
 - Remove the event from the [Etherpad][trainer-pad].
-- Notify [checkout@carpentries.org](mailto:checkout@carpentries.org) so we can remove this from the [Community Calendar][community-calendar].
+- Notify [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) so we can remove this from the [Community Calendar][community-calendar].
 
 ##### Starting Points for Demos
 

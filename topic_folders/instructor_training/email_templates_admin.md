@@ -308,7 +308,7 @@ Post: [INSERT LINK]
 
 Please be sure to take attendance both days of the training. Send the 
 list of attendees who completed both days, as well as those who 
-didn’t, to checkout@carpentries.org, along with any notes or feedback 
+didn’t, to instructor.training@carpentries.org, along with any notes or feedback 
 you would like to share. We need this list of names in order to give 
 credit to trainees.
 
@@ -361,7 +361,7 @@ https://amy.carpentries.org/forms/request_training/.
 
 Please use [ group_code ] as your group name. 
 
-Please contact checkout@carpentries.org if you have any any 
+Please contact instructor.training@carpentries.org if you have any any 
 questions.
 
 Best,
@@ -377,7 +377,7 @@ Thanks again for teaching The Carpentries Instructor Training on
 [INSERT DATE]. I hope that you had a great experience. This is a 
 friendly reminder to please send a list of participants who attended
 both days of your training, as well as who did not complete the 
-training, to checkout@carpentries.org. Without this list, we are 
+training, to instructor.training@carpentries.org. Without this list, we are 
 unable to give attendees credit for completing the training. 
 
 Please let me know if you have any questions.
@@ -683,13 +683,13 @@ require new instructors to complete certification within three months
 of their training, to ensure that they are up to date on our teaching
 methods and practices. If you are still planning on certifying and 
 would like an extension on your deadline, please send an email to 
-checkout@carpentries.org. If you believe you’re receiving this email
+instructor.training@carpentries.org. If you believe you’re receiving this email
 in error and have already completed the checkout process, please get
 in touch as we may have missed recording one of your checkout steps.
 
 If you have any questions about the checkout process, please take a 
 look at our checklist: http://www.datacarpentry.org/checkout/ and 
-feel free to send any questions to checkout@carpentries.org.
+feel free to send any questions to instructor.training@carpentries.org.
 
 Looking forward to having you as part of our Instructor community!
 
@@ -844,7 +844,7 @@ If you know in advance that you will have a conflict and are unable to host your
 
 If you have a last-minute conflict, it is best to use Slack as well as email to request a replacement, and tag both me and [name]in your request on Slack. If you are unable to get help in time, please contact your trainees to cancel or reschedule.
 
-Instructions for hosting demos are [here](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration). Since we often have last-minute cancellations, if you have trainees contacting you to request an extra spot we suggest giving them permission to come, noting that they may not be able to present if everyone shows up. However, you are also very free to say ‘no.’ At the present time we are not able to track no-shows or cancellations for checkout, so it’s only necessary to mention those who attended in your email to checkout@carpentries.org after the demo.
+Instructions for hosting demos are [here](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration). Since we often have last-minute cancellations, if you have trainees contacting you to request an extra spot we suggest giving them permission to come, noting that they may not be able to present if everyone shows up. However, you are also very free to say ‘no.’ At the present time we are not able to track no-shows or cancellations for checkout, so it’s only necessary to mention those who attended in your email to instructor.training@carpentries.org after the demo.
 
 Please get in touch with questions, and enjoy your demo session!
 
