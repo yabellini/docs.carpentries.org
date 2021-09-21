@@ -10,7 +10,7 @@ Subject: Thanks for attending Carpentries Instructor Training!
 
 Hi everyone, 
 
-Thank you for participating in The Carpentries Instructor training workshop. We really enjoyed having you involved and getting to know you a bit. You are now well on your way towards becoming a certified Carpentries instructor. In order to finish your certification, please finish these tasks (https://carpentries.github.io/instructor-training/checkout/) by the 90-day deadline. If you have any questions about the checkout process, please contact checkout@carpentries.org. 
+Thank you for participating in The Carpentries Instructor training workshop. We really enjoyed having you involved and getting to know you a bit. You are now well on your way towards becoming a certified Carpentries instructor. In order to finish your certification, please finish these tasks (https://carpentries.github.io/instructor-training/checkout/) by the 90-day deadline. If you have any questions about the checkout process, please contact instructor.training@carpentries.org. 
 
 Looking forward to having you as a Carpentries Instructor!
 
@@ -56,7 +56,7 @@ you on board! I know it is hard to make time for these sessions, and I hope you 
 practice and feedback to be worthwhile. 
 
 I have contacted our checkout Core Team to indicate that this session should be repeated. If you are close to the end of your 
-checkout period, you can email checkout@carpentries.org to request an extension if you need one.
+checkout period, you can email instructor.training@carpentries.org to request an extension if you need one.
 
 Please get in touch with questions!
 
@@ -74,7 +74,7 @@ Hi [ trainee name ],
 
 I’m happy to tell you that you have passed your teaching demonstration! You demonstrated a good command of the subject material and a solid understanding of The Carpentries teaching methods. We are excited about having you as a Carpentries instructor. I’ve forwarded this information to our Core Team. If this was the last stage in your instructor training checkout, you should get your official The Carpentries Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. 
 
-You can check your progress in the checkout steps by logging on to our instructor tracking system, AMY, using your GitHub ID here: https://amy.carpentries.org/account/login/. If you have any questions, or did not provide a GitHub user name when registering for training, please email checkout@carpentries.org. They can also answer any additional questions you might have about the checkout procedure.
+You can check your progress in the checkout steps by logging on to our instructor tracking system, AMY, using your GitHub ID here: https://amy.carpentries.org/account/login/. If you have any questions, or did not provide a GitHub user name when registering for training, please email instructor.training@carpentries.org. They can also answer any additional questions you might have about the checkout procedure.
 
 Welcome to The Carpentries Instructor community!
 
@@ -118,7 +118,7 @@ Gracias por realizar tu demostración de enseñanza. A pesar de que has demostra
 
 Esta no ha sido una decisión fácil de tomar -- nos encantaría tenerte como instructor en Carpentries! Sé que es complicado hacer tiempo para este tipo de sesiones pero espero que consideres este tiempo adicional de práctica y feedback como una oportunidad.
 
-Me he puesto en contacto con nuestro personal de checkout indicando que esta sesión debe repetirse. Si estás cerca de tu periodo de checkout, puedes enviar un email a checkout@carpentries.org para solicitar una extensión si la necesitas.
+Me he puesto en contacto con nuestro personal de checkout indicando que esta sesión debe repetirse. Si estás cerca de tu periodo de checkout, puedes enviar un email a instructor.training@carpentries.org para solicitar una extensión si la necesitas.
 
 No dudes en ponerte en contacto si tienes cualquier pregunta!
 
@@ -134,7 +134,7 @@ Subject: Formación para instructor de las Carpentries: Demostración de enseña
 
 Hola [nombre del aprendiz],
 
-Me alegra informarte que has pasado tu demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries, por tanto, es un placer recibirte como instructor/a en las Carpentries. Ya he comunicado esta información a nuestro Core Team. Si esta fue la última parte de tu proceso de certificación, recibirás tu certificado oficial de las Carpentries junto con las instrucciones para inscribirte para impartir talleres en una semana aproximadamente. Si aún tienes que completar algún paso en tu proceso de certificación, asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor envía un correo a checkout@carpentries.org.
+Me alegra informarte que has pasado tu demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries, por tanto, es un placer recibirte como instructor/a en las Carpentries. Ya he comunicado esta información a nuestro Core Team. Si esta fue la última parte de tu proceso de certificación, recibirás tu certificado oficial de las Carpentries junto con las instrucciones para inscribirte para impartir talleres en una semana aproximadamente. Si aún tienes que completar algún paso en tu proceso de certificación, asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor envía un correo a instructor.training@carpentries.org.
 
 Bienvenida/o a la comunidad de las Carpentries.
 
