@@ -29,7 +29,7 @@ It is important to make sure the workshop space is accessible to all individuals
 
 * Building and room are accessible to those who can not use stairs (ramps, elevators, etc.)
 * Restrooms are accessible
-* There is a microphone for instructors
+* There is a working microphone for instructors (note: these should [always be used](https://zenodo.org/record/1325464#.YVJIWS-B0ea) where available)
 * The screen is large enough and bright enough to be easily read
 * The building and room can accommodate service animals
 * Lactation space is provided
