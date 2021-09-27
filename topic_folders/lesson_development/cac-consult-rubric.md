@@ -43,7 +43,7 @@ existing software (e.g., Python  3.6 → 3.7.x), but does include:
   - Updating to a non-backwards compatible version of existing software (e.g., Python 2.x → 3.x, R 3.x → 4.x)
   - Change in plotting library (e.g., Matplotlib, Plotly, Seaborn, ggplot, Altair)
   - Change in libraries / packages taught (i.e., removal or replacement)
-  - Change in SQL dialect (e.g.,h SQLite, MySQL, PostgreSQL, MSSQL Server)
+  - Change in SQL dialect (e.g., SQLite, MySQL, PostgreSQL, MSSQL Server)
   - Change in IDE being used to teach the lessons (RStudio, Jupyter Notebook)
   - Change from GitHub as remote hosting platform to a different remote hosting platform, e.g., GitLab 
 - Removal of an entire episode’s worth of content
