@@ -22,6 +22,7 @@ Administrative Policies and Procedures
    tracking_checkout.md
    scheduling_training_events.md
    email_templates_admin.md
+   cancellations_and_makeups.md
 
 For Member Organizations
 -------------------------
