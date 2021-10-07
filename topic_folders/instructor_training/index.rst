@@ -14,7 +14,7 @@ For Trainers
    trainer_coordinator.md
    email_templates_trainers.md
 
-For Administrators
+Administrative Policies and Procedures 
 -----------------------
 .. toctree::
    :maxdepth: 1
