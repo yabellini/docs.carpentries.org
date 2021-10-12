@@ -1,33 +1,183 @@
 ## Selecting Tags for your Carpentries Blog
 
-We recently decided to [clean up the tags we use on The Carpentries blog](https://github.com/carpentries/carpentries.org/pull/484) so as to help everyone in our community to find posts they are interested in more easily. Below is a set of categories to help you determine which tags to include in your posts for The Carpentries blog. Remember, less is more with tags - one would be optimal, but a maximum of three would suffice, should there be a need for it. 
+When writing or collaborating on a blog post for [The Carpentries blog](https://carpentries.org/blog/), please select from the list outlined in this document.
+
+Each of the blog tags has a definition to help you select which tags are relevant to your post.
 
 If in doubt over what tags to attach to your post, email community[at]carpentries[dot]org and we will help you pick one.
 
-### By Region
+Additionally, if you feel there is a tag that fits your post, that is not in the list below, please reach out to us.
 
-In case the post you intend to publish reports on activities carried out by The Carpentries in a specific region, or holds an invitation target at a geographical subset of our community, please add a region tag, such as [Africa](https://carpentries.org/posts-by-tags/#blog-tag-africa), [Latin America](https://carpentries.org/posts-by-tags/#blog-tag-latin-america), [Australasia](https://carpentries.org/posts-by-tags/#blog-tag-australasia).
+<hr>
 
-### By Carpentry
+### Accessibility
+Program/process design and implementation that offers multiple avenues for access
+and participation. For blog posts related to The Carpentries' work on Accessibility as part of the Equity, Inclusion, and Accessibility Roadmap.
 
-Since the Data Carpentry and Software Carpentry merger, and the inclusion of Library Carpentry as a lesson program of The Carpentries, we have realised the need to share relevant posts from each of the three sources with The Carpentries community. As such, cross-posted posts on The Carpentries blog will be tagged [Library Carpentry](https://carpentries.org/posts-by-tags/#blog-tag-library-carpentry), [Data Carpentry](https://carpentries.org/posts-by-tags/#blog-tag-data-carpentry) or [Software Carpentry](https://carpentries.org/posts-by-tags/#blog-tag-software-carpentry) to indicate their original source.
+### Africa
+For blog posts related to Carpentries' work in Africa.
 
-#### Carpentries Tagathon
+### Assessment
+Efforts to analyze and evaluate feedback of The Carpentries work as it relates to workshops, Instructor Training, and other operations
 
-For posts in the Data Carpentry, Library Carpentry and Software Carpentry blog, there is no need to add Carpentry-specific tags as all posts in the respective blogs are already specific to each Carpentry.
+### Australasia
+For blog posts related to Carpentries' work in Australasia.
 
-### By Thematic Focus 
+### Books
+For use in blog posts about published books directly about or written by members of The Carpentries community
 
-Our core team at The Carpentries works on projects that have specific themes attached to them i.e. [Assessment](https://carpentries.org/posts-by-tags/#blog-tag-assessment), [Equity](https://carpentries.org/posts-by-tags/#blog-tag-equity) and [Inclusion](https://carpentries.org/posts-by-tags/#blog-tag-inclusion). Additionally, as a community-led organisation, we often incorporate pertinent discussions  into our ongoing work and communicate regularly about those i.e. [Accessibility](https://carpentries.org/posts-by-tags/#blog-tag-assessment) and [Roadmaps](https://carpentries.org/posts-by-tags/#blog-tag-roadmap) for achieving specific goals.
+### Carpentries Lab
+Describing announcements related to the [Carpentries Lab](https://carpentries-lab.org). The Carpentries Lab is a place for high-quality, stable lessons. It provides a space and processes for open peer review of lessons, and hosts a collection of reviewed lessons for members of The Carpentries community to teach in their own workshops.
 
-### By Community Activity
- 
-The Carpentries has many different activities aimed at bringing our community members together for learning, sharing, discussions, collaboration online and in-person. Remember to tag posts by the appropriate community activity i.e. [Workshops](https://carpentries.org/posts-by-tags/#blog-tag-workshops), [Events](https://carpentries.org/posts-by-tags/#blog-tag-events) (Conferences not organised by the Carpentries, Hackathons, Meetups, Research Bazaars, Hacky Hours, etc), [Discussion Sessions](https://carpentries.org/posts-by-tags/#blog-tag-discussion-sessions), [Feedback](https://carpentries.org/posts-by-tags/#blog-tag-feedback), [Translations](https://carpentries.org/posts-by-tags/#blog-tag-translations) etc
+### Carpentries Team
+For blog posts related to hiring and other activities of The Carpentries Core Team.
 
-### By Carpentries-centric Initiatives
+### CarpentryCon
+For blog posts related to CarpentryCon, The Carpentries bi-annual conference.
 
-The Carpentries team, with the support and oversight of various committees and task forces, carries out initiatives such as the [Membership program](https://carpentries.org/posts-by-tags/#blog-tag-carpentries-membership), the [Lessons Program](https://carpentries.org/posts-by-tags/#blog-tag-carpentries-lessons), community-wide [Communications](https://carpentries.org/posts-by-tags/#blog-tag-communications), the [Regional Coordinators program](https://carpentries.org/posts-by-tags/#blog-tag-regional-coordinators), our [Instructor Development](https://carpentries.org/posts-by-tags/#blog-tag-instructor-development) program, [Curriculum](https://carpentries.org/posts-by-tags/#blog-tag-curriculum) and [Code of Conduct](https://carpentries.org/posts-by-tags/#blog-tag-code-of-conduct). In communicating about these, strive to use eponymous tags.
+### CarpentryConnect
+For blog posts related to CarpentryConnect events, local and regional events lead by community members
 
-### By Resource Genre
+### Champions
+An inactive subcommunity of The Carpentries that helped support the growth and development of The Carpentries by advocating and reaching out to local communities.
 
-The Carpentries blog is home to many types of resources i.e. [Skillshare](https://carpentries.org/posts-by-tags/#blog-tag-skillshare) posts on how to use different tools and achieve specific tasks in various programming languages or platforms, [reports](https://carpentries.org/posts-by-tags/#blog-tag-reports) on community-wide progress, or governance by the Executive Council, Book Reviews by different members of the community, etc
+### Code of Conduct
+Policy agreement that guides how we interact with each other and the greater community
+
+### Communications
+For blog posts related to the communications activities and strategies of The Carpentries
+
+### Community
+For blog posts related to activities of the broader Carpentries community.
+
+### Community Discussions
+For blog posts related to Community Discussions, including Pre- and Post-Workshop Discussions, Themed Discussion Sessions, and Carpentries Conversations.
+
+### Community Facilitators
+For blog posts related to the Community Facilitators program. The Community Facilitators Program is an initiative in The Carpentries that seeks to create new pathways for active involvement in everyday community activities by more community members.
+
+### Curriculum
+Related to lessons included in The Carpentries official lesson stack, or The Carpentries Incubator or Lab.
+
+### Curriculum Development
+Related to creation of new lessons or significant updates of existing lessons.
+
+### Data Carpentry
+Related to the Data Carpentry lesson program of The Carpentries
+
+### Equity and Inclusion
+Resources and information regarding our equity, inclusion, and accessibility roadmap. Our goal is to attract, retain and promote a diverse community of instructors and learners and foster an environment of inclusion.
+
+### Events
+Related to Carpentries sponsored or related events. Examples include CarpentryConnects,online symposiums and more
+
+### Executive Council
+Updates and announcements from The Carpentries Executive Council, the highest leadership body of The Carpentries project.
+
+### Feedback
+Comments on experience from Instructors, Hosts, Members, and other community members
+
+### Governance
+For blog posts related to the governance  of The Carpentries as an organisation.
+
+### Grants 	
+Announcements for grants funding Carpentries activities
+
+### Green Stickies
+Blog posts related to positive feedback from the community or for the community
+
+### Incubator
+Describing announcements related to the Carpentries Incubator (https://carpentries-incubator.org/). The Carpentries Incubator is a place for collaborative development of new lessons. It provides a space for The Carpentries community to create, test, and improve lessons, supported by systems, process, and training to foster collaboration and promote better lesson design.
+
+### Incubator Lesson Spotlight
+Highlighting lessons currently in the Carpentries Incubator. These posts are created from a form completed by Incubator lesson developers.
+
+### Infrastructure
+Blog posts related to technology we use to support our operations (e.g. AMY, Helpscout, etc)
+
+### Instructor Development 	
+About activities hosted or promoted by the Instructor Development Committee.
+
+### Instructor Trainers
+About Instructor Trainers (the community of people who teach Instructor Training) or having Instructor Trainers as a primary audience
+
+### Instructors 	
+About Instructors (the community of people who teach Software Carpentry, Data Carpentry, or Library Carpentry workshops) or having Instructors as a primary audience.
+
+### Internationalisation 	
+Posts highlighting translation and internationalization efforts in The Carpentries
+
+### Japan
+For blog posts related to Carpentries' work in Japan.
+
+### Jekyll
+A static site generator used in our lessons from 2016 to 2022
+
+### Latin America
+For blog posts related to Carpentries' work in Latin America (Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Colombia, Venezuela, Ecuador, Peru, Bolivia, Brazil, Paraguay, Chile, Argentina, Uruguay, Cuba, Haiti, Puerto Rico).
+
+### Lesson Infrastructure 	
+For blog posts related to The Carpentries Lesson Infrastructure (e.g. updates or future changes to styling and workflows). This is largely of interest to the maintainer community with some tangential interest in the instructor community.
+
+### Lessons
+Related to work and development of Carpentries Lessons
+
+### Library Carpentry
+Library Carpentry focuses on building software and data skills within library and information-related communities.
+
+### Maintainers
+community members working on keeping our lessons stable and functional.
+
+### Membership
+for member organisation updates, big changes, or announcements
+
+### Mentoring
+blogs around creating support systems for new orgs using seasoned community members
+
+### Merger
+For blog posts relating to the merging of the three lesson programs into The Carpentries
+
+### Nordic Countries
+For blog posts related to Carpentries' work in Nordic countries (Denmark, Estonia, Finland, Iceland, Norway, Sweden).
+
+### North America
+For blog posts related to Carpentries' work in North America (Canada, Mexico, United States).
+
+### Online Workshops
+Workshops that are solely online, experience teaching an online workshop, sharing ideas for online workshops
+
+### Philanthropy 	
+Blog posts related to donations, sponsorship and other philanthrophic activites that support The Carpentries
+
+### Pilot Workshops 	
+Blog posts related to piloting of new lessons
+
+### R 	
+Posts highlighting teaching recommendations of the R programming language, or the use of the R programming language in our activities
+
+### Regional Coordinators
+For blog posts related to Regional coordinators, who manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries.
+
+### Reports 	
+For blog posts related to reports released by The Carpentries core team. This includes annual and budget reports.
+
+### Roadmap
+A plan that defines a goal or desired outcome and includes the major steps or milestones needed to reach it.
+
+### Skillshare
+Posts highlighting tips
+
+### Software Carpentry
+For blog posts related to Software Carpentry, which is part of The Carpentries, teaching basic lab skills for research computing.
+
+### Strategic Plan
+Posts related to The Carpentries strategic plan, the document used to communicate the organisation's goals, objectives, and the actions taken to achieve those goals
+
+### Task Force
+The Carpentries uses Task Forces to explore ideas and make updates in policy, procedures and guidelines. Task forces bring together a small group of people focused on a particular topic for a set period of time.
+
+### Teaching
+Experience leading a Carpentries Workshop or Carpentries Training
+
+### Workshops
+An event that is taught by Carpentries Instructors that teaches the curriculum of Data Carpentry, Library Carpentry and Software Carpentry. These blogs share experiences from the event
