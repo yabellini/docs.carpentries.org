@@ -1,4 +1,4 @@
-## Instructor Training Cancellation policy
+## Instructor Training Cancellation and Makeup policy
 Cancellations are performed through Eventbrite, though they may also be accomplished by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). **We strongly encourage cancellations more than 7 days prior to a workshop start date.** This allows other trainees to register for the available seat. 
 
 If a trainee repeatedly registers and cancels (>3 times), or registers for more than one seat at the same time, they may be barred from further registration.
