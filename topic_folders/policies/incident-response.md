@@ -59,12 +59,11 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
   participant swearing at an Instructor, or a community member who is rude and
   pushy but not in any way related to sexual advances or protected categories.
 
-The CoCc needs to be aware that if something meets the appropriate criteria
-(anything involving Core Team members that may be harassment) they should
-contact the Core Team liaison to the CoCc. The Core Team CoCc liaison will
-elevate anything that comes in by or about Core Team members to the Executive
-Team if appropriate and to Community Initiatives or the PEO if needed. If a
-report comes in about the Core Team CoCc liaison, the CoCc needs to contact the
-Executive Director.
+If a report involving a Core Team member is susceptible to meet the appropriate
+criteria for harassment, the CoCc should contact the Core Team liaison to the
+CoCc. The Core Team CoCc liaison will elevate anything that comes in by or about
+Core Team members to the Executive Team if appropriate and to Community
+Initiatives or the PEO if needed. If a report involves the Core Team CoCc
+liaison, the CoCc needs to contact the Executive Director directly.
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
