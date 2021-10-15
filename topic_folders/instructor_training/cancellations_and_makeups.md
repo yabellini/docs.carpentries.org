@@ -24,7 +24,7 @@ If a trainee misses more than 1 hour of an event and informs the Trainer of a re
 
 
 **Core Team actions:**
-If a trainee is marked absent and is not eligible for a make-up opportunity, the training will be marked ‘failed’ in AMY and the member seat will be forfeit until/unless the trainee gets in touch with an eligible excuse.
+If a trainee is marked absent and is not eligible for a make-up opportunity, the training will be marked ‘failed’ in AMY and the member seat will be forfeited until/unless the trainee gets in touch with an eligible excuse.
 
 If a trainee is marked absent and is eligible for make-up, the training will be marked “asked to repeat” in AMY, and Core Team will determine whether a make-up session or new event is appropriate (see below), and will invite them to sign up accordingly.
 
