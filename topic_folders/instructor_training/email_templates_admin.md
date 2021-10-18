@@ -106,56 +106,6 @@ Best,
 
 [ sender name ]
 
-##### Initial Trainee Contact Email  (from member site to their prospective trainees - online training)
-
-SUBJECT: Invitation to become a certified Carpentries Instructor
-
-Dear [ name ],
-
-We are excited to announce that [ site name ] has become a member of
-The Carpentries!
-
-The Carpentries (https://carpentries.org) is a global group of 
-volunteers who develop and teach two-day, interactive, hands-on 
-workshops on essential computing and data skills that are not part
-of basic research training in most disciplines. 
-
-As part of our Carpentries membership, we are able to have
-[ number ] people from [ site name ] complete The Carpentries’ 
-instructor training program (https://carpentries.github.io/instructor-training/) and become certified Carpentries instructors.
-Certified instructors can teach Carpentries workshops (https://carpentries.org/workshops/), helping 
-us reach more people and build these skills across our community. 
-Instructors also have the opportunity to travel to teach Carpentries 
-workshops at other institutions around the globe. 
-
-I would like to invite you to you to become one of our Carpentries 
-instructors. Instructor training is held online via video-conference, 
-over two consecutive days. If you are interested in becoming a 
-Carpentries instructor, please register for one of the training 
-events listed here: 
-( https://carpentries.github.io/instructor-training/training_calendar/ ) 
-Please note you must use this code to register:  [ code ]. You 
-will also need to complete The Carpentries instructor training application 
-form using the same registration code: 
-https://amy.carpentries.org/forms/request_training/. This 
-application is a formality - you are guaranteed to be accepted into 
-the training program - but The Carpentries Core Team needs this 
-application in order to get your information for training into their
-system. 
-
-If you are not interested in becoming a Carpentries instructor, or 
-don’t have time - please let me know as soon as possible so that I 
-can offer this seat to another person. 
-
-We are all excited to grow our Carpentries community and look forward 
-to bringing you on board. 
-
-If you have any questions please contact me or The Carpentries team 
-at team@carpentries.org. 
-
-Best,
-
-[ sender name ] 
 
 ##### Invitation to Open Training Applicants
 
