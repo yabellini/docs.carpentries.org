@@ -4,6 +4,60 @@ This section contains email templates for English and Spanish activities.
 
 #### Templates in English
 
+##### Pre-Training (1 week before) Email Sent by Trainer or Member Contact to Trainees
+
+**Note:** For most events, Trainers will **not** need to send this. A similar email will be sent by the Core Team. This template is to be used when Trainers are handling communications for an in-house training. For any questions about how or when to use this template, email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
+
+**Subject:** Information for Your Upcoming Instructor Training with The Carpentries on DATE_TIME
+
+Hello everyone,
+
+Thank you for registering for The Carpentries Instructor Training on **DATE_TIME_TIMEZONE** (Click to see the start time in your timezone). This email contains important information to help you prepare for the training - **please read it carefully and let me know if you have any questions.**
+
+**About Carpentries Instructor Training**
+
+This training is designed for people who want to become certified Carpentries instructors. We recommend that you be familiar with at least one of the technologies that we teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet software, and/or Git) before taking Instructor Training. This training will not teach any of those subjects, but will instead focus on developing skill and knowledge about evidence-based teaching practices and workshop procedures. 
+
+For more information about what will be covered at this training as well as a sample schedule, check out our [Instructor Training Curriculum](https://data-lessons.github.io/instructor-training/).
+
+**Connecting to Your Training** 
+
+This training will be conducted using [ platform, download instructions etc. ] To access the training please use this link: [ link to join ] Password is [ password ].
+
+Please see this [training website/collaborative document] with more details about the event.
+
+**Preparing for Your Training**
+
+Before your training, please visit the [Preparing for Instructor Training page](https://data-lessons.github.io/instructor-training/setup.html) for complete instructions. A brief summary of these instructions is as follows
+
+1. Complete our Pre-training Survey. 
+
+1. Select a lesson to use for teaching practice sessions, spending no more than 20-30 minutes to prepare.
+
+1. Please read the following:
+    - ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf)
+    - ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
+
+**Checkout: The Instructor Certification Process** 
+
+After your training, you will be asked to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on the [Checkout Instructions page](https://data-lessons.github.io/instructor-training/checkout/index.html) and will be discussed at your training. 
+
+**Cancellations and Attendance**
+
+We would like to be able to use all of the seats allocated to us in our membership for this event. If you are unable to attend, please let us know as soon as possible. 
+
+If you miss more than 1 hour of the training, you may be marked absent. Instructor certification cannot be completed without full attendance at an Instructor Training event. If you unexpectedly need to miss more than 1 hour of your event, please contact us. 
+
+More information on The Carpentries [cancellation and makeup policy](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html) is available in The Carpentries Handbook.
+
+If you have any questions about the training, the reading material, or anything else, please get in touch.
+
+We look forward to seeing you!
+
+Best,
+[Name]
+
+
 ##### Email after Training Event
 
 Subject: Thanks for attending Carpentries Instructor Training!
