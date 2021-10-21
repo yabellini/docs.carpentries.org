@@ -78,15 +78,17 @@ Subject: The Carpentries teaching demonstration
 
 Hi,
 
-According to https://pad.carpentries.org/teaching-demos you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Instructor Trainer running the session.
+According to the [Teaching Demo Etherpad](https://pad.carpentries.org/teaching-demos) you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Trainer running the session.
 
-I wanted to make it very clear that I may give you any segment of the lesson you prepared to teach, so you must be ready to teach any part of your chosen lesson. Some people prepare to teach 5 minutes from a particular section and nothing else, and these often have to reschedule as they seldom are assigned the section they have prepared for. A lesson corresponds to a single line in the lesson tables (https://software-carpentry.org/lessons/ , http://www.datacarpentry.org/lessons/ , and https://librarycarpentry.org/lessons/) and a single repository on GitHub. Some lessons have supplementary modules, but you do not need to be prepared to teach the supplementary modules for your teaching demonstration.
+I wanted to be sure you know that I may give you any segment of the lesson you prepared to teach, so you must be ready to teach any part of your chosen lesson. Some people prepare to teach only 5 minutes from a particular section and they often have to reschedule as they seldom are assigned the section they have prepared for. 
+
+A lesson corresponds to a single line in the lesson tables (https://software-carpentry.org/lessons/ , http://www.datacarpentry.org/lessons/ , and https://librarycarpentry.org/lessons/) and a single repository on GitHub. Some lessons have supplementary modules, but you do not need to be prepared to teach the supplementary modules for your teaching demonstration.
 
 For example, if you have chosen The Unix Shell, I may assign you any episode listed at http://swcarpentry.github.io/shell-novice/.
 
-Please visit the Etherpad a little while before the demo starts, I will post a link there to another Etherpad we will be using for this demo.
+Please remember -- this is not a high stakes test! This is a friendly opportunity to give and receive feedback on a more polished presentation style. In the event that I ask you to repeat your demo, I will provide this information with clear instructions on what to change in an email to you after the demo. You will only receive qualitative feedback publicly during the demo, not information regarding whether this checkout step is considered complete.
 
-See you at the demo session,
+I look forward to seeing you,
 
 [ sender name ] 
 
@@ -97,20 +99,17 @@ out to the Trainer community and/or Core Team for support in deciding, customizi
 messages.
 
 
-Subject: Carpentries instructor training: Teaching Demo
+Subject: Carpentries Instructor Training: Teaching Demo
 
 Hi [ trainee name ], 
 
 Thank you for doing a teaching demonstration. While you demonstrated good [ something they did well, e.g. command of the 
-subject material], I am inviting you to return for one more try at the teaching demo. The primary reason is because
+subject material], I am inviting you to return for another try at the teaching demo. The primary reason is because
 [ reason ]. [ Explanation of what you would like to see instead, and why it is central to Carpentries teaching practices. ]  
 
-This was a difficult determination to make -- we are excited about having you as a Carpentries instructor and we want to have 
-you on board! I know it is hard to make time for these sessions, and I hope you will find the opportunity for additional 
-practice and feedback to be worthwhile. 
+We are excited about having you as a Carpentries instructor and we want to have you on board! I know it is hard to make time for these sessions, and I hope you will find the opportunity for additional practice and feedback to be worthwhile.
 
-I have contacted our checkout Core Team to indicate that this session should be repeated. If you are close to the end of your 
-checkout period, you can email instructor.training@carpentries.org to request an extension if you need one.
+I have contacted our Core Team to indicate that this session should be repeated. If you are close to the end of your checkout period, you can email instructor.training@carpentries.org to request an extension if you need one.
 
 Please get in touch with questions!
 
@@ -120,15 +119,15 @@ Best wishes,
 
 
 
-##### Trainee Did Pass Teaching Demo
+##### Trainee Passed Teaching Demo
 
-Subject: Carpentries instructor training: Teaching Demo
+Subject: Carpentries Instructor Training: Teaching Demo
 
 Hi [ trainee name ], 
 
-I’m happy to tell you that you have passed your teaching demonstration! You demonstrated a good command of the subject material and a solid understanding of The Carpentries teaching methods. We are excited about having you as a Carpentries instructor. I’ve forwarded this information to our Core Team. If this was the last stage in your instructor training checkout, you should get your official The Carpentries Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. 
+I’m happy to say that you have passed your teaching demonstration! You demonstrated a [good command of the subject material and a solid understanding of The Carpentries teaching methods]. We are excited about having you as a Carpentries Instructor. 
 
-You can check your progress in the checkout steps by logging on to our instructor tracking system, AMY, using your GitHub ID here: https://amy.carpentries.org/account/login/. If you have any questions, or did not provide a GitHub user name when registering for training, please email instructor.training@carpentries.org. They can also answer any additional questions you might have about the checkout procedure.
+I’ve forwarded this information to our Core Team. If this was the last step in your Instructor Training checkout, you should hear from them within about a week. 
 
 Welcome to The Carpentries Instructor community!
 
