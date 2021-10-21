@@ -24,7 +24,7 @@ Subject: The Carpentries teaching demonstration
 
 Hi,
 
-According to the Teaching Demo Etherpad you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Trainer running the session.
+According to the [Teaching Demo Etherpad](https://pad.carpentries.org/teaching-demos) you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Trainer running the session.
 
 I wanted to be sure you know that I may give you any segment of the lesson you prepared to teach, so you must be ready to teach any part of your chosen lesson. Some people prepare to teach only 5 minutes from a particular section and they often have to reschedule as they seldom are assigned the section they have prepared for. 
 
