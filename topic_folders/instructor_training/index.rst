@@ -19,8 +19,8 @@ Administrative Policies and Procedures
 .. toctree::
    :maxdepth: 1
 
-    cancellations_and_makeups.md
-    tracking_checkout.md
+   cancellations_and_makeups.md
+   tracking_checkout.md
    scheduling_training_events.md
    email_templates_admin.md
 
