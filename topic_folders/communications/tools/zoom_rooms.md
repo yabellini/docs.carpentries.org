@@ -42,14 +42,11 @@ A host may transfer host privileges or assign a co-host.
 
 The co-host has most but not all of the same privileges as host. [Read about the co-host's limitations](https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_01F0KWNB4J2E38TD4QBPCD6TFF).
 
-#### Turning participants' audio and video on or off
+#### Turning participants' audio on or off
 
-As host, you will be able to mute and unmute participants.  This can either be done selectively or for the room as a whole. By default, participants can unmute themselves. The host can also choose not to allow participants to unmute themselves.
+As host or co-host, you will be able to mute and unmute participants.  This can either be done selectively or for the room as a whole. By default, participants can unmute themselves. The host can also choose not to allow participants to unmute themselves.
 
-As a host, you will be able to turn off video for participants. The participant will not be able to turn their video back on themselves. The host must request that the participant turn video back on.
-
-A participant can choose to keep their own video off.  The host can not turn a participant's video on directly, but can request them to turn their video on.
-
+[Read more about how to manage muting participants](https://support.zoom.us/hc/en-us/articles/203435537-Muting-and-unmuting-participants-in-a-meeting).
 
 #### Creating Breakout Rooms
 
