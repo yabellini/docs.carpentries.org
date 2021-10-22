@@ -75,11 +75,9 @@ Screen sharing options include ability to share just one window or the entire de
 
 #### Zoom chat
 
-Zoom chat allows participants to send messages to the whole group or to a select individual. Group chats are not an option.
+During a meeting, users can send message to all other users or to indivdiaul participants.  Hosts can manage who participants can chat with or disable chat entirely.
 
-A participant can only see the chat since they most recently joined. If a participant leaves and re-enters, they will not see old chats. Also, Zoom chat is not consistently preserved across breakout rooms. The original main room chat may not be available when participants return from a breakout room.
-
-Emojis are not recommended as they are not consistently available and do not render consistently across platforms.
+[Read more about managing chat during a meeting](https://support.zoom.us/hc/en-us/articles/203650445-In-meeting-chat).
 
 #### Live captioning calls
 
