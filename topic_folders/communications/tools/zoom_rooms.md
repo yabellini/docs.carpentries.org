@@ -25,11 +25,7 @@ If you are teaching an Instructor Training workshop, about a week before the eve
 
 If you are hosting a Community Discussion or Teaching Demo, you should have signed up to do so via Calendly. Two days before the event, you will receive an automated email from Calendly that includes the host key for the event. 
 
-Enter the room and select "Participants."
-
-Near the bottom of the Participants view is a button to Claim Host Access.  This will open up a pop up window where you will be able to enter in the Host Key you were given.  You will now have host access.  It is not possible to claim host access in this way if a logged on host is already present.  The logged on host can transfer host access to another participant.
-
-![Claim Host](images/zoom_claim_host.gif)
+[Read about how to use the host key to claim host access.](https://support.zoom.us/hc/en-us/articles/115001315866).
 
 #### Creating a Waiting Room
 
