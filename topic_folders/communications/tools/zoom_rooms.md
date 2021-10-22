@@ -50,13 +50,9 @@ As host or co-host, you will be able to mute and unmute participants.  This can 
 
 #### Creating Breakout Rooms
 
-Breakout rooms can be created automatically or manually. Only the host (not the co-host) has the ability to create "Breakout rooms". The button for this is on the lower left. Breakout rooms can be created manually or automatically.
+Either the host or co-host can assign, start, and end breakout rooms.  They can also move between rooms and message all rooms.
 
-- Manually create rooms: You can manually assign people to the number of rooms of your choice. This is useful if you know you want to have certain people together, or if you want to have rooms of varying sizes. It is recommended that you add in 1-2 empty rooms to make it easier to change rooms during the session. Zoom will not allow you to create more rooms during the breakout session.
-- Automatically create rooms: Zoom will automatically divide your participants in a given number of rooms. For example, if you have 25 participants and choose 4 rooms, Zoom will randomly assign them to 4 rooms of 6-7 people each.
-- The host can manually end breakout rooms by clicking on the button in the breakout rooms window. All breakout rooms will then get a 60-second warning and automatically be returned to the main room. Closing breakouts can not be scheduled in advance.  Participants can return to the main room early if they choose.
-- The host can move between breakout rooms and can send messages to all rooms simultaneously. The co-host can not move between rooms; they must be moved by the host.
-- People in the breakout rooms will see a button to ask the host for help. The host will get a notification to join that room. Participants can not communicate across breakout rooms.  
+[Read more about how to create and manage breakout rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms).  This includes setting options for rooms to be created automatically, manually (assigned by host), or allowing participants to choose their own rooms.
 
 #### Yes/no questions and other real-time feedback
 
