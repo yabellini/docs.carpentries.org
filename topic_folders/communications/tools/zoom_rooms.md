@@ -63,20 +63,15 @@ Participants can offer non-verbal feedback during a call.  This may include usin
 
 #### Screen sharing
 
-The host can decide whether any participant can share their screen, or limit this access to host only.  Screen sharing access can not be granted or denied to specific participants only.  Screen sharing can be granted one of two ways:
+Screen sharing access is limited to hosts and co-hosts. They can choose to grant access to participants.
 
-The "Security" button on the bottom panel.<br>
-![Host Security Settings](images/host_security_screenshare.png)
+[Read more about granting or denying participants ability to screen share](https://support.zoom.us/hc/en-us/articles/115005759423).
 
-The "Advanced Sharing Options" on the "Share Screen" button on the bottom panel.<br>
-![Advanced Sharing Options](images/screenshare_advanced.png)
+Screen sharing options include ability to share just one window or the entire desktop; to share sound; and more.  Some of these features may be limited by the user's operating system.
+
+[Read more about managing screen sharing features](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom).
 
 
-The person screen sharing will have options to share their whole desktop or only a given window. Multiple windows can not be selected for screen sharing.
-
-If you would like to include your computer's audio feed when screensharing, please be sure to select the "Share Computer Sound" setting.  This can be useful, for example, when sharing a video clip.
-
-![Share audio with screenshare](images/zoom_screenshare_audio.png)
 
 #### Zoom chat
 
