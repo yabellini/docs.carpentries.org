@@ -54,11 +54,11 @@ Either the host or co-host can assign, start, and end breakout rooms.  They can 
 
 [Read more about how to create and manage breakout rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms).  This includes setting options for rooms to be created automatically, manually (assigned by host), or allowing participants to choose their own rooms.
 
-#### Yes/no questions and other real-time feedback
+#### Non-verbal, real time feedback
 
-The host can ask yes/no questions for participants to respond to. Participants can also offer feedback to note things are moving too fast or too slow; raise their hand; or ask for a break. These responses show up in the participants list and are visible to everyone.  
+Participants can offer non-verbal feedback during a call.  This may include using emojis to represent yes/no responses, a raised hand, and more.  Available reactions may depend on the user's platform.
 
-The host can lower someone's hand.  For other responses, the host can clear all responses, but can not clear individual responses. 
+[Read more about how to manage non-verbal and real time feedback](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
 
 
 #### Screen sharing
