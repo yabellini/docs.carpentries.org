@@ -36,14 +36,11 @@ Once you have entered and claimed host access, it is recommended that you create
 
 #### Transferring host privileges or assigning a co-host
 
-A meeting can have only one Host, but can also have a co-host.
+A host may transfer host privileges or assign a co-host. 
 
-A host may transfer host privileges or assign a co-host. In making someone else a host, the new host will have full host privileges.  The original host loses all host priviliges, but can reclaim host access by clicking on "Reclaim Host."  Click on "More" next to the participant's name to get the option transfer host privileges or to make them a co-host.
+[Read about how to make a participant a co-host](https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_9c3ee7f2-b70c-4061-8dcf-00dd836b2075).
 
-Having a co-host is useful in managing participants entering the room, controlling background noise by muting people as needed, and managing breakout rooms.
-
-![Make another participant the host](images/zoom_make_host.gif)
-
+The co-host has most but not all of the same privileges as host. [Read about the co-host's limitations](https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_01F0KWNB4J2E38TD4QBPCD6TFF).
 
 #### Turning participants' audio and video on or off
 
