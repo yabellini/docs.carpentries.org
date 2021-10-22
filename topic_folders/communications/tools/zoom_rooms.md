@@ -25,112 +25,83 @@ If you are teaching an Instructor Training workshop, about a week before the eve
 
 If you are hosting a Community Discussion or Teaching Demo, you should have signed up to do so via Calendly. Two days before the event, you will receive an automated email from Calendly that includes the host key for the event. 
 
-Enter the room and select "Participants."
+[Read about how to use the host key to claim host access.](https://support.zoom.us/hc/en-us/articles/115001315866).
 
-Near the bottom of the Participants view is a button to Claim Host Access.  This will open up a pop up window where you will be able to enter in the Host Key you were given.  You will now have host access.  It is not possible to claim host access in this way if a logged on host is already present.  The logged on host can transfer host access to another participant.
+#### Using a Waiting Room
 
-![Claim Host](images/zoom_claim_host.gif)
+Once you have entered and claimed host access, it is recommended that you create a waiting room.  This enables you to explicitly let people in, rather than allowing anyone to simply come in.  It helps prevent "zoombombing," or entry of unwelcome guests.  The host can then admit or deny people in the waiting room; send existing participants to the waiting room; and send messages to the waiting room.  Waiting room participants can not message the host.
 
-#### Creating a Waiting Room
-
-Once you have entered and claimed host access, it is recommended that you create a waiting room.  This enables you to explicitly let people in, rather than allowing anyone to simply come in.  It helps prevent "zoombombing," or entry of unwelcome guests.
-
-Click on "Security" in the bottom panel.  At this point, you can lock the room entirely.  This is not recommended, as someone who accidentally gets bumped off the call or other latecomers will not be able to re-join.  Select "Enable Waiting Room."  
-
-![Enable waiting room](images/host_security_waiting_room.png)
-
-This will give you (as host) a notification every time someone tries to enter the room.  You can admit them individually or as a group. 
-
-![Admit people from waiting room](images/someone_entered_waiting_room.png)
-
-You can also message the waiting room (as a whole; not individuals) before admitting them. If a name does not look familiar or valid to you, you may be worried about letting them in.  In this case, you can consider messaging them to ask them to verify themselves another way, like asking them to leave a message in the Etherpad chat.
-
-![Message people in waiting room](images/chat_waiting_room.png)
+[Read about how to enable and use a waiting room as host.](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
 
 
 #### Transferring host privileges or assigning a co-host
 
-A meeting can have only one Host, but can also have a co-host.
+A host may transfer host privileges or assign a co-host. 
 
-A host may transfer host privileges or assign a co-host. In making someone else a host, the new host will have full host privileges.  The original host loses all host priviliges, but can reclaim host access by clicking on "Reclaim Host."  Click on "More" next to the participant's name to get the option transfer host privileges or to make them a co-host.
+[Read about how to make a participant a co-host](https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_9c3ee7f2-b70c-4061-8dcf-00dd836b2075).
 
-Having a co-host is useful in managing participants entering the room, controlling background noise by muting people as needed, and managing breakout rooms.
+The co-host has most but not all of the same privileges as host. [Read about the co-host's limitations](https://support.zoom.us/hc/en-us/articles/206330935-Enabling-and-adding-a-co-host#h_01F0KWNB4J2E38TD4QBPCD6TFF).
 
-![Make another participant the host](images/zoom_make_host.gif)
+#### Turning participants' audio on or off
 
+As host or co-host, you will be able to mute and unmute participants.  This can either be done selectively or for the room as a whole. By default, participants can unmute themselves. The host can also choose not to allow participants to unmute themselves.
 
-#### Turning participants' audio and video on or off
-
-As host, you will be able to mute and unmute participants.  This can either be done selectively or for the room as a whole. By default, participants can unmute themselves. The host can also choose not to allow participants to unmute themselves.
-
-As a host, you will be able to turn off video for participants. The participant will not be able to turn their video back on themselves. The host must request that the participant turn video back on.
-
-A participant can choose to keep their own video off.  The host can not turn a participant's video on directly, but can request them to turn their video on.
-
+[Read more about how to manage muting participants](https://support.zoom.us/hc/en-us/articles/203435537-Muting-and-unmuting-participants-in-a-meeting).
 
 #### Creating Breakout Rooms
 
-Breakout rooms can be created automatically or manually. Only the host (not the co-host) has the ability to create "Breakout rooms". The button for this is on the lower left. Breakout rooms can be created manually or automatically.
+Either the host or co-host can assign, start, and end breakout rooms.  They can also move between rooms and message all rooms.
 
-- Manually create rooms: You can manually assign people to the number of rooms of your choice. This is useful if you know you want to have certain people together, or if you want to have rooms of varying sizes. It is recommended that you add in 1-2 empty rooms to make it easier to change rooms during the session. Zoom will not allow you to create more rooms during the breakout session.
-- Automatically create rooms: Zoom will automatically divide your participants in a given number of rooms. For example, if you have 25 participants and choose 4 rooms, Zoom will randomly assign them to 4 rooms of 6-7 people each.
-- The host can manually end breakout rooms by clicking on the button in the breakout rooms window. All breakout rooms will then get a 60-second warning and automatically be returned to the main room. Closing breakouts can not be scheduled in advance.  Participants can return to the main room early if they choose.
-- The host can move between breakout rooms and can send messages to all rooms simultaneously. The co-host can not move between rooms; they must be moved by the host.
-- People in the breakout rooms will see a button to ask the host for help. The host will get a notification to join that room. Participants can not communicate across breakout rooms.  
+[Read more about how to create and manage breakout rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-Breakout-Rooms).  This includes setting options for rooms to be created automatically, manually (assigned by host), or allowing participants to choose their own rooms.
 
-#### Yes/no questions and other real-time feedback
+#### Non-verbal, real time feedback
 
-The host can ask yes/no questions for participants to respond to. Participants can also offer feedback to note things are moving too fast or too slow; raise their hand; or ask for a break. These responses show up in the participants list and are visible to everyone.  
+Participants can offer non-verbal feedback during a call.  This may include using emojis to represent yes/no responses, a raised hand, and more.  Available reactions may depend on the user's platform.
 
-The host can lower someone's hand.  For other responses, the host can clear all responses, but can not clear individual responses. 
+[Read more about how to manage non-verbal and real time feedback](https://support.zoom.us/hc/en-us/articles/115001286183-Nonverbal-feedback-during-meetings)
 
 
 #### Screen sharing
 
-The host can decide whether any participant can share their screen, or limit this access to host only.  Screen sharing access can not be granted or denied to specific participants only.  Screen sharing can be granted one of two ways:
+Screen sharing access is limited to hosts and co-hosts. They can choose to grant access to participants.
 
-The "Security" button on the bottom panel.<br>
-![Host Security Settings](images/host_security_screenshare.png)
+[Read more about granting or denying participants ability to screen share](https://support.zoom.us/hc/en-us/articles/115005759423).
 
-The "Advanced Sharing Options" on the "Share Screen" button on the bottom panel.<br>
-![Advanced Sharing Options](images/screenshare_advanced.png)
+Screen sharing options include ability to share just one window or the entire desktop; to share sound; and more.  Some of these features may be limited by the user's operating system.
+
+[Read more about managing screen sharing features](https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen-or-desktop-on-Zoom).
 
 
-The person screen sharing will have options to share their whole desktop or only a given window. Multiple windows can not be selected for screen sharing.
-
-If you would like to include your computer's audio feed when screensharing, please be sure to select the "Share Computer Sound" setting.  This can be useful, for example, when sharing a video clip.
-
-![Share audio with screenshare](images/zoom_screenshare_audio.png)
 
 #### Zoom chat
 
-Zoom chat allows participants to send messages to the whole group or to a select individual. Group chats are not an option.
+During a meeting, users can send message to all other users or to indivdiaul participants.  Hosts can manage who participants can chat with or disable chat entirely.
 
-A participant can only see the chat since they most recently joined. If a participant leaves and re-enters, they will not see old chats. Also, Zoom chat is not consistently preserved across breakout rooms. The original main room chat may not be available when participants return from a breakout room.
+[Read more about managing chat during a meeting](https://support.zoom.us/hc/en-us/articles/203650445-In-meeting-chat).
 
-Emojis are not recommended as they are not consistently available and do not render consistently across platforms.
+#### Closed captioning
 
-#### Live captioning calls
+Zoom provides automatic captioning of calls.  Accuracy of captioning may be limited due to factors such sound quality, accents, dialects, and jargon.
 
-Zoom offers the option for Hosts to live caption calls. The host will see "Closed Caption" option in their toolbar.  This will give the host the option to assign a participant to type live captions, or to type captions themselves.  We do not currently offer third party closed captioning services. 
+[Read about how to enable automatic captioning](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services).
 
-![Closed caption options](images/zoom_closed_caption.png)
+The host can also assign a participant to type closed captions.
+
+[Read more about how to assign a participant to type closed captions](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services#h_d6539cb1-0205-43ec-8cca-4ea1b3a4799f).
 
 
 #### Ending a call
 
-When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
+When the room host clicks "End" a dialogue box appears with two  options: "Leave Meeting" and "End Meeting for All". Be careful not to end the meeting if you are leaving the room while the event is still active.
 
 If the host leaves while participants are still in the room, the host will be asked to designate a new host before they can leave.
 
 
-#### General Tips
+#### Participant view
 
-- “Gallery view” in the upper right toggles the display to show more participants videos.  
+Participants can manage their screen view to show a gallery view of all participants or only show the current speaker.  Views can also be set when screensharing.
 
-- If a trainee is using Linux and gets the error message "Can not start share, wayland has not been supported yet, 
-please use x11 instead", have them log out of Zoom and log back in. On the login screen there is a gear with a dropdown menu there, choose the option with x11.
-
+[Read more about adjusting screen views during a meeting](https://support.zoom.us/hc/en-us/articles/201362323-Adjusting-screen-view-settings-during-a-virtual-meeting).
 
 ### For Administrators: Scheduling Zoom Rooms
 
