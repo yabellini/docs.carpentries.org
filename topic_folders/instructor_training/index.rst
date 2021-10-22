@@ -4,7 +4,7 @@ INSTRUCTOR TRAINING
    :maxdepth: 1
 
 For Trainers
-------------------------
+-------------------------
 .. toctree::
    :maxdepth: 1
 
@@ -15,7 +15,7 @@ For Trainers
    email_templates_trainers.md
 
 Administrative Policies and Procedures 
------------------------
+---------------------------------------
 .. toctree::
    :maxdepth: 1
 
