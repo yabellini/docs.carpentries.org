@@ -97,13 +97,11 @@ When the room host clicks "End" a dialogue box appears with two  options: "Leave
 If the host leaves while participants are still in the room, the host will be asked to designate a new host before they can leave.
 
 
-#### General Tips
+#### Participant view
 
-- “Gallery view” in the upper right toggles the display to show more participants videos.  
+Participants can manage their screen view to show a gallery view of all participants or only show the current speaker.  Views can also be set when screensharing.
 
-- If a trainee is using Linux and gets the error message "Can not start share, wayland has not been supported yet, 
-please use x11 instead", have them log out of Zoom and log back in. On the login screen there is a gear with a dropdown menu there, choose the option with x11.
-
+[Read more about adjusting screen views during a meeting](https://support.zoom.us/hc/en-us/articles/201362323-Adjusting-screen-view-settings-during-a-virtual-meeting).
 
 ### For Administrators: Scheduling Zoom Rooms
 
