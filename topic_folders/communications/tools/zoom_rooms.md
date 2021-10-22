@@ -27,21 +27,11 @@ If you are hosting a Community Discussion or Teaching Demo, you should have sign
 
 [Read about how to use the host key to claim host access.](https://support.zoom.us/hc/en-us/articles/115001315866).
 
-#### Creating a Waiting Room
+#### Using a Waiting Room
 
-Once you have entered and claimed host access, it is recommended that you create a waiting room.  This enables you to explicitly let people in, rather than allowing anyone to simply come in.  It helps prevent "zoombombing," or entry of unwelcome guests.
+Once you have entered and claimed host access, it is recommended that you create a waiting room.  This enables you to explicitly let people in, rather than allowing anyone to simply come in.  It helps prevent "zoombombing," or entry of unwelcome guests.  The host can then admit or deny people in the waiting room; send existing participants to the waiting room; and send messages to the waiting room.  Waiting room participants can not message the host.
 
-Click on "Security" in the bottom panel.  At this point, you can lock the room entirely.  This is not recommended, as someone who accidentally gets bumped off the call or other latecomers will not be able to re-join.  Select "Enable Waiting Room."  
-
-![Enable waiting room](images/host_security_waiting_room.png)
-
-This will give you (as host) a notification every time someone tries to enter the room.  You can admit them individually or as a group. 
-
-![Admit people from waiting room](images/someone_entered_waiting_room.png)
-
-You can also message the waiting room (as a whole; not individuals) before admitting them. If a name does not look familiar or valid to you, you may be worried about letting them in.  In this case, you can consider messaging them to ask them to verify themselves another way, like asking them to leave a message in the Etherpad chat.
-
-![Message people in waiting room](images/chat_waiting_room.png)
+[Read about how to enable and use a waiting room as host.](https://support.zoom.us/hc/en-us/articles/115000332726-Waiting-Room#h_f493a86f-7d08-4e3b-9d6d-9b236fe9cdcd)
 
 
 #### Transferring host privileges or assigning a co-host
