@@ -9,7 +9,7 @@ Hi [ site contact name ],
 Congratulations on your institution’s 
 [ new membership with The Carpentries / Carpentries membership renewal ]. 
 As a [silver/gold/platinum] member, you have a total of [ number ] 
-seats in Instructor Training available to you. We’d like to get you
+seats in Instructor Training available to you. We would like to get you
 set up for Instructor Training early in your membership year so that
 your new Instructors can productively build a Carpentries community 
 at your institution. 
@@ -543,7 +543,7 @@ To schedule a test run, you can [ email me/look at my calendar ].
 Please let me know if you cannot find a time that works, so we can 
 look for some other options.
 
-I'm looking forward to having your team on board! Please let me know
+I am looking forward to having your team on board! Please let me know
 if you have any questions about how this works.
 
 Best, 
@@ -596,12 +596,12 @@ Thank you for applying for The Carpentries Instructor Training program. We’re 
 
 If you submitted your application for a specific instructor training workshop, please disregard the message below.
 
-We receive hundreds of applications, and we cannot provide no-cost training for every applicant. Please, don't let that discourage you!
-We'd like to help you bring workshops and instructor training to your organisation. We’re working on ways to increase our capacity to
+We receive hundreds of applications, and we cannot provide no-cost training for every applicant. Please, do not let that discourage you!
+We would like to help you bring workshops and instructor training to your organisation. We are working on ways to increase our capacity to
 offer trainings to individuals not affiliated with member institutions, and hope to be able to offer more of these trainings soon. Your
 application has been placed on our waiting list while we grow our capacity.
 
-If you’d like to become a Member, get in touch with memberships@carpentries.org to learn more about how we can help you make the case at
+If you would like to become a Member, get in touch with memberships@carpentries.org to learn more about how we can help you make the case at
 your organisation. In the meantime, please get involved!  
   - Join our discussion email list (https://carpentries.topicbox.com/groups/discuss)
   - Follow us on Twitter (@thecarpentries, @datacarpentry, @swcarpentry, and @libcarpentry)
@@ -712,7 +712,7 @@ instructor. Your certificate is attached. Congratulations!
 
 Please note that although your certificate reads either Software Carpentry, Data Carpentry, or Library Carpentry you are fully certified to teach all workshops for The Carpentries.
 
-If you haven't already, please be sure to join the instructors mailing list (https://carpentries.topicbox.com/groups/instructors). This
+If you have not already, please be sure to join the instructors mailing list (https://carpentries.topicbox.com/groups/instructors). This
 is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list 
 (https://carpentries.topicbox.com/groups/discuss) for broader interactions with The Carpentries community. In addition to being able to 
 teach at Carpentries-organised workshops, you are also able to organise and host your own local workshops. You can find more information 
@@ -763,7 +763,7 @@ We'll be starting our new cohort of instructor Trainers in [ month ]. Our cohort
 
 If you're interested in being part of this cohort, please try to complete the following by [ deadline ] so that we can finalise the schedule and start our meetings!
 
-1) Please fill out this poll [ link ] for scheduling book club meetings. Don't forget to adjust the timezone shown (pull down menu above the time list). Please choose the days and times that work for you for the entire 8 week period of our book club. To complete certification as a Trainer, we'll ask that you miss at most one of our 8 book club meetings. Since we are spread across several time zones, please be as accommodating as possible in filling out your availability. We will have two meeting times per week to accommodate all time zones, but you will only need to attend one of the weekly meetings.
+1) Please fill out this poll [ link ] for scheduling book club meetings. Do not forget to adjust the timezone shown (pull down menu above the time list). Please choose the days and times that work for you for the entire 8 week period of our book club. To complete certification as a Trainer, we'll ask that you miss at most one of our 8 book club meetings. Since we are spread across several time zones, please be as accommodating as possible in filling out your availability. We will have two meeting times per week to accommodate all time zones, but you will only need to attend one of the weekly meetings.
 
 2) Please take a look over the process for trainer training and make sure that all of the requirements of becoming a Trainer work with your schedule and other responsibilities. We're excited to have you in the Trainer community, but do want to make sure that all Trainers are able to commit the time required, so that we are able to realistically determine the number of instructors we train per year.
 
@@ -771,13 +771,13 @@ If you're interested in being part of this cohort, please try to complete the fo
 
 4) Please also fill out your availability for instructor training events for [ month through month ] and add your name to the Trainers list in the second tab. This cohort of Trainers will be ready to co-teach instructor training events by the end of [ month ] and to teach on their own shortly after that.
 
-5) Please add upcoming Trainer meetings (http://pad.software-carpentry.org/trainers-backup) to your calendar. These are also on the Community Calendar. Each of these is held in two different time zones - you don't need to attend both meetings, but you're welcome to!
+5) Please add upcoming Trainer meetings (http://pad.software-carpentry.org/trainers-backup) to your calendar. These are also on the Community Calendar. Each of these is held in two different time zones - you do not need to attend both meetings, but you're welcome to!
 
-6) Please sign up for the Trainers email list (https://carpentries.topicbox.com/groups/trainers) if you haven't already done so.
+6) Please sign up for the Trainers email list (https://carpentries.topicbox.com/groups/trainers) if you have not already done so.
 
 7) Please respond to this email with a quick introduction so that we can all get to know each other. I'll send out my introduction as a separate email following this.
 
-I know that's a lot! Let me know if you have any questions. I'm looking forward to seeing you all at our first book club discussion.
+I know that's a lot! Let me know if you have any questions. I am looking forward to seeing you all at our first book club discussion.
 
 Best,
 [ name ]
