@@ -94,7 +94,7 @@ I look forward to seeing you,
 
 ##### Trainee Invited to Repeat Teaching Demo
 
-Note to Trainers: Even with a template, these emails can be hard to compose and send! When in doubt, don't hesitate to reach 
+Note to Trainers: Even with a template, these emails can be hard to compose and send! When in doubt, do not hesitate to reach 
 out to the Trainer community and/or Core Team for support in deciding, customizing, or responding to questions about these 
 messages.
 
