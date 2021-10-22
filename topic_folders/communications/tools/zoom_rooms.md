@@ -92,7 +92,7 @@ The host can also assign a participant to type closed captions.
 
 #### Ending a call
 
-When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
+When the room host clicks "End" a dialogue box appears with two  options: "Leave Meeting" and "End Meeting for All". Be careful not to end the meeting if you are leaving the room while the event is still active.
 
 If the host leaves while participants are still in the room, the host will be asked to designate a new host before they can leave.
 
