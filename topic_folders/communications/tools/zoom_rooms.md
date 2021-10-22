@@ -79,11 +79,15 @@ During a meeting, users can send message to all other users or to indivdiaul par
 
 [Read more about managing chat during a meeting](https://support.zoom.us/hc/en-us/articles/203650445-In-meeting-chat).
 
-#### Live captioning calls
+#### Closed captioning
 
-Zoom offers the option for Hosts to live caption calls. The host will see "Closed Caption" option in their toolbar.  This will give the host the option to assign a participant to type live captions, or to type captions themselves.  We do not currently offer third party closed captioning services. 
+Zoom provides automatic captioning of calls.  Accuracy of captioning may be limited due to factors such sound quality, accents, dialects, and jargon.
 
-![Closed caption options](images/zoom_closed_caption.png)
+[Read about how to enable automatic captioning](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services).
+
+The host can also assign a participant to type closed captions.
+
+[Read more about how to assign a participant to type closed captions](https://support.zoom.us/hc/en-us/articles/207279736-Managing-Zoom-closed-captioning-and-live-transcription-services#h_d6539cb1-0205-43ec-8cca-4ea1b3a4799f).
 
 
 #### Ending a call
