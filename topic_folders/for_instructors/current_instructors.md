@@ -37,16 +37,20 @@ If you are attending a conference or event and would like to network with other 
 please add the details of the event and your own details to our [meetups Etherpad](https://pad.carpentries.org/swc-events-meetup).
 
 ### Accessing and Updating Your Instructor Profile
-We maintain a record of information for each of our instructors in our AMY database system. We use instructor profiles to help us identify instructors for workshops and to keep track of when and where you teach workshops. We also ask for social profile information as well as your ORCID and personal website. All of this information will be published on the [instructor page](https://carpentries.org/instructors) of our website if you consent. Being included on our website is
-strictly opt-in. You must login to your instructor profile and check the box "consent to publish profile" or your instructor
-information **will not** be included in our listing.
 
-To view and update your AMY profile you can [login to AMY](https://amy.carpentries.org/) using your GitHub account.
-If you are unable to login to AMY, please submit your GitHub username to [team@carpentries.org](mailto:team@carpentries.org)
-and the administrative team will get your profile updated allowing you to login.
-![AMY Database tool login window, allowing login with username/password or GitHub account](https://docs.carpentries.org/_images/amy_login_screen.png)
+AMY is a database application, tracking programmatic activity for The Carpentries.
 
-If you have taught, hosted, or helped at workshops that aren’t listed in your profile, please send a brief message, including a link to the workshop website(s) to [team@carpentries.org](mailto:team@carpentries.org).
+Most functionality is limited to authorized administrative users.  Individuals whose data is tracked in AMY can view only their own profile page.  The Carpentries maintains a record of information for all individuals with roles in The Carpentries such as Instructor, Trainer, Maintainer, member site contact, and more.
+
+If you have a defined role in The Carpentries, you can view and update your own records by [logging in to AMY](https://amy.carpentries.org/) using your GitHub account.
+If you are unable to login to AMY, please submit your GitHub username to [team@carpentries.org](mailto:team@carpentries.org) so we can update your access. If you have taught, hosted, or helped at workshops that aren’t listed in your profile, please send a brief message, including a link to the workshop website(s) to [team@carpentries.org](mailto:team@carpentries.org).
+
+The code base can be found in the [AMY GitHub repo](https://github.com/carpentries/amy).  
+The [web based application can be found here](https://amy.carpentries.org/). 
+[Documentation for AMY administrators can be found here](https://carpentries.github.io/amy/). 
+
+
+
 
 ### Teaching
 
