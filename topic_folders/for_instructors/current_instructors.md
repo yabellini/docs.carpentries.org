@@ -70,6 +70,11 @@ Once you log in, you will see information attached to your profile including the
 
 You will also see a list of workshops and instructor trainings where you have had a role of helper, Host, Organiser, or Instructor. If you have taught, hosted, or helped at workshops that aren’t listed in your profile, please send a brief message, including a link to the workshop website(s) to [team@carpentries.org](mailto:team@carpentries.org).
 
+**Instructor Training View**
+
+The individual profile view also includes a view for instructor training checkout progress.  Here, trainees can track whether their steps towards instructor training certification have been recorded.  Due to the structure of our checkout tracking progress, all steps towards checkout may not be included here. If your instructor badge is correctly displayed, you are in good standing.
+
+**More information**
 
 The code base can be found in the [AMY GitHub repo](https://github.com/carpentries/amy).  
 The [web based application can be found here](https://amy.carpentries.org/). 
