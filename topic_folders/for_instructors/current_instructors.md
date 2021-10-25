@@ -38,7 +38,7 @@ please add the details of the event and your own details to our [meetups Etherpa
 
 ### Accessing and Updating Your Instructor Profile
 
-AMY is a database application, tracking programmatic activity for The Carpentries.  The Carpentries maintains a record of information for all individuals with roles in The Carpentries such as Instructor, Trainer, Maintainer, member site contact, and more.Most functionality is limited to authorized administrative users. Individuals whose data is tracked in AMY can view only their own profile page. 
+AMY is a database application, tracking programmatic activity for The Carpentries.  The Carpentries maintains a record of information for all individuals with roles in The Carpentries such as Instructor, Trainer, Maintainer, member site contact, and more. Most functionality is limited to authorized administrative users. Individuals whose data is tracked in AMY can view only their own profile page. 
 
 If you have a defined role in The Carpentries, you can view and update your own records by [logging in to AMY](https://amy.carpentries.org/) using your GitHub account.
 If you are unable to login to AMY, please submit your GitHub username to [team@carpentries.org](mailto:team@carpentries.org) so we can update your access. 
