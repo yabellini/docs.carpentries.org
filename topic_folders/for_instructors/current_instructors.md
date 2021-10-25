@@ -65,7 +65,7 @@ Once you log in, you will see information attached to your profile including the
 * **Languages**  Optional. Human languages you are comfortable teaching or communicating in.
 * **Current occupation/career stage**  Optional. Free text field to note occupation or career stage.
 * **May contact** Required.
-* **Consent to making profile public** Required. If "yes" your profile will be listed on pages depending on your role in The Carpentries, such as Carpentries Instructors, Carpentries Trainers, and more.
+* **Consent to making profile public** Required. If "yes" your profile will be listed on pages depending on your role in The Carpentries, such as [Carpentries Instructors](https://carpentries.org/instructors/), [Carpentries Trainers](https://carpentries.org/trainers/), and more.
 * **Do you consent to have your name or identity associated with lesson publications?** Optional. If yes, your name and/or id will be listed with our lesson publications.
 
 You will also see a list of workshops and instructor trainings where you have had a role of helper, Host, Organiser, or Instructor. If you have taught, hosted, or helped at workshops that aren’t listed in your profile, please send a brief message, including a link to the workshop website(s) to [team@carpentries.org](mailto:team@carpentries.org).
