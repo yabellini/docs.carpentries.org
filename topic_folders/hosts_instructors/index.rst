@@ -45,9 +45,9 @@ Self-Organised Workshop
 
     * `General Channel <https://swcarpentry.slack.com/archives/C03LE48AY>`_ on Slack
 
-    * `Instructors Channel <https://carpentries.topicbox.com/groups/instructors>`_ on TopicBox
+    * `Instructors List <https://carpentries.topicbox.com/groups/instructors>`_ on TopicBox
     
-    * `Instructors List <https://swcarpentry.slack.com/archives/C08BVNU00>`_ on Slack
+    * `Instructors Channel <https://swcarpentry.slack.com/archives/C08BVNU00>`_ on Slack
 
 
 In both cases, the host site is expected to pay for instructor travel (if needed) and
