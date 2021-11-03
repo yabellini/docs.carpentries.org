@@ -90,29 +90,6 @@ The Mentoring Chair of the Instructor Development Committee is responsible for:
 
 - Certified Carpentries Instructor
 
-#### Discussion Session Coordinator
-
-##### Responsibilities
-
-The primary responsibilities of the Discussion Session Coordinator are:
-
-- Organising Themed Discussion Sessions and #CarpentriesConversations that come in on the [Call for Community Discussion Facilitators](https://forms.gle/nDgJWUdpaH4gYP9c9) form 
-- Inviting instructors to attend pre and post-workshop discussions
-- Recruiting discussion hosts 
-- Maintaining the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts)
-- Maintaining the [community discussions Etherpad](http://pad.software-carpentry.org/community-discussions) with upcoming dates
-- Adding Community Discussions to the [Community Calendar](https://carpentries.org/community/#community-events)
-- Checking in with hosts the week of their discussion sessions
-
-##### Time Commitment
-
-- 1-2 hours a week
-- 1 year term beginning 1-May or 1-Nov
-
-##### Requirements
-
-- Certified Carpentries Instructor
-
 #### Special Projects Chair
 
 ##### Responsibilities
