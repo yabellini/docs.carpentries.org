@@ -20,7 +20,7 @@ Curriculum Advisors represent The Carpentries community and should strive to emb
 #### Meetings
 Each Curriculum Advisory Committee will meet at least quarterly, and preferably every two months. These meetings are the primary avenue through which CAC members will interact, and should follow best practices for The Carpentries meetings, including having meeting roles, taking notes, and creating and holding a space for everyone to contribute. CAC members should prepare for meetings by reading and contributing to relevant documents in advance of the meeting. 
 
-#####  <a name="meeting-roles">Meeting Roles</a>
+##### Meeting Roles
 The Chair will assign the following rotating roles for each meeting:
 - Facilitator - Introduces each agenda item. Monitors both the chat and the visual meeting window for “hands”, keeps track of order, and says whose turn it is to speak. Makes sure everyone has a chance to share their views.
 - Notetaker - Records meeting attendance and major points of discussion. Especially takes note of decisions and action items.
