@@ -74,7 +74,7 @@ the onboarding process.
 1. To set up a scheduling poll to schedule Maintainer Onboarding, use [WhenIsGood](http://whenisgood.net/). Click "Use Timezones" and then "SHOW OPTIONS". Unselect Sunday and Saturday. Add Duration = 60 minutes. Select "hide dates".
 1. Add Maintainers who are going through training to the [maintainer-onboarding Google Group](https://groups.google.com/a/carpentries.org/forum/#!forum/maintainer-onboarding). This is where announcements about upcoming meetings should be sent.
 1. After the deadline has passed for responding to the Maintainer Onboarding scheduling poll, select the two times that maximise attendance. This needs to be done manually from the whenisgood results, as there is not a "choose two times" option.
-1. Populate the [Maintainer onboarding Etherpad](http://pad.software-carpentry.org/maintainer-onboarding) with meeting dates and times. Use [timeanddate meeting time announcer](https://www.timeanddate.com/worldclock/fixedform.html) links to make it easy for people to convert meeting times to their own time zone.
+1. Populate the [Maintainer onboarding Etherpad](https://pad.carpentries.org/maintainer-onboarding) with meeting dates and times. Use [timeanddate meeting time announcer](https://www.timeanddate.com/worldclock/fixedform.html) links to make it easy for people to convert meeting times to their own time zone.
 1. Send out an [email](email_templates.html#maintainer-onboarding-meetings) to the Google Group letting everyone know about the scheduling.
 1. Set up a [new event in AMY](../workshop_administration/amy_manual.html#adding-a-new-event) with the slug YEAR-MO-DA-maintainer-onboarding. Add all maintainer trainees as learners. Add onboarding leader as instructor.
 1. One week before the first onboarding meeting, send a reminder [email](email_templates.html#onboarding-reminder) to the Google Group.
@@ -101,7 +101,7 @@ the onboarding process.
 
 ## Maintainer Community Meetings
 
-The Maintainer community meets on the third Wednesday of every month. Times for these meetings can be found on the [Community Calendar](https://carpentries.org/community/#community-events). A reminder for these meetings should be sent out to the Maintainers email list one week before the meeting takes place, and the [Maintainers Etherpad](https://pad.carpentries.org/maintainers) should also be updated. Ideally, these meetings will be co-facilitated by a member of [The Carpentries Core Team](https://carpentries.org/team/) and the Maintainer Community Development Lead.
+The Maintainer community meets on the third Wednesday of every month. Times for these meetings can be found on the [Community Calendar](https://carpentries.org/community/#community-events). A reminder for these meetings should be sent out to the Maintainers email list one week before the meeting takes place, and the [Maintainers Etherpad](https://codimd.carpentries.org/maintainers?both) should also be updated. Ideally, these meetings will be co-facilitated by a member of [The Carpentries Core Team](https://carpentries.org/team/) and the Maintainer Community Development Lead.
 
 The following is a Etherpad template that can be used as a Maintainer meeting agenda:
 
