@@ -76,7 +76,7 @@ the onboarding process.
 1. After the deadline has passed for responding to the Maintainer Onboarding scheduling poll, select the two times that maximise attendance. This needs to be done manually from the whenisgood results, as there is not a "choose two times" option.
 1. Populate the [Maintainer onboarding Etherpad](http://pad.software-carpentry.org/maintainer-onboarding) with meeting dates and times. Use [timeanddate meeting time announcer](https://www.timeanddate.com/worldclock/fixedform.html) links to make it easy for people to convert meeting times to their own time zone.
 1. Send out an [email](email_templates.html#maintainer-onboarding-meetings) to the Google Group letting everyone know about the scheduling.
-1. Set up a [new event in AMY](../workshop_administration/amy_manual.html#adding-a-new-event) with the slug YEAR-MO-DA-maintainer-onboarding. Add all maintainer trainees as learners. Add onboarding leader as instructor.
+1. Set up a [new event in AMY](https://carpentries.github.io/amy/users_guide/#adding-a-new-event) with the slug YEAR-MO-DA-maintainer-onboarding. Add all maintainer trainees as learners. Add onboarding leader as instructor.
 1. One week before the first onboarding meeting, send a reminder [email](email_templates.html#onboarding-reminder) to the Google Group.
 1. Run the three weeks of meetings according to [the curriculum](https://carpentries.github.io/maintainer-onboarding/). Keep record of who participates in the AMY event.
 1. If people are not able to make all of the meetings, [email](email_templates.html#missed-onboarding-meeting) them to ask them to write out responses to the discussion questions and homework.
