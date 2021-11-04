@@ -48,7 +48,7 @@ Interested in becoming a session host? Not sure how or what would be required of
 1. Complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSc3a0OJ3_mXMpBKhwdk5i_t36pt_Nd3_v0GzoOkeIVCOfzS-w/viewform) to start the onboarding process.
 2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Watch this Discussion Host Onboarding [video](https://www.youtube.com/watch?v=4hP5kBmNdYM&t=2s) and then the accompanying [slides](https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/edit#slide=id.g3b8317a2f2_1_29), presented by our Executive  Director, Dr Kari L. Jordan.
 3. To co-host a Community Discussion session, you can sign-up [here](https://pad.carpentries.org/community-discussions) as notetaker.
-4. Have any other questions? - reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox channels]\(https://swcarpentry.slack.com/archives/CBHECTZJN).
+4. Have any other questions? - reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox channels](https://swcarpentry.slack.com/archives/CBHECTZJN).
 
 
 ### Signing up to Host or co-Host a Community Discussion
