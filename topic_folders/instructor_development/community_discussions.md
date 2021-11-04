@@ -48,14 +48,14 @@ Interested in becoming a session host? Not sure how or what would be required of
 1. Complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSc3a0OJ3_mXMpBKhwdk5i_t36pt_Nd3_v0GzoOkeIVCOfzS-w/viewform) to start the onboarding process.
 2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Watch this Discussion Host Onboarding [video](https://www.youtube.com/watch?v=4hP5kBmNdYM&t=2s) and then the accompanying [slides](https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/edit#slide=id.g3b8317a2f2_1_29), presented by our Executive  Director, Dr Kari L. Jordan.
 3. To co-host a Community Discussion session, you can sign-up [here](https://pad.carpentries.org/community-discussions) as notetaker.
-4. Have any other questions? - reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox channels](https://swcarpentry.slack.com/archives/CBHECTZJN).
+4. Have any other questions? Reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox list](https://swcarpentry.slack.com/archives/CBHECTZJN).
 
 
 ### Signing up to Host or co-Host a Community Discussion
 
 The Carpentries uses [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions) to manage scheduling of Community Discussion sessions (these include Pre- and Post-Workshop Discussions, Themed Discussion Sessions and Carpentries Conversations).  This allows community members to schedule discussion sessions at times that are best for them, rather than requiring them to choose from a predefined schedule.  Four times a year, Discussion Hosts (i.e Pre- and Post Workshop Discussion Hosts, facilitators coordinating Themed Discussion Sessions and/or Carpentries Conversations) will be asked to slot in their availability. 
 
-We enouage community members aiming to host Themed Discussion and/or Carpentries Conversations to make use of the [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions) scheduling tool during the four times a year, this will allow The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform).
+We enouage community members aiming to host Themed Discussion and/or Carpentries Conversations to make use of the [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions) scheduling tool during the four times a year. This will allow The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform).
 
 ![Calendly Demo](images/calendly.gif)
 
