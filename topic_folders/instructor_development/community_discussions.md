@@ -1,6 +1,6 @@
 ## Community Discussions
 
-The Instructor Development Committee leads and organises Community Discussions, sets up mentoring cycles, leads special projects aimed at improving instructor resources in The Carpentries and advocates for activities and initiatives that promote professional development, equity and inclusivity for Carpentries instructors. This document describes how community discussions are organised and conducted.  Checklists for the Hosts and Discussion Session Coordinator are [here](#checklists-community-discussions).  
+The Carpentries Community Development Team leads and organises Community Discussions. This document describes how community discussions are organised and conducted.  Checklists for the Discussion Hosts are [here](#checklists-community-discussions).  
 
 The Carpentries Community Discussions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Discussion topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are three types of Community Discussions:
 
@@ -22,14 +22,13 @@ Read more about the [history of Community Discussions](https://carpentries.org/c
 ### Terminology
 
 -   **Community Discussion**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
--   **Discussion Session Host**: member of The Carpentries community who facilitates a community discussion.
--   **Discussion Session Coordinator**: a volunteer from the Instructor Development Committee whose responsibilities include updating the scheduling Etherpad and emailing invitations to instructors. For more information about this role, see the [role description](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#instructor-development-committee-roles).
+-   **Discussion Session Host**: member of The Carpentries community who facilitates a Pre- and Post Workshop Discussion, Themed Discussion Session and/or a Carpentries Conversation.
 
 ### Motivation
 
 1. The Carpentries is a community-led project and the community needs opportunity to interact.
 
-1. The Carpentries believes in jugyokenkyu, or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
+1. The Carpentries believes in [jugyokenkyu](https://carpentries.github.io/instructor-training/11-practice-teaching/), or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
 
 1. The Carpentries is continuing to increase the number of instructors and develop new lessons. New instructors would like to hear from experienced teachers who have recently taught to help prepare for upcoming workshops.
 
@@ -37,7 +36,7 @@ Read more about the [history of Community Discussions](https://carpentries.org/c
 
 Hosting community discussions is a great way to meet more people in The Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
 
-Any instructor with experience of organising/teaching workshops and a good knowledge of The Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Instructor Development Committee](https://pad.carpentries.org/instructor-development) and hosts are encouraged to join the meetings of this committee. Committee meetings include an update on community discussions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you are subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
+Any instructor with experience of organising/teaching workshops and a good knowledge of The Carpentries as an organisation is welcome to host a community discussion session. Sessions are coordinated by The Carpentries Community Development Team. To receive messages relating to discussion sessions and hosting, make sure that you are subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
 A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you do not have to "fly solo" in your first session.
 
@@ -47,14 +46,16 @@ A great way to get into hosting these sessions is to first attend as an observer
 Interested in becoming a session host? Not sure how or what would be required of you? No problem! Follow these steps:
 
 1. Complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSc3a0OJ3_mXMpBKhwdk5i_t36pt_Nd3_v0GzoOkeIVCOfzS-w/viewform) to start the onboarding process.
-2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Watch this Discussion Host Onboarding [video](https://www.youtube.com/watch?v=4hP5kBmNdYM&t=2s) and then the accompanying [slides](https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/edit#slide=id.g3b8317a2f2_1_29), presented by our Executive  Director, Dr Kari L. Jordan.
+2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Watch this Discussion Host Onboarding [video](https://www.youtube.com/watch?v=4hP5kBmNdYM&t=2s) and then the accompanying [slides]\(https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/edit#slide=id.g3b8317a2f2_1_29), presented by our Executive  Director, Dr Kari L. Jordan.
 3. To co-host a Community Discussion session, you can sign-up [here](https://pad.carpentries.org/community-discussions) as notetaker.
-4. Have any other questions? - reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox channels](https://swcarpentry.slack.com/archives/CBHECTZJN).
+4. Have any other questions? - reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox channels]\(https://swcarpentry.slack.com/archives/CBHECTZJN).
 
 
 ### Signing up to Host or co-Host a Community Discussion
 
-The Carpentries uses [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions) to manage scheduling of Community Discussion sessions.  This allows hosts to schedule discussion sessions at times that are best for them, rather than requiring them to choose from a predefined schedule.  Four times a year, Discussion Hosts will be asked to slot in their availability.
+The Carpentries uses [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions) to manage scheduling of Community Discussion sessions (these include Pre- and Post-Workshop Discussions, Themed Discussion Sessions and Carpentries Conversations).  This allows community members to schedule discussion sessions at times that are best for them, rather than requiring them to choose from a predefined schedule.  Four times a year, Discussion Hosts (i.e Pre- and Post Workshop Discussion Hosts, facilitators coordinating Themed Discussion Sessions and/or Carpentries Conversations) will be asked to slot in their availability. 
+
+We enouage community members aiming to host Themed Discussion and/or Carpentries Conversations to make use of the [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions) scheduling tool during the four times a year, this will allow The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform).
 
 ![Calendly Demo](images/calendly.gif)
 
@@ -67,7 +68,7 @@ Calendar<br>published by |7 Dec               |7 Mar                |7 Jun      
 
 Once Discussion Hosts have scheduled themselves in for a Community Discussion session via Calendly, The Carpentries Core Team will ensure that these events appear on the [Etherpad](https://pad.carpentries.org/community-discussions) and on the [Community Calendar](https://carpentries.org/community/#community-events).  
 
-This system aims to build Community Discussion schedules around the Host availability.  The community of Discussion Session Hosts should represent a good cross-section of the general Carpentries community, and should offer the broader community a better option of sessions to attend.  
+This system aims to build Community Discussion schedules around the Host availability.  The community of Discussion Session Hosts should represent a good cross-section of the general Carpentries community, and should offer the broader community a better option of sessions to attend.   
 
 People interested in being Co-hosts can review the calendar once it is published, and sign up on the Etherpad to co-host an event of their choice.
 
@@ -99,20 +100,6 @@ We recognise that even after scheduling their own events, Discussion Hosts may h
 ### Checklists - Community Discussions
 
 Community discussions are organised and conducted through [this Etherpad](http://pad.carpentries.org/community-discussions).
-
-#### Discussion Session Coordinator
-
-##### Before the Discussion Session
-
-The Instructor Development Committee is responsible for organising the community discussions so that
-
--   each month has at least eight discussion sessions, and
--   each session has at least one host (preferably two) to conduct the discussion.
-
-[This is done periodically using Calendly](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html#signing-up-to-host-or-co-host-a-community-discussion). The Discussion Session Coordinator is responsible for scheduling the events and ensuring instructors who are about to teach and who have recently taught are being invited.  
-
-Scheduled events are listed on this [Etherpad](http://pad.carpentries.org/community-discussions).
-
 
 #### Host and Co-Host
 ##### Leading the Discussion Session
@@ -245,7 +232,7 @@ You could ask the participant to type their questions in the Community Discussio
 
 ### Email Templates
 
-#### Call for Instructors (to Instructor Development Committee)
+#### Call for Instructors
 
 Subject: Sign-up to Host [QUARTER-YEAR] Community Discussion Sessions
 
