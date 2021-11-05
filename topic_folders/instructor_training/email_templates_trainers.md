@@ -1,10 +1,6 @@
-### Email Templates (Trainers)
+### Email Templates (Trainers: English)
 
-This section contains email templates for English and Spanish activities.
-
-#### Templates in English
-
-##### Pre-Training (1 week before) Email Sent by Trainer or Member Contact to Trainees
+#### Pre-Training (1 week before) Email Sent by Trainer or Member Contact to Trainees
 
 **Note:** For most events, Trainers will **not** need to send this. A similar email will be sent by the Core Team. This template is to be used when Trainers are handling communications for an in-house training. For any questions about how or when to use this template, email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 
@@ -58,7 +54,7 @@ Best,
 [Name]
 
 
-##### Email after Training Event
+#### Email after Training Event
 
 Subject: Thanks for attending Carpentries Instructor Training!
 
@@ -72,7 +68,7 @@ Best,
 
 [ name ]
 
-##### Reminder Teaching Demo
+#### Reminder Teaching Demo
 
 Subject: The Carpentries teaching demonstration
 
@@ -92,7 +88,7 @@ I look forward to seeing you,
 
 [ sender name ] 
 
-##### Trainee Invited to Repeat Teaching Demo
+#### Trainee Invited to Repeat Teaching Demo
 
 Note to Trainers: Even with a template, these emails can be hard to compose and send! When in doubt, do not hesitate to reach 
 out to the Trainer community and/or Core Team for support in deciding, customizing, or responding to questions about these 
@@ -119,7 +115,7 @@ Best wishes,
 
 
 
-##### Trainee Passed Teaching Demo
+#### Trainee Passed Teaching Demo
 
 Subject: Carpentries Instructor Training: Teaching Demo
 
@@ -135,9 +131,9 @@ Best wishes,
 
 [ sender name ] 
 
-#### Templates in Spanish
+### Email Templates (Trainers: Spanish)
 
-##### Bilingual Demo Session Reminder Email
+#### Bilingual Demo Session Reminder Email
 
 Subject: Carpentries instructor training: Teaching Demo
 
@@ -158,7 +154,7 @@ Best/Saludos,
 [ sender name ]
 
 
-##### Spanish: Trainee Invited to Repeat Teaching Demo
+#### Spanish: Trainee Invited to Repeat Teaching Demo
 
 Nota a los Trainers: Incluso con un template, este tipo de emails son difíciles de redactar y enviar! Si tienes preguntas, no dudes en contactar con la comunidad de Trainers y/o nuestro personal para tomar decisiones, personalizar o responder preguntas sobre estos mensajes.
 
@@ -181,7 +177,7 @@ Saludos,
 
 
 
-##### Spanish: Trainee Did Pass Teaching Demo
+#### Spanish: Trainee Did Pass Teaching Demo
 
 Subject: Formación para instructor de las Carpentries: Demostración de enseñanza
 
