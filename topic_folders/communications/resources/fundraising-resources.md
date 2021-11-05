@@ -59,11 +59,9 @@ https://give.communityin.org/81tdn9?ref=sh_fAVdid_ab_1xKrq5WDcOB1xKrq5WDcOB
 
 ## Videos
 
-### [Appeal Video from The Executive Director - Long Form](https://youtu.be/EEdBj3vybW4)
+### [Appeal Video from The Executive Director (https://youtu.be/WachoKRq1cI)
 
-### [Appeal Video from The Executive Director - Short Form](https://youtu.be/pibzxCFaM3I)
 
-### [The Carpentries | Our Goal (Shorter appeal video with community)](https://youtu.be/KiTjUuEC4_I)
 
 ## Appeal Images
 ### Fundraising Letter Pull Quote
