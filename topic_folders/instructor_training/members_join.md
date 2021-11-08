@@ -56,7 +56,7 @@ Instructor Training events are held online via video conference, with schedule o
 1. Visit the [Instructor Training Calendar](https://carpentries.github.io/instructor-training/training_calendar/) and select an event. Click on the link to Eventbrite and use the following code: [ CODE ]. Please do not share this code.
 2. Complete The Carpentries’ [profile-creation form](https://amy.carpentries.org/forms/request_training/) using the same registration code: [ CODE ]. This allows The Carpentries to track your progress to certification. 
 
-You will receive more details about your training from The Carpentries (instructor.training@carpentries.org) one week prior to your event. Be sure to look out for this email, and check your spam filters. There is a small amount of preparation expected before the training as well as three short tasks involved in certification. To learn more, see the [Preparing for Training and Certification page](https://data-lessons.github.io/instructor-training/setup.html). 
+You will receive more details about your training from The Carpentries (instructor.training@carpentries.org) one week prior to your event. Be sure to look out for this email, and check your spam filters. There is a small amount of preparation expected before the training as well as three short tasks involved in certification. To learn more, see the [Preparing for Training and Certification page](https://carpentries.github.io/instructor-training/setup.html). 
 
 If anything comes up and you are no longer interested or able to participate, please let me know as soon as possible so that I can offer this seat to another person.
 
