@@ -14,7 +14,7 @@ Thank you for registering for The Carpentries Instructor Training on **DATE_TIME
 
 This training is designed for people who want to become certified Carpentries instructors. We recommend that you be familiar with at least one of the technologies that we teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet software, and/or Git) before taking Instructor Training. This training will not teach any of those subjects, but will instead focus on developing skill and knowledge about evidence-based teaching practices and workshop procedures. 
 
-For more information about what will be covered at this training as well as a sample schedule, check out our [Instructor Training Curriculum](https://data-lessons.github.io/instructor-training/).
+For more information about what will be covered at this training as well as a sample schedule, check out our [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/).
 
 **Connecting to Your Training** 
 
@@ -24,7 +24,7 @@ Please see this [training website/collaborative document] with more details abou
 
 **Preparing for Your Training**
 
-Before your training, please visit the [Preparing for Instructor Training page](https://data-lessons.github.io/instructor-training/setup.html) for complete instructions. A brief summary of these instructions is as follows
+Before your training, please visit the [Preparing for Instructor Training page](https://carpentries.github.io/instructor-training/setup.html) for complete instructions. A brief summary of these instructions is as follows
 
 1. Complete our Pre-training Survey. 
 
@@ -36,7 +36,7 @@ Before your training, please visit the [Preparing for Instructor Training page](
 
 **Checkout: The Instructor Certification Process** 
 
-After your training, you will be asked to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on the [Checkout Instructions page](https://data-lessons.github.io/instructor-training/checkout/index.html) and will be discussed at your training. 
+After your training, you will be asked to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on the [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html) and will be discussed at your training. 
 
 **Cancellations and Attendance**
 
