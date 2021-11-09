@@ -14,7 +14,7 @@
 * <s>22 July</s>
 * <s>26 August</s>
 * <s>7 and 16 September 2021 14:00 - 15:00 SAST/12:00-13:00 UTC (see Networking events during [https://za2021.carpentryconnect.org/](https://za2021.carpentryconnect.org/))</s>
-* 28 October
+* <s>28 October</s>
 * 25 November
 
 - **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org) and we can pair you up with a team at a time and date that will suit you.
