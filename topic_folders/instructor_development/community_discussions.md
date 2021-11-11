@@ -230,20 +230,3 @@ You could ask the participant to type their questions in the Community Discussio
 
 
 
-### Email Templates
-
-#### Call for Instructors
-
-Subject: Sign-up to Host [QUARTER-YEAR] Community Discussion Sessions
-
-Hello,
-
-Sign-up for host for Community Discussion sessions for [QUARTER-YEAR] is open now!
-
-Please take a look at our Calendly link [insert link here] and put yourself down for a slot or two that best suits your schedule. We want to accommodate your schedules as much as possible! We ask that you sign up by [insert date here], so that we can publish the calendar the following week. If you know you would like to host something in [QUARTER-YEAR] but are not sure of your availability yet, please let me know so we can follow up with you.
-
-We hope to see you soon!
-
-Cheers,
-
-[Your name].
