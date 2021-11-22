@@ -17,7 +17,7 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
   - Lesson Infrastructure Committee
   - The Carpentries Executive Council     
 
-Read more about the [history of Community Discussions](https://carpentries.org/community_discussions/) on The Carpentries website.
+Read more about [Community Discussions](https://carpentries.org/community_discussions/) on The Carpentries website.
 
 ### Terminology
 
