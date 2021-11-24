@@ -4,6 +4,21 @@
 As part of welcoming and orienting new Instructors to our community, and enriching and
 building skills and community among continuing Instructors, we have a number of ways to support you.
 
+### Instructor Training Bonus Modules
+We currently offer one bonus module focused on Online Teaching with plans to develop others in the future. 
+
+#### Online Teaching Bonus Module 
+
+The [Online Teaching Bonus Module](https://carpentries.github.io/instructor-training-bonus-modules/index.html) is a 3.5 hour training designed to help Certified Instructors build skill and confidence while learning how to transition Instructor Training pedagogy to the online environment. During the training, you will have an opportunity to:  
+
+- Use Zoom host and co-host features to create breakouts, screen share, manage muting and more.
+- Create and discuss plans to engage with learners during a workshop.
+- Write and rehearse an introduction to the logistics of your workshop that prioritizes creating on optimal learner experience and reducing barriers to participation.
+- Propose communications strategies for your instructional team.
+
+You can find upcoming dates and sign up on our [Bonus Module Calendar](https://carpentries.github.io/instructor-training-bonus-modules/bonus_module_calendar/index.html). 
+
+
 ### Mentoring and Development
 The [Instructor Development Committee](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html)
 (formerly known as the Mentoring Subcommittee) manages the mentoring program, which supports Instructors as they progress
