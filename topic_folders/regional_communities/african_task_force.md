@@ -4,18 +4,18 @@
 
 - **Monthly African Community Meetup**: Our monthly African Carpentries Community meetups have been running since 2017. Here we discuss topics that are of interest to our instructors in the African context, including previous and upcoming workshops, available resources, opportunities, events, and more. We would love to hear more voices at our monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you are keen to join please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
 
-**2021 meetings**:
-* <s>28 January</s> 
-* <s>25 February </s> 
-* <s>25 March</s> 
-* <s>22 April</s>
-* <s>27 May</s>
-* <s>24 June</s>
-* <s>22 July</s>
-* <s>26 August</s>
-* <s>7 and 16 September 2021 14:00 - 15:00 SAST/12:00-13:00 UTC (see Networking events during [https://za2021.carpentryconnect.org/](https://za2021.carpentryconnect.org/))</s>
-* <s>28 October</s>
-* 25 November
+**2022 meetings**:
+* 27 January
+* 24 February
+* 24 March
+* 28 April
+* 26 May
+* 23 June
+* 28 July
+* 25 August
+* 22 September
+* 27 October
+* 24 November
 
 - **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org) and we can pair you up with a team at a time and date that will suit you.
 
