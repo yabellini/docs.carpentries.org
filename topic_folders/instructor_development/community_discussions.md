@@ -19,11 +19,6 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 
 Read more about [Community Discussions](https://carpentries.org/community_discussions/) on The Carpentries website.
 
-### Terminology
-
--   **Community Discussion**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
--   **Discussion Session Host**: member of The Carpentries community who facilitates a Pre- and Post Workshop Discussion, Themed Discussion Session and/or a Carpentries Conversation.
-
 ### Motivation
 
 1. The Carpentries is a community-led project and the community needs opportunity to interact.
