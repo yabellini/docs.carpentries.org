@@ -47,7 +47,9 @@ Interested in becoming a session host? Not sure how or what would be required of
 
 
 
-### Host Expectations
+### Expectations and Checklists
+
+#### Host Expectations
 
 * Primary role is to facilitate the community discussion using the agenda at the bottom of the Etherpad.
 * While it’s the co-hosts main responsibility to take notes, please take notes in the Etherpad when the co-host/notetaker is speaking.
@@ -58,7 +60,7 @@ Interested in becoming a session host? Not sure how or what would be required of
 * Encouraging attendees to create issues or pull requests to correct problems.
 * Complete the [host questionnaire](https://forms.gle/N74pFuGkRLawpCHh7) at the end of the community discussion.
 
-### Co-Host Expectations
+#### Co-Host Expectations
 
 * Primary role is to assist with note-taking while the Host leads the discussion
 * Take accurate notes of discussion on the Etherpad
@@ -67,16 +69,11 @@ Interested in becoming a session host? Not sure how or what would be required of
 * If a co-host/notetaker does want to chime in, it is welcome!
 * **NOTE:** if the session is mostly instructor checkouts, it is highly recommended that you, as the co-host, contribute to the discussion with your experience helping out with workshops.
 
-### Checklists - Community Discussions
+#### Checklists - Community Discussions
 
 Community discussions are organised and conducted through [this Etherpad](http://pad.carpentries.org/community-discussions).
 
-#### Host and Co-Host
-##### Leading the Discussion Session
-
-Meetings will be hosted on a Zoom videoconference, linked via the [community discussions Etherpad](http://pad.carpentries.org/community-discussions).
-
-Each session must have at least one host (although two hosts are preferred). Any experienced instructor is welcome to host, but hosts are encouraged to join the Instructor Development Committee.
+##### Before the Discussion Session 
 
 - Sign on as close to the start time as you can.  
 - Confirm that your fellow host is present (if there is one) and who will be leading/taking notes
@@ -89,7 +86,9 @@ Each session must have at least one host (although two hosts are preferred). Any
     - If someone is attending as part of their training checkout, prompt them to ask a question.
     - Try to leave enough time at the end for the final agenda item.  
 
-The agenda should be similar to the following:
+##### During the Discussion Session 
+
+You can follow the agenda below to guide you through your discussion session.
 
 - Welcome, introductions, and reminder of Code of Conduct (5-10 minutes depending on number of participants)   
   - Code of Conduct Link: [https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
@@ -115,8 +114,7 @@ The agenda should be similar to the following:
   - Reports from breakout rooms   
   - Q&A   
   - Reminders to discussion session participants   
-   - Export the Etherpad (button at top right) if you would like to save notes from our session. Notes will be removed (but available in the archives) soon after the discussion ends!   
-   - For small typos in lessons, submit pull request to appropriate lesson   
+   - Export the Etherpad (button at top right) if you would like to save notes from your session and delete your session's notes.
 
 (A copy of this agenda is kept at the bottom of the instructor discussion Etherpad.)
 
