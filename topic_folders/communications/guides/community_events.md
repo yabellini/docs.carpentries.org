@@ -6,7 +6,7 @@ The Carpentries uses [Calendly](https://calendly.com/thecarpentries) to manage s
 
 We enouage community members aiming to host Themed Discussion and/or Carpentries Conversations to make use of the [Calendly](https://calendly.com/thecarpentries) scheduling tool during the four times a year. This will allow The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform).
 
-![Calendly Demo](images/calendly.gif)
+![Calendly Demo](./images/calendly.gif)
 
 
 For the period           |1 Jan - 31 Mar<br>(Q1) |1 Apr - 30 Jun<br>(Q2) |1 Jul - 30 Sep<br>(Q3) |1 Oct - 31 Dec<br>(Q4)|
