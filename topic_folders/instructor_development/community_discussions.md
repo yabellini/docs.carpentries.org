@@ -117,8 +117,8 @@ You can follow the agenda below to guide you through your discussion session.
 - Closing (Main Room) (3 minutes)   
   - Reports from breakout rooms   
   - Q&A   
-  - Reminders to discussion session participants   
-   - Export the Etherpad (button at top right) if you would like to save notes from your session and delete your session's notes.
+  - Export the Etherpad (button at top right) if you would like to save notes from your session and delete your session's notes.
+  - Thank attendees for participating
 
 (A copy of this agenda is kept at the bottom of the instructor discussion Etherpad.)
 
