@@ -45,7 +45,11 @@ Interested in becoming a session host? Not sure how or what would be required of
 3. To co-host a Community Discussion session, you can sign-up [here](https://pad.carpentries.org/community-discussions) as notetaker.
 4. Have any other questions? Reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox list](https://swcarpentry.slack.com/archives/CBHECTZJN).
 
+### Scheduling Discussion Sessions
 
+Discussion sessions are scheduled on a quaterly basis [as described here](#).  This quaterly schedule ensures all discussion sessions appear on our community calendar and that The Carpentries can support hosts in publicizing the session.
+
+If you are interested in hosting a special discussion outside of this quarterly schedule, please complete [this form](#). Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.  
 
 ### Expectations and Checklists
 
