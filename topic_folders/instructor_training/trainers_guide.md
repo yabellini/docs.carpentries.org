@@ -25,7 +25,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 
 ##### Before the demo 
 - Get acquainted with using [Zoom](../communications/tools/zoom_rooms.md) for videoconferencing.
-- A day or two before the demo, send a reminder email using the [email template](email_templates_trainers.html#reminder-teaching-demo). This often leads to people letting you know they cannot make it, or clarifications regarding what to prepare for (episode versus lesson)
+- A day or two before the demo, send a reminder email using the [email template](https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#reminder-teaching-demo). This often leads to people letting you know they cannot make it, or clarifications regarding what to prepare for (episode versus lesson)
 - For each trainee, pick a suitable starting point in the lesson that they have chosen. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
 ##### During the Demo
@@ -52,7 +52,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 ##### After the Demo
 -  Fill out [this form](https://forms.gle/ZusNhyhNh4rvCmxH8) to notify The Carpentries who passed and who did not pass.
 -  Clear Etherpad of data from your session.  
--  Send each trainee an email letting them know they [passed](email_templates_trainers.html#trainee-did-pass-teaching-demo) or [did not pass](email_templates_trainers.html#trainee-didnt-pass-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and asking them to retry.
+-  Send each trainee an email letting them know they [passed](https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#trainee-did-pass-teaching-demo) or [did not pass](https://docs.carpentries.org/topic_folders/instructor_training/email_templates_trainers.html#trainee-didnt-pass-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and asking them to retry.
 
 ##### Canceling a Demo
 
