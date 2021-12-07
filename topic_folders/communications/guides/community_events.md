@@ -9,7 +9,7 @@ The Carpentries uses [Calendly](https://calendly.com/thecarpentries) to manage s
 
 For the period           |1 Jan - 31 Mar<br>(Q1) |1 Apr - 30 Jun<br>(Q2) |1 Jul - 30 Sep<br>(Q3) |1 Oct - 31 Dec<br>(Q4)|
 -------------------------|--------------------|---------------------|---------------------|--------------------|
-Email group on           |15 Nov              |15 Feb               |15 May               |15 Aug              |
+Signups open on          |15 Nov              |15 Feb               |15 May               |15 Aug              |
 Responses<br>due by      |30 Nov              |28 Feb               |31 May               |31 Aug               |
 Calendar<br>published by |7 Dec               |7 Mar                |7 Jun                |7 Sept               |
 
