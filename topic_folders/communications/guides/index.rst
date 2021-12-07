@@ -13,3 +13,4 @@ HOW-TO GUIDES
    select-blog-tags.md
    submit-news-item.md
    share-opportunities.md
+   community_events.md
