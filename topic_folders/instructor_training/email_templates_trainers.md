@@ -133,60 +133,121 @@ Best wishes,
 
 ### Email Templates (Trainers: Spanish)
 
-#### Bilingual Demo Session Reminder Email
+#### Correo electrónico que el capacitador o un miembro de The Carpentries envía a los aprendices antes de la capacitación (una semana antes)
 
-Subject: Carpentries instructor training: Teaching Demo
+**Nota:** Para la mayoría de los eventos, no será necesario que los capacitadores envíen este mensaje. El Equipo central enviará un correo electrónico similar. Los capacitadores deben usar esta plantilla para gestionar las comunicaciones de una capacitación interna. Si tienes alguna pregunta sobre cómo o cuándo debes usar esta plantilla, envía un correo electrónico a [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
 
-Hello,
+**Asunto:** Información sobre tu próxima Capacitación de Instructor con The Carpentries del DATE_TIME
 
-Thanks for signing up to complete your “Teaching Demo” as part of the instructor certification process.  We will meet on [ Insert Date ] at [ Insert Time ] in this Zoom videoconferencing room (insert zoom link here). Please read this short bi-lingual description of how Teaching Demo session works (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md#). Disclaimer: I understand Spanish better than I speak it. So, I will talk in Spanish as much as I can, but I will most likely give feedback about your teaching in English.
+¡Hola!
 
-Please let me know if you have any questions or concerns.
+Gracias por inscribirte en la Capacitación de Instructor de The Carpentries del **DATE_TIME_TIMEZONE** (haz clic para ver la hora de inicio en tu huso horario). Este correo electrónico tiene información importante que te ayudará a prepararte para la capacitación; **léelo con atención y avísame si tienes alguna pregunta.**
 
-Hola,
+**Acerca de la Capacitación de Instructor de The Carpentries**
 
-Gracias por inscribirte para completar tu demostración de enseñanza como parte del proceso de certificación para instructores. Nos reuniremos [ Insert Date ] [ insert time ] aquí: (insert zoom link here). Por favor, lee [ésta breve descripción bilingüe](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md#) de cómo funciona la sesión de demostración de enseñanza aquí: (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md#). Aviso: Entiendo el español mejor de lo que hablo. Por lo tanto, voy a hablar en español un poco, pero es muy probable que les dé comentarios sobre su enseñanza en Inglés.
+Esta capacitación está diseñada para personas que quieren ser instructores certificados de The Carpentries. Te recomendamos que antes de hacer la capacitación de instructor estés familiarizado con al menos una de las tecnologías que enseñamos (R, Python, Bash Shell de Unix, SQL, OpenRefine, programas de hojas de cálculo o Git). En esta capacitación no enseñaremos ninguna de ellas, sino que nos centraremos en el desarrollo de competencias y conocimientos sobre las prácticas de enseñanza fundamentadas en la evidencia y los procedimientos de los talleres.
 
-Por favor, hazme saber si tienes alguna pregunta o inquietud.
+Para obtener más información sobre lo que abarcará esta capacitación y para ver un programa de ejemplo, consulta el [plan de estudios de la capacitación de instructor](https://carpentries.github.io/instructor-training/).
 
-Best/Saludos,
+**Cómo acceder a la capacitación**
 
-[ sender name ]
+Esta capacitación se llevará a cabo mediante [plataforma, instrucciones de descarga, etc.]. Para acceder a la capacitación, usa el enlace [enlace para conectarse] y la contraseña [contraseña].
 
+Para obtener más información sobre el evento, consulta [sitio web de la capacitación/documento colaborativo].
 
-#### Spanish: Trainee Invited to Repeat Teaching Demo
+**Cómo prepararte para la capacitación**
 
-Nota a los Trainers: Incluso con un template, este tipo de emails son difíciles de redactar y enviar! Si tienes preguntas, no dudes en contactar con la comunidad de Trainers y/o nuestro personal para tomar decisiones, personalizar o responder preguntas sobre estos mensajes.
+Antes de la capacitación, visita la [página sobre cómo prepararte para la capacitación](https://carpentries.github.io/instructor-training/setup.html) para ver las instrucciones completas. Abajo hay un resumen breve de esas instrucciones.
+1.	Completa la encuesta previa a la capacitación.
+2.	Selecciona la lección que usarás en las sesiones de práctica de enseñanza y dedica no más de 20-30 minutos para prepararte.
+3.	Lee lo siguiente:
+o	[“The Science of Learning” (La ciencia del aprendizaje)]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf)
+o	[“The Carpentries Annual Report”](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf) (Informe anual de The Carpentries)
 
+**Finalización: proceso de certificación de instructor**
 
-Subject: Formación para instructor de las Carpentries: Demostración de enseñanza
+Después de la capacitación, deberás completar tres tareas de seguimiento para ser un instructor certificado. Los requisitos se detallan en la [página de instrucciones de finalización](https://carpentries.github.io/instructor-training/checkout/index.html) y se analizarán en la capacitación.
 
-Hola [nombre del aprendiz],
+**Cancelaciones y asistencia**
 
-Gracias por realizar tu demostración de enseñanza. A pesar de que has demostrado un buen [algo que hizo bien, puntos positivos, e.g. conocimiento de los materiales de enseñanza], me gustaría invitarte a realizar de nuevo la demostración de enseñanza. La razón principal es [razón]. [Explicar lo que te gustaría ver en el/la candidato/a, y por qué es fundamental de acuerdo a las prácticas educativas de Carpentries].
+Nos gustaría poder utilizar todos los lugares asignados a nuestros miembros para este evento. Si no puedes asistir, avísanos lo antes posible.
 
-Esta no ha sido una decisión fácil de tomar -- nos encantaría tenerte como instructor en Carpentries! Sé que es complicado hacer tiempo para este tipo de sesiones pero espero que consideres este tiempo adicional de práctica y feedback como una oportunidad.
+Si pierdes más de una hora de la capacitación, es posible que te marquen como ausente. Para obtener la certificación de instructor, debes tener asistencia completa al evento de capacitación. Si surge algún imprevisto y debes faltar a más de una hora de la capacitación, comunícate con nosotros.
 
-Me he puesto en contacto con nuestro personal de checkout indicando que esta sesión debe repetirse. Si estás cerca de tu periodo de checkout, puedes enviar un email a instructor.training@carpentries.org para solicitar una extensión si la necesitas.
+Hay más información sobre la [política de cancelación y recuperación](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html) de The Carpentries en el Manual de The Carpentries.
 
-No dudes en ponerte en contacto si tienes cualquier pregunta!
+Si tienes alguna pregunta sobre la capacitación, el material de lectura u otro asunto, no dudes en comunicarte con nosotros.
 
-Saludos,
+Esperamos verte pronto.
 
-[nombre del remitente]
+Saludos. 
 
+[Nombre]
 
+#### Correo electrónico después del evento de capacitación
+**Asunto:** ¡Gracias por asistir a la Capacitación de Instructor de The Carpentries!
 
-#### Spanish: Trainee Did Pass Teaching Demo
+¡Hola!
 
-Subject: Formación para instructor de las Carpentries: Demostración de enseñanza
+Gracias por participar en el taller de Capacitación de Instructor de The Carpentries. Nos gustó mucho que hayas participado y que hayamos podido conocerte un poco. Vas por buen camino para convertirte en instructor certificado de The Carpentries. Para obtener la certificación, completa estas tareas (https://carpentries.github.io/instructor-training/checkout/) en el plazo de 90 días. Si tienes alguna pregunta sobre el proceso de finalización, envía un correo electrónico a instructor.training@carpentries.org.
 
-Hola [nombre del aprendiz],
+Esperamos tenerte como instructor de The Carpentries pronto.
 
-Me alegra informarte que has pasado tu demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries, por tanto, es un placer recibirte como instructor/a en las Carpentries. Ya he comunicado esta información a nuestro Core Team. Si esta fue la última parte de tu proceso de certificación, recibirás tu certificado oficial de las Carpentries junto con las instrucciones para inscribirte para impartir talleres en una semana aproximadamente. Si aún tienes que completar algún paso en tu proceso de certificación, asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor envía un correo a instructor.training@carpentries.org.
+Saludos.
+[Nombre]
 
-Bienvenida/o a la comunidad de las Carpentries.
+#### Recordatorio de la demostración de enseñanza
 
-Saludos,
+**Asunto:** Demostración de enseñanza de The Carpentries
 
-[nombre del remitente]
+¡Hola!
+
+Según el [Etherpad de demostraciones de enseñanza](https://pad.carpentries.org/teaching-demos), te inscribiste para hacer una demostración de enseñanza en línea el [fecha] a las [hora] (usa este enlace para ver tu hora local: [enlace de timeanddate.com]). Yo seré el capacitador que dirigirá la sesión.
+
+Quiero que sepas que puedo asignarte cualquiera de los segmentos de la lección que preparaste para enseñar; por lo tanto, prepárate para enseñar todas las partes de la lección que elegiste. Algunas personas se preparan para enseñar solo cinco minutos de una sección en particular y, con frecuencia, deben reprogramar la demostración porque casi nunca les asignan la sección para la que se prepararon.
+
+Una lección corresponde a una sola fila de las tablas de lecciones (https://software-carpentry.org/lessons/, http://www.datacarpentry.org/lessons/ y https://librarycarpentry.org/lessons/) y a un solo repositorio en GitHub. Algunas lecciones tienen módulos complementarios, pero no es necesario que te prepares para enseñar esos módulos en tu demostración de enseñanza.
+
+Por ejemplo, si elegiste “Shell de Unix”, te puedo asignar cualquier sección que figure en http://swcarpentry.github.io/shell-novice/.
+
+Recuerda que esto no es una prueba determinante, sino una oportunidad favorable para dar y recibir comentarios sobre un estilo de presentación más pulido. Si te pido que repitas tu demostración, te enviaré por correo electrónico información con instrucciones claras sobre lo que se debe cambiar después de la demostración. Durante la demostración, recibirás públicamente solo comentarios cualitativos, no se te informará si este paso de finalización se considera completado.
+
+Espero verte pronto.
+
+[Nombre del remitente]
+
+#### Invitación para el aprendiz para que repita la demostración de enseñanza
+
+**Nota para los capacitadores:** Incluso con una plantilla, puede ser difícil redactar y enviar estos correos electrónicos. Si no están seguros, no duden en comunicarse con la comunidad de capacitadores o con el Equipo central para que los ayuden a decidir, personalizar o responder preguntas sobre estos mensajes.
+
+**Asunto:** Capacitación de Instructor de The Carpentries: demostración de enseñanza
+
+Hola, [nombre del aprendiz]:
+
+Gracias por hacer una demostración de enseñanza. Aunque demostraste [mencionar algo que haya hecho bien, p. ej., “buen dominio del material de referencia”], te invito a que vuelvas a hacer la demonstración de enseñanza. El motivo principal es que [motivo]. [Explicación de lo que te gustaría ver esta vez y por qué es importante para las prácticas de enseñanza de The Carpentries].
+
+Nos complace tenerte como instructor de The Carpentries y queremos que te sumes a nuestro equipo. Sé que es complicado destinar tiempo para estas sesiones, pero espero que la oportunidad de seguir practicando y de recibir más comentarios sea beneficiosa para ti.
+
+Me comuniqué con el Equipo central para avisar que esta sesión debe repetirse. Si estás por terminar el período de finalización y necesitas una prórroga, puedes enviar un correo electrónico a [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) para solicitarla.
+
+Si tienes alguna pregunta, comunícate con nosotros.
+
+Mis mejores deseos.
+
+[Nombre del remitente]
+
+#### El aprendiz aprobó la demostración de enseñanza
+
+**Asunto:** Capacitación de Instructor de The Carpentries: demostración de enseñanza
+
+Hola, [nombre del aprendiz]:
+
+Me complace informarte que aprobaste la demostración de enseñanza. Demostraste [un buen dominio del material de referencia y una comprensión sólida de los métodos de enseñanza de The Carpentries]. Es un placer tenerte como instructor de The Carpentries.
+
+Envié esta información a nuestro Equipo central. Si este era el último paso de la finalización de tu capacitación de instructor, el Equipo central se comunicará contigo en el plazo de una semana aproximadamente.
+
+Te damos la bienvenida a la comunidad de instructores de The Carpentries.
+
+Mis mejores deseos.
+
+[Nombre del remitente]
