@@ -22,7 +22,8 @@ The Co-Chairs of the Instructor Development Committee are responsible for:
 ##### Time Commitment
 
 - 1-2 hours/week 
-- 1 year term beginning 1-May or 1-Nov  
+- 2 year term, first year serving as co-chair and second year serving as Member at Large
+- Limit to two consecutive terms
 
 ##### Requirements
 
@@ -43,7 +44,8 @@ The Secretary of the Instructor Development Committee is responsible for:
 ##### Time Commitment
 
 - 1-2 hours/week 
-- 1 year term beginning 1-May or 1-Nov
+- 1 year term 
+- Limit to two consecutive terms
 
 ##### Requirements
 
@@ -62,7 +64,8 @@ The Communications Chair of the Instructor Development Committee is responsible 
 ##### Time Commitment
 
 - 1-2 hours/week 
-- 1 year term beginning 1-May or 1-Nov
+- 1 year term
+- Limit to two consecutive terms
 
 ##### Requirements
 
@@ -84,7 +87,8 @@ The Mentoring Chair of the Instructor Development Committee is responsible for:
 ##### Time Commitment
 
 - 1-2 hours/week 
-- 1 year term beginning 1-May or 1-Nov
+- 2 year term, first year serving as Mentoring Chair and second year serving as Member at Large
+- Limit to two consecutive terms
 
 ##### Requirements
 
@@ -102,8 +106,30 @@ The Special Projects Chair of the Instructor Development Committee is responsibl
 ##### Time Commitment
 
 - 1-2 hours/week 
-- 1 year term beginning 1-May or 1-Nov
+- 2 year term, first year serving as Special Projects Chair and second year serving as Member at Large
+- Limit to two consecutive terms
 
 ##### Requirements
 
 - Certified Carpentries Instructor
+
+#### Members at Large
+
+##### Responsibilities
+
+The Members at Large of the Instructor Development Committee are responsible for: 
+
+1. For those Members at Large previously serving as Co-Chairs, Mentoring Chair, or Special Projects Chair, will serve as mentor to incoming members serving in these roles.
+2. Attends IDC monthly meetings to increase community representation during IDC discussions.   
+3. Support activities of the IDC as needed.
+
+##### Time Commitment
+
+- 1-2 hours/week 
+- 1 year term 
+- Limit to two consecutive terms
+
+##### Requirements
+
+- Certified Carpentries Instructor
+
