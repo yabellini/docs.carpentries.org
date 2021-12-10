@@ -54,11 +54,6 @@ For more detailed information on getting started with Slack, including accessibi
 
 Any questions? Email: [alycia@carpentries.org](mailto:alycia@carpentries.org)
 
-##### Acknowledgments
-The content of this guide was based upon the Center for Scientific Collaboration and Community Engagement “Slack quick start guide” by Lou Woodley and Katie Pratt, licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) license.
-
-The original guide is cited as: Center for Scientific Collaboration and Community Engagement. (2020) Slack quick start guide. Woodley and Pratt doi: 10.5281/zenodo.3763730
-
 ##### 1. Configuring Your Account
 **A. PROFILE**
 When you set up your profile there are three things to bear in mind:
@@ -123,3 +118,8 @@ Slack has lots of options for you to determine how and when you are informed abo
 It can be helpful to others when you're sharing resources and brainstorming solutions to "work out loud" in a specific thread because then your learning becomes a future resource for others, too.
 
 However, sometimes you want to start a private conversation. To do this, go to the direct messages section on the bottom left of the left-hand side bar. Click the + icon to start a new message. You can add more than one recipient to create a group message.
+
+##### Acknowledgments
+The content of this guide was based upon the Center for Scientific Collaboration and Community Engagement “Slack quick start guide” by Lou Woodley and Katie Pratt, licensed under a Creative Commons Attribution 4.0 (CC BY 4.0) license.
+
+The original guide is cited as: Center for Scientific Collaboration and Community Engagement. (2020) Slack quick start guide. Woodley and Pratt doi: 10.5281/zenodo.3763730
