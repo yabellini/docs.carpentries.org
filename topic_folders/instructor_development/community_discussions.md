@@ -47,7 +47,7 @@ Interested in becoming a session host? Not sure how or what would be required of
 
 ### Scheduling Discussion Sessions
 
-Discussion sessions are scheduled on a quaterly basis [as described here](../communications/guides/community_events.md). This will allow The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform). Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.  
+Discussion sessions are scheduled on a quarterly basis [as described here](../communications/guides/community_events.md). This will allow The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform). Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.  
 
 ### Expectations and Checklists
 
