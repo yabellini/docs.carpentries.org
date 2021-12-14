@@ -2,53 +2,53 @@
 
 The Carpentries supports and maintains Lesson Programs. Lesson Programs are collections of lessons comprising one or more Carpentries workshops, serving distinct goals and audience, and the leadership guiding their development and implementation.
 
-From The Carpentries Bylaws:  
+From [The Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html):  
 *A Lesson Program within The Carpentries possesses the following characteristics:  
 - Intention and purpose for lessons that align with The Carpentries mission and vision
 - Goals and objectives for lessons and/or workshops that are distinct from other Lesson Programs
 - Service to a particular audience of learners and instructors
 - Evidence of community member commitment to Lesson Program governance (see below), lesson maintenance, and curriculum development*
 
-Adoption as an official The Carpentries Lesson Program is the last step of Lesson Program incubation as outlined in the [Lesson Program Incubation Roadmap](#lesson-program-incubation-roadmap)
+Adoption as an official The Carpentries Lesson Program is the last step of Lesson Program incubation as outlined in the [Lesson Program Incubation Roadmap](#lesson-program-incubation-roadmap).
 
-This page contains
-* the Lesson Program Governance Policy
-* the Lesson Program Policy
+This page contains:
+* Lesson Program Governance Policy
+* Roles and responsibilities of Lesson Programs
+* Roles and responsibilities of The Carpentries in relation to Lesson Programs
+* Lesson Program incubation roadmap
 
-### Lesson Program Governance policy
+### Lesson Program Governance Policy
 
-Note that Instructor Training Governance will also follow this policy.
+Note that [Instructor Training Governance](https://docs.carpentries.org/_build/html/topic_folders/instructor_development/instructor_development_committee.html) will also follow this policy.
 
 * Each Lesson Program will have a Lesson Program Governance Committee.
 * Each Lesson Program Governance Committee will comply with the general [committee policy as described in the Carpentries Handbook](https://docs.carpentries.org/topic_folders/governance/committee-policy.html)
 * In addition, each Lesson Program Governance Committee:
     * Maintains a minimum of 3 members to serve as on the committee and act as a point of contact with The Carpentries Executive Council and Core Team.
-    * Follows all general policies as outlined by The Carpentries, including, but not limited to, the Code of Conduct.
-    * Determines the curriculum and core curriculum for (each of) the Lesson Program’s workshop(s), together with the corresponding Curriculum Advisory Committee or by delegating curriculum decisions to the corresponding Curriculum Advisory Committee
-    * Decides if and when new lessons are added to or removed from the Lesson Program or delegate the decision of adding or removing a lesson to the corresponding Curriculum Advisory Committee
+    * Follows all general policies as outlined by The Carpentries, including, but not limited to, the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html).
+    * Determines the curriculum and core curriculum for (each of) the Lesson Program’s workshop(s), together with the corresponding [Curriculum Advisory Committee](https://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committees) or by delegating curriculum decisions to the corresponding Curriculum Advisory Committee
+    * Decides if and when new lessons are added to or removed from the Lesson Program or delegate the decision of adding or removing a lesson to the corresponding Curriculum Advisory Committee.
     * Decides if one or more Curriculum Advisory Committees are needed for their curricula and how they are structured
     * Decides how and how often they engage the Lesson Program community/communities
-    * Decides between
+    * Decides between:
         * seeking approval from the Executive Council to elect members to the Lesson Program Governance Committee
-        * appointing members based on an application process
-    * Decides committee members term lengths
-    * Decides on requesting additional Roles and Responsibilities beyond those described in this policy from the Executive Council
-    * Works with the Carpentries Core Team to maintain documentation (including the lesson program website) with information about its goals, workshops and curricula
-    * Coordinates with The Carpentries to release and publish lessons with permanent identifiers on a regular basis or delegates this responsibility to the corresponding Curriculum Advisory Committee
+        * appointing members based on an application process.
+    * Decides committee members term lengths.
+    * Decides on requesting additional Roles and Responsibilities beyond those described in this policy from the Executive Council.
+    * Works with The Carpentries Core Team to maintain documentation (including the lesson program website) with information about its goals, workshops and curricula.
+    * Coordinates with The Carpentries to release and publish lessons with permanent identifiers on a regular basis or delegates this responsibility to the corresponding Curriculum Advisory Committee.
     * Maintains and develops lessons in accordance with Carpentries guidelines as outlined in The Carpentries Curriculum Development Handbook.
 * The Executive Council:
     * Decides if a new Lesson Program can join The Carpentries as regulated by the [Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#lesson-programs) and the [Lesson Program Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html)
-    * Decides if a Lesson Program Governance Committee’s policies do not align with the CoC or other Carpentries policies
-    * Decides whether to approve a Lesson Program Governance Committee’s request to elect committee members by its subcommunity, instead of being appointed through an application process
-    * Decides whether to approve a request from a Lesson Program Governance Committee for additional Roles and Responsibilities beyond those described in this policy
-* Each Lesson Program Governance Committee has a Core Team Liaison assigned to it
+    * Decides if a Lesson Program Governance Committee’s policies do not align with the CoC or other Carpentries policies.
+    * Decides whether to approve a Lesson Program Governance Committee’s request to elect committee members by its subcommunity, instead of being appointed through an application process.
+    * Decides whether to approve a request from a Lesson Program Governance Committee for additional Roles and Responsibilities beyond those described in this policy.
+* Each Lesson Program Governance Committee has a Core Team Liaison assigned to it.
 
-### Lesson Program Policy
-
-#### Roles and Responsibilities of Lesson Programs
+### Roles and Responsibilities of Lesson Programs
 
 - The Lesson Program follows all general policies as outlined by The Carpentries, including, but not limited to, the Code of Conduct.
-- The Lesson Program workshops are conducted and administered as outlined in The Carpentries handbook, including tracking activities and using at least one certified instructor per workshop.
+- The Lesson Program workshops are conducted and administered as outlined in The Carpentries Handbook, including tracking activities and using at least one certified instructor per workshop.
 - Assessment of Lesson Program workshops and activities are conducted through, and in coordination with, The Carpentries assessment efforts.
 - Lesson Program workshops follow The Carpentries instructor training procedures and guidelines as outlined in the instructor training curriculum.
 - The Lesson Program has at least one articulated, established core curriculum for a workshop and guidelines on what is required for it to be called a Lesson Program workshop.
@@ -58,7 +58,7 @@ Note that Instructor Training Governance will also follow this policy.
 - The Lesson Program has a workshop fee structure consistent with The Carpentries.
 - The Lesson Program will follow the procedures and guidelines of The Carpentries administrative and financial management structure.
 
-#### Roles and Responsibilities of The Carpentries
+### Roles and Responsibilities of The Carpentries
 
 - The Carpentries Core Team and affiliates will coordinate Lesson Program workshops in accordance with standard workshop coordination practices as outlined in The Carpentries Handbook.
 - The Carpentries will enable the Lesson Programs to make use of all The Carpentries infrastructure, including workshop coordination tools and database.
