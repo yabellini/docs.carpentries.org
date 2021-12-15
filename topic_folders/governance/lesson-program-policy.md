@@ -26,12 +26,12 @@ Note that [Instructor Training Governance](https://docs.carpentries.org/_build/h
 * In addition, each Lesson Program Governance Committee:
     * Maintains a minimum of 3 members to serve as on the committee and act as a point of contact with The Carpentries Executive Council and Core Team.
     * Follows all general policies as outlined by The Carpentries, including, but not limited to, the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html).
-    * Determines the curriculum and core curriculum for (each of) the Lesson Program’s workshop(s), together with the corresponding [Curriculum Advisory Committee](https://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committees) or by delegating curriculum decisions to the corresponding Curriculum Advisory Committee
+    * Determines the curriculum and core curriculum for (each of) the Lesson Program’s workshop(s), together with the corresponding [Curriculum Advisory Committee](https://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committees) or by delegating curriculum decisions to the corresponding Curriculum Advisory Committee.
     * Decides if and when new lessons are added to or removed from the Lesson Program or delegate the decision of adding or removing a lesson to the corresponding Curriculum Advisory Committee.
-    * Decides if one or more Curriculum Advisory Committees are needed for their curricula and how they are structured
-    * Decides how and how often they engage the Lesson Program community/communities
+    * Decides if one or more Curriculum Advisory Committees are needed for their curricula and how they are structured.
+    * Decides how and how often they engage the Lesson Program community/communities.
     * Decides between:
-        * seeking approval from the Executive Council to elect members to the Lesson Program Governance Committee
+        * seeking approval from the Executive Council to elect members to the Lesson Program Governance Committee.
         * appointing members based on an application process.
     * Decides committee members term lengths.
     * Decides on requesting additional Roles and Responsibilities beyond those described in this policy from the Executive Council.
@@ -39,7 +39,7 @@ Note that [Instructor Training Governance](https://docs.carpentries.org/_build/h
     * Coordinates with The Carpentries to release and publish lessons with permanent identifiers on a regular basis or delegates this responsibility to the corresponding Curriculum Advisory Committee.
     * Maintains and develops lessons in accordance with Carpentries guidelines as outlined in The Carpentries Curriculum Development Handbook.
 * The Executive Council:
-    * Decides if a new Lesson Program can join The Carpentries as regulated by the [Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#lesson-programs) and the [Lesson Program Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html)
+    * Decides if a new Lesson Program can join The Carpentries as regulated by the [Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#lesson-programs) and the [Lesson Program Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html).
     * Decides if a Lesson Program Governance Committee’s policies do not align with the CoC or other Carpentries policies.
     * Decides whether to approve a Lesson Program Governance Committee’s request to elect committee members by its subcommunity, instead of being appointed through an application process.
     * Decides whether to approve a request from a Lesson Program Governance Committee for additional Roles and Responsibilities beyond those described in this policy.
