@@ -54,12 +54,12 @@ Discussion sessions are scheduled on a quarterly basis [as described here](../co
 #### Host Expectations
 
 * Primary role is to facilitate the community discussion using the agenda at the bottom of the Etherpad.
-* While it’s the co-hosts main responsibility to take notes, please take notes in the Etherpad when the co-host/notetaker is speaking.
-* Maintaining focus on the main goal of the session, which is to share ideas, support each other, and keep instructors excited about teaching.
-* Ensuring instructors teaching in the near future have urgent questions or concerns addressed.
-* Collecting feedback from instructors who have recently taught.
-* Engaging newly trained instructors and evaluating their participation using a subset of questions described in the [checkout procedure](https://carpentries.github.io/instructor-training/checkout/).
-* Encouraging attendees to create issues or pull requests to correct problems.
+* While it's the co-host's main responsibility to take notes, please take notes in the Etherpad when the co-host/notetaker is speaking.
+* Maintain focus on the main goal of the session, which is to share ideas, support each other, and keep instructors excited about teaching.
+* Ensure instructors teaching in the near future have urgent questions or concerns addressed.
+* Collect feedback from instructors who have recently taught.
+* Engage newly trained instructors and evaluating their participation using a subset of questions described in the [checkout procedure](https://carpentries.github.io/instructor-training/checkout/).
+* Encourage attendees to create issues or pull requests to correct problems.
 * Complete the [host questionnaire](https://forms.gle/N74pFuGkRLawpCHh7) at the end of the community discussion.
 
 #### Co-Host Expectations
@@ -67,7 +67,7 @@ Discussion sessions are scheduled on a quarterly basis [as described here](../co
 * Primary role is to assist with note-taking while the Host leads the discussion
 * Take accurate notes of discussion on the Etherpad
 * At the beginning of the call, introduce yourself as the co-host/notetaker
-* Co-hosts/notetakers do not have to be the very active in the conversation
+* Co-hosts/notetakers do not have to be very active in the conversation
 * If a co-host/notetaker does want to chime in, it is welcome!
 * **NOTE:** if the session is mostly instructor checkouts, it is highly recommended that you, as the co-host, contribute to the discussion with your experience helping out with workshops.
 
