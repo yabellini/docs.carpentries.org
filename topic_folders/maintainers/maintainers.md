@@ -3,7 +3,7 @@
 
 The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. They monitor
 their lesson repository, make sure that PRs and Issues are addressed in a timely manner, and participate in the lesson development cycle
-including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community.
+including lesson releases. They endeavour to be welcoming and supportive of contributions from all members of the community.
 
 The division of responsibilities between Maintainers and Curriculum Advisors is detailed 
 in [this consultation rubric](https://docs.carpentries.org/topic_folders/lesson_development/cac-consult-rubric.html).
@@ -65,7 +65,7 @@ onboarding new Maintainers is available as a
 This documentation describes how to recruit new Maintainers and take them through
 the onboarding process. 
 
-*Note to Core Team members:* the workflow detailed below is also available as a 
+*Note to Core Team members:* the workflow below is also available as a 
 [Asana project template](https://app.asana.com/0/1185099340351503/list). Once you've created your project, share it with the Maintainer Community Lead.  
 
 1. Identify lessons in need of additional maintenance support. This includes surveying current Maintainers using [a Google form](https://docs.google.com/forms/d/e/1FAIpQLSeSQJt-jQ9HETI8RGqxt7_XPhqNC8LTMsq3elkaLBnVg88OKA/viewform). 
