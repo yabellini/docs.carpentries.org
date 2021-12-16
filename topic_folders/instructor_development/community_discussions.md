@@ -19,11 +19,6 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 
 Read more about [Community Discussions](https://carpentries.org/community_discussions/) on The Carpentries website.
 
-### Terminology
-
--   **Community Discussion**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
--   **Discussion Session Host**: member of The Carpentries community who facilitates a Pre- and Post Workshop Discussion, Themed Discussion Session and/or a Carpentries Conversation.
-
 ### Motivation
 
 1. The Carpentries is a community-led project and the community needs opportunity to interact.
@@ -50,63 +45,37 @@ Interested in becoming a session host? Not sure how or what would be required of
 3. To co-host a Community Discussion session, you can sign-up [here](https://pad.carpentries.org/community-discussions) as notetaker.
 4. Have any other questions? Reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox list](https://swcarpentry.slack.com/archives/CBHECTZJN).
 
+### Scheduling Discussion Sessions
 
-### Signing up to Host or co-Host a Community Discussion
+Discussion sessions are scheduled on a quarterly basis [as described here](../communications/guides/community_events.md). This will allow The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform). Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.  
 
-The Carpentries uses [Calendly](https://calendly.com/thecarpentries) to manage scheduling of Community Discussion sessions (these include Pre- and Post-Workshop Discussions, Themed Discussion Sessions and Carpentries Conversations).  This allows community members to schedule discussion sessions at times that are best for them, rather than requiring them to choose from a predefined schedule.  Four times a year, Discussion Hosts (i.e Pre- and Post Workshop Discussion Hosts, facilitators coordinating Themed Discussion Sessions and/or Carpentries Conversations) will be asked to slot in their availability. 
+### Expectations and Checklists
 
-We enouage community members aiming to host Themed Discussion and/or Carpentries Conversations to make use of the [Calendly](https://calendly.com/thecarpentries) scheduling tool during the four times a year. This will allow The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform).
-
-![Calendly Demo](images/calendly.gif)
-
-
-For the period           |1 Jan - 31 Mar<br>(Q1) |1 Apr - 30 Jun<br>(Q2) |1 Jul - 30 Sep<br>(Q3) |1 Oct - 31 Dec<br>(Q4)|
--------------------------|--------------------|---------------------|---------------------|--------------------|
-Email group on           |15 Nov              |15 Feb               |15 May               |15 Aug              |
-Responses<br>due by      |30 Nov              |28 Feb               |31 May               |31 Aug               |
-Calendar<br>published by |7 Dec               |7 Mar                |7 Jun                |7 Sept               |
-
-Once Discussion Hosts have scheduled themselves in for a Community Discussion session via Calendly, The Carpentries Core Team will ensure that these events appear on the [Etherpad](https://pad.carpentries.org/community-discussions) and on the [Community Calendar](https://carpentries.org/community/#community-events).  
-
-This system aims to build Community Discussion schedules around the Host availability.  The community of Discussion Session Hosts should represent a good cross-section of the general Carpentries community, and should offer the broader community a better option of sessions to attend.   
-
-People interested in being Co-hosts can review the calendar once it is published, and sign up on the Etherpad to co-host an event of their choice.
-
-#### Event Cancellations
-
-We recognise that even after scheduling their own events, Discussion Hosts may have conflicts and may need to cancel a scheduled event. If this happens, the Host should contact community@carpentries.org as soon as possible so a Core Team member can ensure another Host is able to cover this event.
-
-
-### Host Expectations
+#### Host Expectations
 
 * Primary role is to facilitate the community discussion using the agenda at the bottom of the Etherpad.
-* While it’s the co-hosts main responsibility to take notes, please take notes in the Etherpad when the co-host/notetaker is speaking.
-* Maintaining focus on the main goal of the session, which is to share ideas, support each other, and keep instructors excited about teaching.
-* Ensuring instructors teaching in the near future have urgent questions or concerns addressed.
-* Collecting feedback from instructors who have recently taught.
-* Engaging newly trained instructors and evaluating their participation using a subset of questions described in the [checkout procedure](https://carpentries.github.io/instructor-training/checkout/).
-* Encouraging attendees to create issues or pull requests to correct problems.
+* While it's the co-host's main responsibility to take notes, please take notes in the Etherpad when the co-host/notetaker is speaking.
+* Maintain focus on the main goal of the session, which is to share ideas, support each other, and keep instructors excited about teaching.
+* Ensure instructors teaching in the near future have urgent questions or concerns addressed.
+* Collect feedback from instructors who have recently taught.
+* Engage newly trained instructors and evaluating their participation using a subset of questions described in the [checkout procedure](https://carpentries.github.io/instructor-training/checkout/).
+* Encourage attendees to create issues or pull requests to correct problems.
 * Complete the [host questionnaire](https://forms.gle/N74pFuGkRLawpCHh7) at the end of the community discussion.
 
-### Co-Host Expectations
+#### Co-Host Expectations
 
 * Primary role is to assist with note-taking while the Host leads the discussion
 * Take accurate notes of discussion on the Etherpad
 * At the beginning of the call, introduce yourself as the co-host/notetaker
-* Co-hosts/notetakers do not have to be the very active in the conversation
+* Co-hosts/notetakers do not have to be very active in the conversation
 * If a co-host/notetaker does want to chime in, it is welcome!
 * **NOTE:** if the session is mostly instructor checkouts, it is highly recommended that you, as the co-host, contribute to the discussion with your experience helping out with workshops.
 
-### Checklists - Community Discussions
+#### Checklists - Community Discussions
 
 Community discussions are organised and conducted through [this Etherpad](http://pad.carpentries.org/community-discussions).
 
-#### Host and Co-Host
-##### Leading the Discussion Session
-
-Meetings will be hosted on a Zoom videoconference, linked via the [community discussions Etherpad](http://pad.carpentries.org/community-discussions).
-
-Each session must have at least one host (although two hosts are preferred). Any experienced instructor is welcome to host, but hosts are encouraged to join the Instructor Development Committee.
+##### Before the Discussion Session 
 
 - Sign on as close to the start time as you can.  
 - Confirm that your fellow host is present (if there is one) and who will be leading/taking notes
@@ -119,7 +88,9 @@ Each session must have at least one host (although two hosts are preferred). Any
     - If someone is attending as part of their training checkout, prompt them to ask a question.
     - Try to leave enough time at the end for the final agenda item.  
 
-The agenda should be similar to the following:
+##### During the Discussion Session 
+
+You can follow the agenda below to guide you through your discussion session.
 
 - Welcome, introductions, and reminder of Code of Conduct (5-10 minutes depending on number of participants)   
   - Code of Conduct Link: [https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
@@ -144,9 +115,8 @@ The agenda should be similar to the following:
 - Closing (Main Room) (3 minutes)   
   - Reports from breakout rooms   
   - Q&A   
-  - Reminders to discussion session participants   
-   - Export the Etherpad (button at top right) if you would like to save notes from our session. Notes will be removed (but available in the archives) soon after the discussion ends!   
-   - For small typos in lessons, submit pull request to appropriate lesson   
+  - Export the Etherpad (button at top right) if you would like to save notes from your session and delete your session's notes.
+  - Thank attendees for participating
 
 (A copy of this agenda is kept at the bottom of the instructor discussion Etherpad.)
 
