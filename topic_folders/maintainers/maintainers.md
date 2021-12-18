@@ -74,23 +74,24 @@ the onboarding process.
 1. Coordinate with Communications Manager about announcing on other channels (e.g. newsletter, Twitter). 
 1. Once the application period has closed, review applications and determine who to invite.
 1. Determine appropriate schedule for Maintainer Onboarding sessions based on responses to the scheduling poll included in the application. 
-1. Send accepted applicants an [invitation](email_templates.html#inviting-new-maintainers) to become a Maintainer. Send non-selected applicants a [rejection email](email_templates.html#rejection).
+1. Send accepted applicants an [invitation](email_templates.html#inviting-new-maintainers) to become a Maintainer. Send non-selected applicants a [rejection email](email_templates.html#application-not-accepted).
 1. Create a private Slack channel (`Maintainer-Onboarding`) and invite trainees. 
 1. Populate the [Maintainer Onboarding Etherpad](https://pad.carpentries.org/maintainer-onboarding) with meeting dates and times. Use [timeanddate meeting time announcer](https://www.timeanddate.com/worldclock/fixedform.html) links to make it easy for people to convert meeting times to their own time zone.
 1. Create calendar invites with Zoom room and Etherpad link and send to trainees.
 1. Set up a [new event in AMY](https://carpentries.github.io/amy/users_guide/#adding-a-new-event) with the slug YEAR-MO-DA-maintainer-onboarding. Add trainees as learners. Add onboarding leader (Curriculum Team member and/or Maintainer Community Lead) as instructor.
+1. Decide on lesson assignments and send [lesson assignment email](email_templates.html#lesson-assignment).
 1. One week before the first onboarding meeting, send a reminder [email](email_templates.html#onboarding-reminder).
 1. Run onboarding according to [the curriculum](https://carpentries.github.io/maintainer-onboarding/). Keep record of who participates.
 
 After onboarding:
-1. Send [congratulations email](email_templates.html#congratulations) to new Maintainers.
+1. Send [congratulations email](email_templates.html#onboarding-complete) to new Maintainers.
 1. Add new Maintainer to the appropriate team for [Software Carpentry][SWC GH Lesson Maintainer Teams], [Data Carpentry][DC GH Lesson Maintainer Teams], [Library Carpentry][LC GH Lesson Maintainer Teams], or [The Carpentries][The Carpentries GH Lesson Maintainer Teams] Lesson Maintainers. This will give them write privileges for that lesson's repo.
 1. Add to lessons table on appropriate Lesson Program lesson page. 
 1. [Award them a Maintainer badge in AMY](https://carpentries.github.io/amy/users_guide/#issuing-badges). If the individual has [consented to having their profile published](https://carpentries.github.io/amy/users_guide/#adding-a-new-person), they will appear on [The Carpentries Maintainers page](https://carpentries.org/maintainers/) within a day.
 1. Add them to the "maintainers" channel in the Carpentries Slack.
 1. Add them to the ["maintainers" Topicbox email list](https://carpentries.topicbox.com/groups/maintainers).
-1. Send introductory emails for each new Maintainer(s) to the existing Maintainers for their lesson.
-1. Send [email](email_templates.html#welcoming-new-maintainers) to the Maintainers email list announcing new Maintainers.
+1. Send [introductory emails](email_templates.html#introduction-to-co-maintainers) for each new Maintainer(s) to the existing Maintainers for their lesson.
+1. Send [email](email_templates.html#general-introduction-on-maintainers-list) to the Maintainers email list announcing new Maintainers.
 1. Run sendmail_maintainer_certificates.R to send new Maintainers their certificates.
 1. Publish a blog post welcoming new Maintainers (example [blog post here](https://carpentries.org/blog/2020/07/maintainer-welcome-2020/). 
 1. Coordinate with the Communications Manager to announce new Maintainers in the next [newsletter](https://carpentries.org/newsletter/), on Twitter, and Slack general channel.
