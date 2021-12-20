@@ -2,7 +2,7 @@
 
 ### Signing up to Host or co-Host a Community Discussion or Teaching Demo
 
-The Carpentries uses [Calendly](https://calendly.com/thecarpentries) to manage scheduling of Community Discussion sessions and Teaching Demos. Four times a year, Discussion Hosts and Instructor Trainers will be asked to slot in their availability. 
+The Carpentries uses [Calendly](https://calendly.com/thecarpentries) to manage scheduling of Community Discussion sessions and Teaching Demos. Four times a year, Discussion Hosts and Instructor Trainers will be asked to slot in their availability. Additionally, custom forms are used for Trainers to schedule Instructor Training events.
 
 ![Calendly Demo](./images/calendly.gif)
 
@@ -19,4 +19,4 @@ This system aims to build these sessions around the Host or Trainer availability
 
 #### Event Cancellations
 
-We recognise that even after scheduling their own events, Hosts or Trainers may have conflicts and may need to cancel a scheduled event. If this happens, please contact community@carpentries.org for Discussion Sessions or instructor.training@carpentries.org for Teaching Demos as soon as possible so a Core Team member can ensure another Host is able to cover this event.
+We recognise that even after scheduling their own events, Hosts or Trainers may have conflicts and may need to cancel a scheduled event. If this happens, please contact community@carpentries.org for Discussion Sessions or instructor.training@carpentries.org for Teaching Demos and Instructor Training as soon as possible so a Core Team member can ensure another Host is able to cover this event.
