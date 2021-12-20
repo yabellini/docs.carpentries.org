@@ -70,7 +70,7 @@ the onboarding process.
 
 1. Identify lessons in need of additional maintenance support. This includes surveying current Maintainers using [a Google form](https://docs.google.com/forms/d/e/1FAIpQLSeSQJt-jQ9HETI8RGqxt7_XPhqNC8LTMsq3elkaLBnVg88OKA/viewform). 
 1. Create a copy of the [Maintainer Onboarding recruitment form](https://docs.google.com/forms/d/e/1FAIpQLSfXX8HWWltmDqw2T8GO4T7VV2OYG7PnVVEYHbEpS0MHA92Pyg/viewform) and adjust templated text as needed.  
-1. Creates a blog post to announce opening of applications. (Example [blog post](https://carpentries.org/blog/2021/06/maintainer_onboarding/).) Submit blog post text to the Communications Manager. 
+1. Create a blog post to announce opening of applications. (Example [blog post](https://carpentries.org/blog/2021/06/maintainer_onboarding/).) Submit blog post text to the Communications Manager. 
 1. Coordinate with Communications Manager about announcing on other channels (e.g. newsletter, Twitter). 
 1. Once the application period has closed, review applications and determine who to invite.
 1. Determine appropriate schedule for Maintainer Onboarding sessions based on responses to the scheduling poll included in the application. 
