@@ -86,7 +86,7 @@ the onboarding process.
 After onboarding:
 1. Send [congratulations email](email_templates.html#onboarding-complete) to new Maintainers.
 1. Add new Maintainer to the appropriate team for [Software Carpentry][SWC GH Lesson Maintainer Teams], [Data Carpentry][DC GH Lesson Maintainer Teams], [Library Carpentry][LC GH Lesson Maintainer Teams], or [The Carpentries][The Carpentries GH Lesson Maintainer Teams] Lesson Maintainers. This will give them write privileges for that lesson's repo.
-1. Add to lessons table on appropriate Lesson Program lesson page. 
+1. Add to lessons table on appropriate Lesson Program lesson page (e.g. <https://datacarpentry.org/lessons>). 
 1. [Award them a Maintainer badge in AMY](https://carpentries.github.io/amy/users_guide/#issuing-badges). If the individual has [consented to having their profile published](https://carpentries.github.io/amy/users_guide/#adding-a-new-person), they will appear on [The Carpentries Maintainers page](https://carpentries.org/maintainers/) within a day.
 1. Add them to the "maintainers" channel in the Carpentries Slack.
 1. Add them to the ["maintainers" Topicbox email list](https://carpentries.topicbox.com/groups/maintainers).
