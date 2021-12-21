@@ -104,7 +104,7 @@ Hi team!
  
 Please join me in welcoming NUMBER new Maintainers to our group.
  
-NAMES, will be joining on in support of Library Carpentry lessons (LESSON NAMES, respectively). NAME is joining the Software Carpentry LESSON NAME Maintainer team. NAMES will be Data Carpentry lessons (LESSON NAMES, respectively). 
+NAMES, will be joining on in support of Library Carpentry lessons (LESSON NAMES, respectively), NAMES in support of Software Carpentry lessons (LESSON NAMES, respectively), and NAMES in support of Data Carpentry lessons (LESSON NAMES, respectively). 
  
 Welcome to the team NAMES!
  
