@@ -83,6 +83,9 @@ Check
 for a list of things to take note of during the pilot workshop.
 We recommend assigning a specific person or people
 to keep track of these points, e.g. an Instructor or Helper.
+You may find it helpful to make a copy of
+[the pilot observation notes template](https://codimd.carpentries.org/lesson-pilot-observation-notes-template)
+to use during the workshop.
 
 ### Information for Hosts
 
