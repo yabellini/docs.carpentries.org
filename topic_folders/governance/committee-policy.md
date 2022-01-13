@@ -11,6 +11,9 @@ the [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra/),
 and the [Instructor Development Committee](https://carpentries.org/inst-dev/), 
 the [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md).
 
+** The above definition is maybe better suited for the [Carpentries Bylaws section on Committees and Task Forces](https://docs.carpentries.org/topic_folders/governance/bylaws.html#commit`tees-and-task-forces), which perhaps perhaps a detailed definition and examples. But we cannot update the
+Bylaws just yet - something to be checked.**
+
 ### Context
 This policy defines the operational processes and the lines of communication to and from a Committee 
 to ensure transparency, accountability and sustainability the Committee's activities.
@@ -26,7 +29,7 @@ for the Code of Conduct Committee, only business meetings are public, not incide
 Each Committee should:
 * Appoint a Committee chair, and optionally a co-chair, with a description of their roles and responsibilities
 * Identify term limits and succession plan for chair/co-chair
-* Provide a “roles and responsibilities” document for the committee
+* Provide a “roles and responsibilities” document for the Committee
 * Identify processes for onboarding new members
 * Identify a process for offboarding members
 * Include a process for recruiting and selecting new members

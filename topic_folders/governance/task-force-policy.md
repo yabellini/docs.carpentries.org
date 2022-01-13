@@ -10,6 +10,9 @@ organise an event or info gathering activity for another decision or challenge. 
 [CarpentryCon Task Force](https://carpentries.org/carp-con-tf/) who organises the international CarpentryCon conference
 on behalf of The Carpentries.
 
+** The above definition is maybe better suited for the [Carpentries Bylaws section on Committees and Task Forces](https://docs.carpentries.org/topic_folders/governance/bylaws.html#commit`tees-and-task-forces), which perhaps perhaps a detailed definition and examples. But we cannot update the 
+Bylaws just yet - something to be checked.**
+
 ###  Context
 This policy defines the operational processes and the lines of communication to and from a Task Force
 to ensure transparency, accountability and effectiveness the Task Force's activities.
