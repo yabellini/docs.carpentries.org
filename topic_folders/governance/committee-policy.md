@@ -3,17 +3,17 @@
 As per The Carpentries Bylaws, 
 [Committees](https://docs.carpentries.org/topic_folders/governance/bylaws.html#committees-and-task-forces) are 
 organised either by the Executive Council or the Core Team to carry out specific tasks on an ongoing and 
-longer-term basis and are an integral part of The Carpentries community.
+longer-term basis. Committees are an integral part of The Carpentries community and play an important role in how 
+the community advances towards its goals and fulfills its mission; some examples 
+include the [Code of Conduct Committee](https://carpentries.org/coc-ctte/), 
+various Lesson Program Governance Committees and Curriculum Advisory Committees, 
+the [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra/),
+and the [Instructor Development Committee](https://carpentries.org/inst-dev/), 
+the [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md).
 
 ### Context
-
-This policy defines the operational process and establishes clear lines of communication and 
-appropriate transparency for all Carpentries Committees to ensure their sustainability and reduce burnout
-of members.
-
-### Committee Operations
-To ensure sustainability, accountability and effective communication for our Committees, 
-we propose the following guidelines.
+This policy defines the operational processes and the lines of communication to and from a Committee 
+to ensure transparency, accountability and sustainability the Committee's activities.
 
 #### Meetings
 Each Committee should:

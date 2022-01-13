@@ -1,18 +1,18 @@
 ## The Carpentries Task Force Policy
 
 As per The Carpentries Bylaws,
-[Task Forces](https://docs.carpentries.org/topic_folders/governance/bylaws.html#committees-and-task-forces) are
-organised either by the Executive Council or the Core Team to carry out specific tasks on a short-term basis 
-(a year or less), e.g. to organise an event or info gathering for another decision or challenge.
+[Task Forces](https://docs.carpentries.org/topic_folders/governance/bylaws.html#committees-and-task-forces) 
+are proposed by the community, Lesson Programs, [Core Team](https://carpentries.org/team/) or the
+Executive Council (and approved by the Executive Council) to bring together a small group of people focused on a 
+particular topic for a set period of time (typically short-term, e.g. a year or less). Task Forces are formed 
+to explore ideas, make updates in policy, procedures and guidelines, 
+organise an event or info gathering activity for another decision or challenge. An example is the
+[CarpentryCon Task Force](https://carpentries.org/carp-con-tf/) who organises the international CarpentryCon conference
+on behalf of The Carpentries.
 
 ###  Context
-The Carpentries uses Task Forces to explore ideas and make updates in policy, procedures and guidelines. 
-Task forces bring together a small group of people focused on a particular topic for a set period of time. 
-Task Forces can be proposed by the community, Lesson Programs, [Core Team](https://carpentries.org/team/) or 
-Executive Council, and are approved by the Executive Council.
-
-### Task Force Operations
-To ensure sustainability, accountability and effective communication for all Task Forces, we propose the following guidelines.
+This policy defines the operational processes and the lines of communication to and from a Task Force
+to ensure transparency, accountability and effectiveness the Task Force's activities.
 
 #### Meetings
 Each Task Force should:
