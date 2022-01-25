@@ -28,7 +28,7 @@ The Carpentries in Africa grew from strenght to strengh during 2021. During the 
 
 ### Join Us
 
-To join the conversation about The Carpentries in Africa, sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#african-carpentries](https://swc-slack-invite.herokuapp.com/). If you’ve trained as an instructor in Africa (even if you’re not qualified yet), sign up at [Topicbox](https://carpentries.topicbox.com/groups/instructors)
+To join the conversation about The Carpentries in Africa, sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#local-africa](https://swc-slack-invite.herokuapp.com/). If you’ve trained as an instructor in Africa (even if you’re not qualified yet), sign up at [Topicbox](https://carpentries.topicbox.com/groups/instructors)
 
 **We would love to get more people involved in specific activities to support our growing African community** - meet the South African instructors [here](https://carpentries.org/regions_za/)!
 
