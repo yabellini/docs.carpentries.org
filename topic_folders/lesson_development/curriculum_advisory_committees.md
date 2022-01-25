@@ -9,13 +9,13 @@ Curriculum Advisors represent The Carpentries community and should strive to emb
 - Recognising the importance of communication and being welcoming to all contributors.
 - Giving feedback to contributors using The Carpentries model:
   -  Finding what is good. 
-  -  Be specific about improvements needed. 
-  -  Use motivational language.
+  -  Being specific about improvements needed. 
+  -  Using motivational language.
 - Evaluating lesson contributions in light of The Carpentries pedagogical model:
-  - Teach what is most relevant and useful for learners.
-  - Avoid getting bogged down in technical details.
-  - Keep language motivating.
-  - Emphasise the importance of continued learning and improvement.
+  - Teaching what is most relevant and useful for learners.
+  - Avoiding getting bogged down in technical details.
+  - Keeping language motivating.
+  - Emphasising the importance of continued learning and improvement.
 
 ### Meetings
 Each Curriculum Advisory Committee will meet at least quarterly, and preferably every two months. These meetings are the primary avenue through which CAC members will interact, and should follow best practices for The Carpentries meetings, including having meeting roles, taking notes, and creating and holding a space for everyone to contribute. CAC members should prepare for meetings by reading and contributing to relevant documents in advance of the meeting. 
@@ -35,11 +35,11 @@ Meetings minutes are available in the committee's GitHub repository:
 - Prepare agenda for regular meetings, including time estimates for each item.
 - Set the agenda and send it out along with any other relevant documents to committee members at least one week in advance of meeting.
 - Assign meeting roles.
-- Serve as primary point of contact for Maintainers.
+- Serve as primary point of contact for Maintainers
 - Watch lesson repositories for instances where the CAC is mentioned. Respond in a timely fashion, including letting Maintainers and contributors know when items are going to be considered at the next meeting.
 - Generally watch lesson repositories for items that may come under the CAC’s purview, according to the CAC consultation rubric, even if not mentioned.
 - Communicate with lesson Maintainers and contributors, through GitHub issues, about decisions made by the CAC. Put contributors and Maintainers in touch with CAC members who will assist with implementation. 
-- Notify Curriculum Team Lead (Toby Hodges) if a CAC member needs to step down mid-term or becomes unresponsive to communications, so that Core Team can help recruit replacement if needed. 
+- Notify Curriculum Team Lead ([Toby Hodges](mailto:tobyhodges@carpentries.org)) if a CAC member needs to step down mid-term or becomes unresponsive to communications, so that Core Team can help recruit replacement if needed. 
 - Approve meeting minutes. 
 - Fulfill all other responsibilities of a CAC member. 
 
