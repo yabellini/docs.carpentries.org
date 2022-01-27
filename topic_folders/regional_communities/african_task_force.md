@@ -3,7 +3,7 @@
 
 ### Looking back at 2021
 
-The Carpentries in Africa grew from strenght to strengh during 2021. During the year the African Carpentries Community participated in **19 workshops** accross **5 countries** (South Africa, Ethiopia, Ghana, Kenya and Mauritius). Also, **more than 25 new instructors were badged** from **10 countries** (South Africa, Kenya, Rwanda, Ethiopia, Ghana, Morocco, Nigeria, Sudan, Tunisia and Uganda). Furthermore, the first virtual [CarpentryConnect South Africa 2021](https://carpentries.org/blog/2021/09/carpentryconnect/) took place from 6 to 17 September 2021. The event included 2 Carpentries workshops, 1 Carpentries instructor training event, 2 networking events, 1 learning session and 1 opening address.
+The Carpentries in Africa grew from strenght to strengh during 2021. During the year the African Carpentries Community participated in **19 workshops** across **5 countries** (South Africa, Ethiopia, Ghana, Kenya and Mauritius). Also, **more than 25 new instructors were badged** from **10 countries** (South Africa, Kenya, Rwanda, Ethiopia, Ghana, Morocco, Nigeria, Sudan, Tunisia and Uganda). Furthermore, the first virtual [CarpentryConnect South Africa 2021](https://carpentries.org/blog/2021/09/carpentryconnect/) took place from 6 to 17 September 2021. The event included 2 Carpentries workshops, 1 Carpentries instructor training event, 2 networking events, 1 learning session and 1 opening address.
 
 ### What We Do
 
