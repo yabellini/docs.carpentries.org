@@ -10,7 +10,7 @@ The Carpentries in Africa grew from strenght to strengh during 2021. During the 
 - **Monthly African Community Meetup**: Our monthly African Carpentries Community meetups have been running since 2017. Here we discuss topics that are of interest to our instructors in the African context, including previous and upcoming workshops, available resources, opportunities, events, and more. We would love to hear more voices at our monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you are keen to join please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
 
 **2022 meetings**:
-* 27 January
+* ~~27 January~~
 * 24 February
 * 24 March
 * 28 April
