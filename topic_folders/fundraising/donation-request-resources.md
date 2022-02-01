@@ -1,4 +1,4 @@
-# Fundraising Resources
+# Donation Request Resources
 
 ## Introduction
 The following resources were created to aid parties within The Carpentries in asking for donations during the End of Year Appeals. With modification, they can be used in other donation appeals or serve as a guide for future assets in Carpentries Fundraising.
@@ -28,7 +28,7 @@ Sincerely,
 ## Donation Request Letter - Organisation
 Hello [potential donor’s name]
 
-I am writing to thank you for [previous interaction or partnership]. By partnering with us on [previous interaction] The Carpentries was able to [positive result or impact]. As we move into the fourth quarter of the year, I want to make you aware of another  opportunity for [their organisation] to partner with The Carpentries. 
+I am writing to thank you for [previous interaction or partnership]. By partnering with us on [previous interaction] The Carpentries was able to [positive result or impact]. As we move into the fourth quarter of the year, I want to make you aware of another  opportunity for [their organisation] to partner with The Carpentries.
 
 This year has been a challenging one for us all, and we understand the impact this crisis has had on The Carpentries community, and other communities around the world.  As the world shifts to virtual instruction, we believe the importance of digital skills is undeniable; educators and organisations are collaborating to support effective instructional strategies, and with your help, The Carpentries is primed to thrive in this environment. Despite the unprecedented impact of the Coronavirus pandemic, our instructors have run even more Self-Organised workshops this year than we anticipated, teaching our established digital skills curricula, but our work is never finished and we want to do so much more.
 
