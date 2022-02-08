@@ -58,7 +58,7 @@ Please consider donating to help us achieve our 2021 fundraising goal
 
 ## Videos
 
-### [Appeal Video from The Executive Director (https://youtu.be/WachoKRq1cI)
+### [Appeal Video from The Executive Director](https://youtu.be/WachoKRq1cI)
 
 
 
