@@ -64,6 +64,6 @@ Please consider donating to help us achieve our 2021 fundraising goal
 
 ## Appeal Images
 ### Fundraising Letter Pull Quote
-![](https://github.com/carpentries/docs.carpentries.org/raw/main/img/comms-images/EOCY-fundraising-letter-pullquote.jpg)
+![Fundraising Letter Pull Quote](https://github.com/carpentries/docs.carpentries.org/raw/main/img/comms-images/EOCY-fundraising-letter-pullquote.jpg)
 ### Fundraising Video Title Card
-![](https://github.com/carpentries/docs.carpentries.org/raw/main/img/comms-images/fundraising-video-title-card.jpg)
+![Fundraising Video Title Card](https://github.com/carpentries/docs.carpentries.org/raw/main/img/comms-images/fundraising-video-title-card.jpg)
