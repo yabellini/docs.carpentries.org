@@ -46,16 +46,15 @@ Sincerely,
 
 ## Short Calls to Action/Tweet Length Messages
 - A Call To Action: Support The Carpentries <br />
-Read @thecarpentries's letter to The Carpentries Community and consider donating to The Carpentries to help us reach our 2021 fundraising goal! <br /> https://carpentries.org/blog/2021/11/support-the-carpentries/
+Read @thecarpentries's letter to The Carpentries Community and consider donating to The Carpentries to help us reach our 2021 fundraising goal! <br /> <https://carpentries.org/blog/2021/11/support-the-carpentries/>
 
 - “The Carpentries supports more than 3,300 highly skilled instructors in communities in 66 countries… Now more than ever we need you to champion our mission.” - Dr. Kari L. Jordan <br />
 Help us teach data skills to the communities that need them most<br />
-https://give.communityin.org/TheCarpentries
+<https://give.communityin.org/TheCarpentries>
 
 - Thank you to everyone who has donated so far to help The Carpentries achieve our mission! With your help we are on track to reach our goal.<br/>
 Please consider donating to help us achieve our 2021 fundraising goal
-https://give.communityin.org/81tdn9?ref=sh_fAVdid_ab_1xKrq5WDcOB1xKrq5WDcOB
-
+<https://give.communityin.org/81tdn9?ref=sh_fAVdid_ab_1xKrq5WDcOB1xKrq5WDcOB>
 
 ## Videos
 
