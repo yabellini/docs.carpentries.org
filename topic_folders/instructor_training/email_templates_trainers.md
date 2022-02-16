@@ -34,6 +34,8 @@ Before your training, please visit the [Preparing for Instructor Training page](
     - ["The Science of Learning"](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
     - ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
 
+1. [Create a profile in The Carpentries database](https://amy.carpentries.org/forms/request_training/). This is necessary for you to be certified as a Carpentries Instructor.
+
 **Checkout: The Instructor Certification Process** 
 
 After your training, you will be asked to complete three follow-up tasks to become a certified Instructor. These requirements are detailed on the [Checkout Instructions page](https://carpentries.github.io/instructor-training/checkout/index.html) and will be discussed at your training. 
