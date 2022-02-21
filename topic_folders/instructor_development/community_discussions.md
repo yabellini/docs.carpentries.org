@@ -17,7 +17,7 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
   - Lesson Infrastructure Committee
   - The Carpentries Executive Council     
 
-4.	__Regional Community Calls__ These calls are hosted by our local and regional subcommunities. A list of local and regional calls can be found at the top of the [Community Discussions Etherpad] (https://pad.carpentries.org/community-discussions).
+4.	__Regional Community Calls__ These calls are hosted by our local and regional subcommunities. A list of local and regional calls can be found at the top of the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions).
 
 Read more about [Community Discussions](https://carpentries.org/community_discussions/) on The Carpentries website.
 
