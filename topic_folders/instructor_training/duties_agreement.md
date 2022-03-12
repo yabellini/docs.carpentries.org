@@ -22,18 +22,18 @@ NOTE: This documentation replaces the prior Trainer Agreement. Membership docume
 Trainer Certification will expire and be renewed annually in March. New Trainers who have not yet been certified for a full year in March will be automatically renewed for another year.
 
 Certification may be renewed by:
-A) (automatic) participating in curriculum and community activities during the prior year, as described below OR
-B) (within 1 year of expiration) meeting with the Director of Instructor Training (DIT) to discuss curriculum and community as well as plans for participation in the coming year OR
-C) (>1 year post expiration) re-activation as currently detailed in Handbook (review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements.)
+A) (automatic) participating in curriculum and community activities during the prior year, as described below OR  
+B) (within 1 year of expiration) meeting with the Director of Instructor Training (DIT) to discuss curriculum and community as well as plans for participation in the coming year OR  
+C) (>1 year post expiration) re-activation as currently detailed in Handbook (review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements.)  
 
 In the case of A, above, certification will be automatically renewed when activities are self-reported and approved by Trainers Leadership. Participation requirements for automatic renewal are at least:
 
-teaching 1 Instructor Training event, and
-hosting 2 teaching demos, and
-attending 4 Trainer community meetings
-OR
+- teaching 1 Instructor Training event, and  
+- hosting 2 teaching demos, and  
+- attending 4 Trainer community meetings  
+OR  
 
-equivalent engagement with curriculum, trainees, or the Trainer community, as approved by the Trainers Leadership
+- equivalent engagement with curriculum, trainees, or the Trainer community, as approved by the Trainers Leadership
 
 ##### Trainer Alumni Status
 
