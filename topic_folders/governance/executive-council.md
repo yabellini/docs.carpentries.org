@@ -39,21 +39,21 @@ Prioritize the agenda of the Executive Council meetings
 This committee is chaired by the Vice Chair of the Executive Council.
 
 **Roles & Responsibilities**
-- Assessing the Executive Council’s performance as the governing body of The Carpentries 
-- Leading the writing, maintenance, and updates to the Carpentries bylaws, revising/re-approving the bylaws every 2 years, or as needed, according to the bylaws
-- Organizing the annual Executive Council retreat
-- Leading the process to identify, nominate, and onboard new Executive Council members
-- Suggesting special committees/task forces as needed and preparing for their formation as per the Committee Policy
+- Assess the Executive Council’s performance as the governing body of The Carpentries 
+- Lead the writing, maintenance, and updates to the Carpentries bylaws; revise/re-approve the bylaws every 2 years, or as needed, according to the bylaws
+- Organize the annual Executive Council retreat
+- Lead the process to identify, nominate, and onboard new Executive Council members
+- Suggest special committees/task forces as needed and prepare for their formation as per the Committee Policy
 
 #### Finance Committee
 This committee is chaired by the Treasurer of the Executive Council.
 
 **Roles & Responsibilities**
-- Ensuring strong fiduciary oversight and financial management
-- Making sure financial reports are accurate
-- Overseeing the organization’s budget 
-- Identifying revenue streams and resource development
-- Advise on a strategy for establishing reserve funds, lines of credit, and short- and long-term investments
+- Ensure strong fiduciary oversight and financial management
+- Make sure financial reports are accurate
+- Oversee the organization’s budget 
+- Identify revenue streams and resource development
+- Advise on a strategy to establish reserve funds, lines of credit, and short- and long-term investments
 
 #### Communications Committee
 This committee is chaired by the Secretary of the Executive Council.
@@ -68,8 +68,8 @@ This committee is chaired by the Secretary of the Executive Council.
 This committee can be chaired by any member of the Executive Council.
 
 **Roles & Responsibilities**
-- Evaluating The Carpentries programs and services
-- Making recommendations to strengthen programs and services in line with the Carpentries mission, vision, and strategic plan
+- Evaluate The Carpentries programs and services
+- Make recommendations to strengthen programs and services in line with the Carpentries mission, vision, and strategic plan
 
 ### Contacting the Executive Council
 If you have a question or concern for the Executive Council,
@@ -105,14 +105,14 @@ commitment to serve on the Executive Council.
 
 In practice, each Executive Council member is responsible for the following general tasks:
 
-* Supporting the Mission and Vision of The Carpentries
-* Exemplifying the Code of Conduct
-* Ensuring The Carpentries’ adherence to legal agreements and standards
-* Offering their expertise to help ensure the health and success of the organization
-* Actively participating in discussions about strategic and financial decisions
-* Providing feedback and voting on formal motions within one week of their posting
-* Attending (in person or by phone/web-based) at least 75% of the meetings held each year
-* Dedicating at least three volunteer hours per week toward Carpentries activities (including meeting attendance)
+* Support the Mission and Vision of The Carpentries
+* Exemplify the Code of Conduct
+* Ensure The Carpentries’ adherence to legal agreements and standards
+* Offer their expertise to help ensure the health and success of the organization
+* Actively participate in discussions about strategic and financial decisions
+* Provide feedback and vote on formal motions within one week of their posting
+* Attend (in person or by phone/web-based) at least 75% of the meetings held each year
+* Dedicate at least three volunteer hours per week toward Carpentries activities (including meeting attendance)
 
 The specific commitments expected of Executive Council members include monthly meetings (1-1.5 hours, online) and a once-yearly
 face-to-face meeting (expenses covered by The Carpentries). Minutes for these meetings are published to [a GitHub repository](https://github.com/carpentries/executive-council-info/tree/master/minutes) after
