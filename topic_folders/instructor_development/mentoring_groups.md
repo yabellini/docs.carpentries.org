@@ -77,7 +77,7 @@ I agree to follow the [Code of Conduct](https://docs.carpentries.org/topic_folde
 When interacting with my mentoring group, I agree to
 + communicate The Carpentries community values to mentees and model that behaviour myself in how I mentor,   
 + provide a welcoming and supporting environment for mentees,
-+ avoid dismissive language, question my expert blind spot, and model error-making as a vital part of the mentoring process.
++ avoid dismissive language, question my expert awareness gap, and model error-making as a vital part of the mentoring process.
 
 I understand that it is important to keep in touch with The Carpentries community so that my mentorship will reflect current practices. I agree to:  
 + stay active in one or more Carpentries communication channels,   
@@ -96,13 +96,13 @@ I understand that it is important to keep in touch with The Carpentries communit
   + Certified Carpentries instructors who have taught three or more workshops are invited to lead mentoring groups.
 + **Activities & Timing**
   + Mentoring groups run for between eight and 12 weeks.
-  + Kari Jordan will hold a mentoring groups 'touch base with mentors' halfway through the 8-12 week period.
+  + The IDC Mentoring Co-Chair(s) will hold a mentoring groups 'touch base with mentors' halfway through the 8-12 week period.
   + Mentors and mentees will be asked to complete a short [survey](https://goo.gl/forms/BOxgiKy99kVec07j2) halfway through the 8-12 week period.
   + The 8-12 week period will end with a virtual showcase.
   + Mentors and mentees will be asked to complete a second short [survey](https://goo.gl/forms/I36OUFXGAofLps8E3) at the end of the mentoring group period.
 + **Exposure**
   + A mentoring page will be added to The Carpentries' [website](https://carpentries.org) with information on how to join a mentoring group.
-  + Members will be added to groups, and new groups will be formed, on a rolling basis as needed, at the discretion of Kari Jordan.
+  + Members will be added to groups, and new groups will be formed, on a rolling basis as needed, at the discretion of the Mentoring Co-Chair(s).
   + The Mentoring Subcommittee will be instrumental in getting the word out about mentoring groups.
 
 
@@ -155,7 +155,7 @@ To join the mentoring program as a mentee, complete [this form](https://docs.goo
 - Respond promptly to emails from your Mentees.  
 - Follow up with Mentees who miss meetings.  
 - Be respectful of Mentees. Provide a safe space for questions and mistakes.  
-- Report Mentee attendance and progress to mentoring coordinator.
+- Report Mentee attendance and progress to Mentoring Co-Chair(s).
 
 ##### Time commitment
 
@@ -169,7 +169,7 @@ Certified instructors who have taught at least 2 workshops.
 
 To join a mentoring group as a mentor, complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSfXySJkJrl4uVQyyUmohBnBGlJMfPj7Mis0JqU-awOHvGug2A/viewform).
 
-#### Mentoring Coordinator
+#### Mentoring Co-Chair(s) 
 
 ##### Responsibilities
 
