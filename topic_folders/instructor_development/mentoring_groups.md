@@ -102,7 +102,7 @@ I understand that it is important to keep in touch with The Carpentries communit
   + Mentors and mentees will be asked to complete a second short [survey](https://goo.gl/forms/I36OUFXGAofLps8E3) at the end of the mentoring group period.
 + **Exposure**
   + A mentoring page will be added to The Carpentries' [website](https://carpentries.org) with information on how to join a mentoring group.
-  + Members will be added to groups, and new groups will be formed, on a rolling basis as needed, at the discretion of the Mentoring Co-Chair(s).
+  + Members will be added to groups, and new groups will be formed, on a rolling basis as needed, at the discretion of the IDC Mentoring Co-Chair(s).
   + The Mentoring Subcommittee will be instrumental in getting the word out about mentoring groups.
 
 
