@@ -1,4 +1,4 @@
-## Carpentries in Africa
+## The Carpentries in Africa
 
 
 ### Looking back at 2021
