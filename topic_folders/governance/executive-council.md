@@ -242,86 +242,92 @@ This is a GitHub organisation 'owned' by the Executive Council, used for informa
 
 We use a private Google Drive folder called <u>Carpentries_Executive_Council</u><sup>*</sup>, see its README for orientation to contents.
 
-### Yearly Timeline
+### Quarterly Executive Council Meetings
 
 <!--From https://github.com/carpentries/executive-council-info/blob/master/process/timeline.md]-->
 
-Additional annual tasks:
+Recurring agenda items for each meeting
+(Each meeting can, and probably will, have additional agenda items)
 
-* in-person (face-to-face) meeting
-* reassessing the strategic plan
-* annual financial report
+#### February
+* Approve minutes from December meeting
+* Select new officers and standing committee members
+* Select Executive Council Liaison to Code of Conduct Committee
+* Review Q4 financial report from previous year
+* Decide upon annual goals for New Executive Council (can vote on goals asynchronously if needed)
 
-Additional recurring tasks:
+#### May
+* Approve minutes from February meeting
+* Review Q1 financial report
+* Standing Committee Reports
+* Review draft of annual financial report
+* Review and discussion of strategic plan activities
+* 2022: Approve Election Policy
 
-* every second year, starting 2020: revision or reapproval of the bylaws
+#### August
+* Approve minutes from May meeting
+* Review Q2 financial report
+* Standing Committee Reports
+* Review and discussion of strategic plan activities
+* Identify desired skills for incoming Executive Council members
+
+#### December
+* Approve minutes from September meeting
+* Election of the next Executive Council (done at the Q4 meeting) 
+* Election of council-elected members
+* Ratifying community-elected members and council-elected members
+* Ratifying the new Executive Council composition
+* Approve Bylaws amendments, if any (even-numbered years only)
+* Review Q3 financial report
+* Approve next year’s budget
+* Standing Committee Reports
+* Review and discussion of strategic plan activities
+
+### Calendar of Events
+Timeline of issues to be resolved outside of meetings
 
 #### January
-* Review previous year’s minutes, ensuring all are approved and posted
-* Onboarding meeting for incoming Executive Council members with current Chair and/or Vice Chair and Executive Director
-* Overlap meeting of outgoing/incoming members
-* Logistics of offboarding outgoing members
-* Logistics of onboarding new members
-* Solicit nominations for Executive Council officers
-* Suggest annual goals for new Executive Council
-* Assess availability of incoming Executive Council Members for in-person meeting
 * Publish Q4 Code of Conduct Transparency Report
+* Review previous years’ minutes, ensuring all are approved and posted
+* Finish logistics of offboarding outgoing members and onboarding incoming members
+* Assess availability of incoming Executive Council members for an in-person meeting at onboarding
 
 #### February
 * New Executive Council officially takes over
-* Reassess meeting procedures, including methods for setting the agenda and taking minutes
-* Select new officers
-* Select Executive Council liason to Code of Conduct Committee
-* Finalise annual goals for Executive Council
-* Review Q4 financial report
-
-#### March
-* Review and discussion of strategic plan activities
 
 #### April
-* Review draft of annual financial report
 * Publish Q1 Code of Conduct Transparency Report
-
-#### May
-* Review Q1 financial report
-
-#### June
-* Review and discussion of strategic plan activities
 
 #### July
 * Publish Q2 Code of Conduct Transparency Report
 
 #### August
-* Review Q2 financial report
-
-#### September
-* Assign individuals to reassess bylaws (required in even-numbered years, due in November)
-* Review and discussion of strategic plan activities
+* Solicit nominations for council-elected members
 
 #### October
-* Assess desired skills for incoming Executive Council members
 * Announce opening of self-nomination for Executive Council
-* Solicit nominees for community awards
 * Publish Q3 Code of Conduct Transparency Report
 
 #### November
-* Executive Director evaluation
-* Solicit nominations for appointed members
-* Nominations for Executive Council elections close (at start of first community call)
-* Community call for Executive Council nominees
-* Vote on reassessed bylaws
-* Review Q3 financial report
+* Nominations for Executive Council Elections close
+* Start Executive Director Performance Evaluation
 
 #### December
-* Announce community award winners
-* First full week (Monday-Friday) in December: elections open
-* Selection of appointed members
-* Ratifying community-elected positions and council-elected positions (private GitHub repo)
-* Ratifying the new Executive Council members (public GitHub repro)
+* Community elections open first full week (Monday - Friday)
+* Finish Executive Director Performance Evaluation
 * Announcement of the new Executive Council
-* Start organising dates for face-to-face meeting in first half of year
-* Review and discussion of strategic plan activities
+* Start logistics of offboarding outgoing members and onboarding incoming members
+* Start organising dates for face-to-face meetings in first half of the year
 
+#### Additional annual tasks:
+
+* in-person (face-to-face) meeting
+* reassessing the strategic plan
+* annual financial report
+
+#### Additional recurring tasks:
+
+* every second year, starting 2020: revision or reapproval of the bylaws
 
 ### Elections
 
