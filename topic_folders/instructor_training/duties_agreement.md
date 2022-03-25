@@ -37,7 +37,7 @@ OR
 
 ##### Trainer Alumni Status
 
-Active Trainers may elect to become inactive by requesting Trainer Alumni status at any time by contacting team@carpentries.org. 
+Active Trainers may elect to become inactive by requesting Trainer Alumni status at any time by contacting instructor-training@carpentries.org. Alumni may also submit re-activation requests to the same address.
 
 Trainer Alumni will not be permitted to:
 - teach Carpentries Instructor Training workshops
@@ -51,8 +51,9 @@ Trainer Alumni may select to:
 - receive an annual newsletter during agreement renewal with community updates and details on how to return to Active status. 
 
 A Trainer who wishes to return to Active status will have a different path depending on the amount of time they’ve been inactive:
-- less than 3 months: no requirements - contact team@carpentries.org to request reinstatement
-- 3-12 months: meet with Director of Instructor Training to catch up on latest news & discuss plans for re-activating
-- more than 12 months: review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements.
+- 0-12 months: meet with Director of Instructor Training to catch up on latest news & discuss plans for re-activating
+- more than 12 months: review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements
+
+
 
 
