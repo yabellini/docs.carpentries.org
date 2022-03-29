@@ -12,7 +12,7 @@ The Carpentries in Africa grew from strenght to strengh during 2021. During the 
 **2022 meetings**:
 * ~~27 January
 * ~~24 February
-* 24 March
+* ~~24 March
 * 28 April
 * 26 May
 * 23 June
