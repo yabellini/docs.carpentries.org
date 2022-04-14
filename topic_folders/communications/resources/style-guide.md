@@ -147,9 +147,9 @@ The first character after a full-stop should be capitalised and have one space b
 
 ## G
 ##### given name
-This term to be used in preference to the terms ‘first name’, ‘forename’, and ‘Christian name’, which might offend non-Christians. Use given name the first time someone is mentioned, but not subsequently, _e.g.,_ ‘Mary Brown came late to programming ... Brown later went on to develop several well-known programs.’
+This term to be used in preference to the terms ‘first name’, ‘forename’, and ‘Christian name’. Use given name the first time someone is mentioned, but not subsequently, _e.g.,_ ‘Mary Brown came late to programming ... Brown later went on to develop several well-known programs.’
 
-Avoid using initials rather than a name, unless that is how a person is best known, _e.g.,_ J. K. Galbraith.
+Avoid using initials rather than a name, unless that is how a person is best known, _e.g.,_ N. K. Jemisin.
 
 ---
 
@@ -173,7 +173,7 @@ Use inclusive language.  This includes word choice that recognises the complexit
 Things to avoid: diminishing or dismissive language (just, simply, obviously, etc), local colloquialisms
 
 ##### initials
-Separate initials in names from each other with spaces and full stops, _e.g.,_ J. K. Galbraith.
+Separate initials in names from each other with spaces and full stops, _e.g.,_ N. K. Jemisin.
 
 ##### -isation
 not –ization, _e.g.,_ organisation, characterisation.
