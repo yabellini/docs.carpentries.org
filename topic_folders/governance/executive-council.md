@@ -114,7 +114,7 @@ In practice, each Executive Council member is responsible for the following gene
 * Attending (in person or by phone/web-based) at least 75% of the meetings held each year
 * Dedicating at least three volunteer hours per week toward Carpentries activities (including meeting attendance)
 
-The specific commitments expected of Executive Council members include monthly meetings (1-1.5 hours, online) and a once-yearly
+The specific commitments expected of Executive Council members include quarterly meetings (two hours, online) and a once-yearly
 face-to-face meeting (expenses covered by The Carpentries). Minutes for these meetings are published to [a GitHub repository](https://github.com/carpentries/executive-council-info/tree/master/minutes) after
 approval by Executive Council members. We may periodically schedule additional virtual meetings to address particular topics. Officers and Executive Council
 liaisons to Committees or Task Forces may have additional commitments for meetings. Asynchronous commitments involve suggesting
