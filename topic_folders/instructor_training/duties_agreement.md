@@ -26,7 +26,10 @@ A) (automatic) participating in curriculum and community activities during the p
 B) (within 1 year of expiration) meeting with the Director of Instructor Training (DIT) to discuss curriculum and community as well as plans for participation in the coming year OR  
 C) (>1 year post expiration) re-activation as currently detailed in Handbook (review Trainer Training curriculum, observe part of an Instructor Training workshop, and meet with Director of Instructor Training to catch up and discuss plans, including re-introduction to the Trainer community via meetings or other arrangements.)  
 
-In the case of A, above, certification will be automatically renewed when activities are self-reported and approved by Trainers Leadership. Participation requirements for automatic renewal are at least:
+In the case of A, above, certification will be automatically renewed when activities are self-reported and approved by Trainers Leadership.
+
+###### Participation Requirements
+Participation requirements for automatic renewal are at least:
 
 - teaching 1 Instructor Training event, and  
 - hosting 2 teaching demos, and  
