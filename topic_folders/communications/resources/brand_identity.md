@@ -1,17 +1,58 @@
-# Brand Identity 
+# Brand Identity
 
-## Carpentries Colours 
+## Carpentries Brand Colours
 
-The following is a list of hexcodes and RGB codes for colours used in The Carpentries materials.
+### Main Brand Colours
 
-<p style="color:#071159;"><span style="font-size:50px;">&#9733;</span>Carpentries Blue is #071159 or rgb(7, 17, 89).</p>
-<p style="color:#D45214;"><span style="font-size:50px;">&#9733;</span>Carpentries Red  is #D45214 or rgb(212, 82, 20).</p>
-<p style="color:#F0A202;"><span style="font-size:50px;">&#9733;</span>Carpentries Orange is #F0A202 or rgb(240, 162, 2).</p>
-<p style="color:#3D7BBA;"><span style="font-size:50px;">&#9733;</span>Carpentries Light Blue is #3D7BBA or rgb(61, 123, 186).</p>
+<p style="color:#383838;"><span style="font-size:50px;">&#9733;</span>Black: #383838 or rgb(56, 56, 56).</p>
 
-## Carpentries Fonts 
+<p style="color:#001483;"><span style="font-size:50px;">&#9733;</span>Midnight: #001483 or rgb(0, 20, 131,).</p>
+
+<p style="color:#FF4955;"><span style="font-size:50px;">&#9733;</span>Fire:  #FF4955 or rgb(255, 73, 85).</p>
+
+<p style="color:#FFC700;"><span style="font-size:50px;">&#9733;</span>Golden: #FFC700 or rgb(255, 199, 0).</p>
+
+<p style="color:#FFF7F1;"><span style="font-size:50px;">&#9733;</span>Buttercup: #FFF7F1 or rgb(255, 247, 241).</p>
+
+### Lesson Program Colours and Shades
+<p style="color:#081457;"><span style="font-size:50px;">&#9733;</span>General Carpentries: #081457 or rgb(8, 20, 87).</p>
+
+<p style="color:#E3E6FC;"><span style="font-size:50px;">&#9733;</span>General Carpentries (Light): #E3E6FC or rgb(227, 230, 252).</p>
+
+<p style="color:#205959;"><span style="font-size:50px;">&#9733;</span>Data Carpentries: #205959 or rgb(32, 89, 89).</p>
+
+<p style="color:#40AEAD;"><span style="font-size:50px;">&#9733;</span>Data Carpentries (Light): #40AEAD or rgb(64, 174, 173).</p>
+
+<p style="color:#201434;"><span style="font-size:50px;">&#9733;</span>Software Carpentries: #201434 or rgb(32, 20, 52).</p>
+
+<p style="color:#D2BDF2;"><span style="font-size:50px;">&#9733;</span>Software Carpentries (Light): #D2BDF2 or rgb(210, 189, 242).</p>
+
+<p style="color:#A4050E;"><span style="font-size:50px;">&#9733;</span>Library Carpentries: #A4050E or rgb(164, 5, 14).</p>
+
+<p style="color:#F99697;"><span style="font-size:50px;">&#9733;</span>Library Carpentries (Light): #F99697 or rgb(249, 150, 151).</p>
+
+### Secondary/Supplementary Colours and Shades
+
+<p style="color:#0044d7;"><span style="font-size:50px;">&#9733;</span>Lake: #0044d7 or rgb(0, 68, 215).</p>
+
+<p style="color:#719eff;"><span style="font-size:50px;">&#9733;</span>Pond: #719eff or rgb(113, 158, 255).</p>
+
+<p style="color:#E6F1FF;"><span style="font-size:50px;">&#9733;</span>Sky: #E6F1FF or rgb(230, 241, 255).</p>
+
+<p style="color:#F5F8FF;"><span style="font-size:50px;">&#9733;</span>Dew: #F5F8FF or rgb(245, 248, 255).</p>
+
+<p style="color:#E6EAF0;"><span style="font-size:50px;">&#9733;</span>Fog: #E6EAF0 or rgb(230, 234, 240).</p>
+
+<p style="color:#E6EEF8;"><span style="font-size:50px;">&#9733;</span>Mist: #E6EEF8 or rgb(230, 238, 248).</p>
+
+<p style="color:#FC757E;"><span style="font-size:50px;">&#9733;</span>Sunrise: #FC757E or rgb(252, 117, 126).</p>
+
+<p style="color:#FFD6D8;"><span style="font-size:50px;">&#9733;</span>Dawn: #FFD6D8 or rgb(255, 214, 216).</p>
+
+<p style="color:#FFE7A8;"><span style="font-size:50px;">&#9733;</span>Dawn: #FFE7A8 or rgb(255, 231, 168).</p>
+
+
+## Carpentries Fonts
 
 The font used in the headers on the <https://carpentries.org> website is [Lato](https://fonts.google.com/specimen/Lato).
 The font used in the body of the <https://carpentries.org> website is [Roboto](https://fonts.google.com/specimen/Roboto).
-
-
