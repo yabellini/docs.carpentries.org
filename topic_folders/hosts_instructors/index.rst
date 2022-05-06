@@ -37,17 +37,7 @@ Self-Organised Workshop
 
     - Any local or group specific Slack channel
     
-    *These channels were designed specifically for community members to communicate about specific needs and to build local capacity*. 
-
-    We ask that you only use the resources listed above. Please **do not** use the following channels. Any recruitment messages used on these channels will be removed.
-
-    * `Discuss list <https://carpentries.topicbox.com/groups/discuss>`_ on TopicBox
-
-    * `General Channel <https://swcarpentry.slack.com/archives/C03LE48AY>`_ on Slack
-
-    * `Instructors List <https://carpentries.topicbox.com/groups/instructors>`_ on TopicBox
-    
-    * `Instructors Channel <https://swcarpentry.slack.com/archives/C08BVNU00>`_ on Slack
+    *These channels were designed specifically for community members to communicate about specific needs and to build local capacity. Recruiting done in any other channel will be removed*. 
 
 
 In both cases, the host site is expected to pay for instructor travel (if needed) and

@@ -2,7 +2,7 @@
 
 The Carpentries Community Development Team leads and organises Community Discussions. This document describes how community discussions are organised and conducted.  Checklists for the Discussion Hosts are [here](#checklists-community-discussions).  
 
-The Carpentries Community Discussions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Discussion topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are three types of Community Discussions:
+The Carpentries Community Discussions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Discussion topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are four types of Community Discussions:
 
 1. __Pre- and Post-Workshop Discussions__ These discussions are designed for those getting ready to teach or having recently taught to come discuss their workshop with the community.
 
@@ -17,15 +17,17 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
   - Lesson Infrastructure Committee
   - The Carpentries Executive Council     
 
+4.	__Regional Community Calls__ These calls are hosted by our local and regional subcommunities. A list of local and regional calls can be found at the top of the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions).
+
 Read more about [Community Discussions](https://carpentries.org/community_discussions/) on The Carpentries website.
 
 ### Motivation
 
 1. The Carpentries is a community-led project and the community needs opportunity to interact.
 
-1. The Carpentries believes in [jugyokenkyu](https://carpentries.github.io/instructor-training/11-practice-teaching/), or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
+2. The Carpentries believes in [jugyokenkyu](https://carpentries.github.io/instructor-training/11-practice-teaching/), or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
 
-1. The Carpentries is continuing to increase the number of instructors and develop new lessons. New instructors would like to hear from experienced teachers who have recently taught to help prepare for upcoming workshops.
+3. The Carpentries is continuing to increase the number of instructors and develop new lessons. New instructors would like to hear from experienced teachers who have recently taught to help prepare for upcoming workshops.
 
 ### Who Can Host?
 
@@ -40,14 +42,16 @@ A great way to get into hosting these sessions is to first attend as an observer
 
 Interested in becoming a session host? Not sure how or what would be required of you? No problem! Follow these steps:
 
-1. Complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSc3a0OJ3_mXMpBKhwdk5i_t36pt_Nd3_v0GzoOkeIVCOfzS-w/viewform) to start the onboarding process.
-2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Watch this Discussion Host Onboarding [video](https://www.youtube.com/watch?v=4hP5kBmNdYM&t=2s) and then the accompanying [slides](https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/edit#slide=id.g3b8317a2f2_1_29), presented by our Executive  Director, Dr Kari L. Jordan.
+1. Email the Community Development Team (community@carpentries.org) to inform them of your interest. 
+2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Watch this Discussion Host Onboarding [video](https://youtu.be/VrWdzlD2dlE) and then the accompanying [slides](https://docs.google.com/presentation/d/1mal-KCfz5EaPuXXMCRiYxYsA41qPsWJfnj9ydMo9Y8Q/edit?usp=sharing ), presented by our Director of Community, Dr Alycia Crall.
 3. To co-host a Community Discussion session, you can sign-up [here](https://pad.carpentries.org/community-discussions) as notetaker.
 4. Have any other questions? Reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox list](https://swcarpentry.slack.com/archives/CBHECTZJN).
 
 ### Scheduling Discussion Sessions
 
-Discussion sessions are scheduled on a quarterly basis [as described here](../communications/guides/community_events.md). This will allow The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform). Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.  
+With the exception of Regional Community Calls, discussion sessions are scheduled on a quarterly basis [as described here](../communications/guides/community_events.md). This will allow The Carpentries Community Development Team to support your recruitment initiatives and help publicise your event. In the rare instance that you need to schedule such sessions outside of a quarter please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform). Your session is not confirmed until you hear from a member of The Carpentries Community Development Team.
+
+If you are interested in adding a Regional Community Call to the Etherpad and having it added to the Community Calendar, please email community@carpentries.org.
 
 ### Expectations and Checklists
 
@@ -57,8 +61,8 @@ Discussion sessions are scheduled on a quarterly basis [as described here](../co
 * While it's the co-host's main responsibility to take notes, please take notes in the Etherpad when the co-host/notetaker is speaking.
 * Maintain focus on the main goal of the session, which is to share ideas, support each other, and keep instructors excited about teaching.
 * Ensure instructors teaching in the near future have urgent questions or concerns addressed.
-* Collect feedback from instructors who have recently taught.
-* Engage newly trained instructors and evaluating their participation using a subset of questions described in the [checkout procedure](https://carpentries.github.io/instructor-training/checkout/).
+* Collect feedback from Instructors who have recently taught.
+* Engage newly trained Instructors and evaluating their participation using a subset of questions described in the [checkout procedure](https://carpentries.github.io/instructor-training/checkout/).
 * Encourage attendees to create issues or pull requests to correct problems.
 * Complete the [host questionnaire](https://forms.gle/N74pFuGkRLawpCHh7) at the end of the community discussion.
 
@@ -73,7 +77,7 @@ Discussion sessions are scheduled on a quarterly basis [as described here](../co
 
 #### Checklists - Community Discussions
 
-Community discussions are organised and conducted through [this Etherpad](http://pad.carpentries.org/community-discussions).
+Community discussions are organised and conducted through [this Etherpad](http://pad.carpentries.org/community-discussions). Many regional subcommunities use their own notetaking platform. Links to these can be found at the top of the Community Discussions Etherpad and are available in the relevant calendar invites.
 
 ##### Before the Discussion Session 
 
@@ -90,7 +94,7 @@ Community discussions are organised and conducted through [this Etherpad](http:/
 
 ##### During the Discussion Session 
 
-You can follow the agenda below to guide you through your discussion session.
+You can follow the agenda below to guide a pre-post workshop discussion session. This and additional agenda templates can be found at the botom of the Community Discussions Etherpad. 
 
 - Welcome, introductions, and reminder of Code of Conduct (5-10 minutes depending on number of participants)   
   - Code of Conduct Link: [https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
@@ -117,8 +121,6 @@ You can follow the agenda below to guide you through your discussion session.
   - Q&A   
   - Export the Etherpad (button at top right) if you would like to save notes from your session and delete your session's notes.
   - Thank attendees for participating
-
-(A copy of this agenda is kept at the bottom of the instructor discussion Etherpad.)
 
 Based on discussion among the Instructor Development Committee, temporary questions may be added to the agenda for a month of sessions, in order to collect data on specific issues.  
 

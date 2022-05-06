@@ -22,6 +22,7 @@ Below are general resources of use to various segments of The Carpentries commun
    topic_folders/assessment/index.rst
    topic_folders/communications/index.rst
    topic_folders/for_instructors/index.rst
+   topic_folders/fundraising/index.rst
    topic_folders/governance/index.rst
    topic_folders/instructor_development/index.rst
    topic_folders/instructor_training/index.rst
