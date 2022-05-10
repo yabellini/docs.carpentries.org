@@ -1,53 +1,55 @@
 ## The Carpentries Task Force Policy
 
-As per The Carpentries Bylaws,
-[Task Forces](https://docs.carpentries.org/topic_folders/governance/bylaws.html#committees-and-task-forces) 
-are proposed by the community, Lesson Programs, [Core Team](https://carpentries.org/team/) or the
-Executive Council (and approved by the Executive Council) to bring together a small group of people focused on a 
-particular topic for a set period of time (typically short-term, e.g. a year or less). Task Forces are formed 
-to explore ideas, make updates in policy, procedures and guidelines, 
-organise an event or info gathering activity for another decision or challenge. An example is the
-[CarpentryCon Task Force](https://carpentries.org/carp-con-tf/) who organises the international CarpentryCon conference
-on behalf of The Carpentries.
-
-** The above definition is maybe better suited for the [Carpentries Bylaws section on Committees and Task Forces](https://docs.carpentries.org/topic_folders/governance/bylaws.html#commit`tees-and-task-forces), which perhaps perhaps a detailed definition and examples. But we cannot update the 
-Bylaws just yet - something to be checked.**
+See the definition of [Task Forces](https://docs.carpentries.org/topic_folders/governance/bylaws.html#committees-and-task-forces)
+in the Bylaws. 
 
 ###  Context
-This policy defines the operational processes and the lines of communication to and from a Task Force
-to ensure transparency, accountability and effectiveness the Task Force's activities.
+This policy defines the operational processes and the lines of communication to and from a task force
+to ensure transparency, accountability and effectiveness the task force's activities.
+
+### Task Force Formation
+A task force is formed by submitting a Task Force Charter (explained [below](#task-force-charter)) for approval to
+the Executive Council. If a task force is proposed or lead by the Core Team, the formal
+approval of the Executive Council is not needed and the Executive Council should only be informed by the Core Team.
+Upon approval, the task force is listed at [The Carpentries website](https://carpentries.org/committees/)
+with a link to its public Charter.
+
+### Task Force Operations
+The following are operational guidelines for task forces.
+
+#### Roles and Responsibilities
+Each task force should:
+* Provide a [Task Force Charter](https://github.com/carpentries/task-forces/blob/master/task-force-charter-template.md)
+  that outlines the context, objectives and deliverables of the task force
+* Set a timeline for the start and completion of the task force's deliverables
+* Appoint a task force chair, and optionally a co-chair, with a description of their roles and responsibilities
+* Provide a “Roles and Responsibilities” document for the task force
+* Identify processes for recruiting and selecting task force members
+* Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend task force meetings
+
+* an associated public facing GitHub project for information about the Task Force during its work, to be located in the [Carpentries Task Forces GitHub repository](https://github.com/carpentries/task-forces)
 
 #### Meetings
-Each Task Force should:
-* hold regular meetings, to be determined by the Task Force Chair
-* post meetings on the community calendar. Note that meetings do not necessarily need to be public
-
-#### Requirements
-Each Task Force requires:
-* a [Task Force Charter](https://github.com/carpentries/task-forces/blob/master/task-force-charter-template.md) that outlines the context, objectives and deliverables of the Task Force
-* a set timeline for the start and completion of the Task Force deliverables
-* an associated public facing GitHub project for information about the Task Force during its work, to be located in the [Carpentries Task Forces GitHub repository](https://github.com/carpentries/task-forces)
-* appointment of a Task Force chair
-* a “roles and responsibilities” document for the Task Force
-* a process for recruiting and selecting Task Force members
-* appointment of a [Core Team](https://carpentries.org/team/) liaison who serves as a point of contact and can attend Task Force meetings when deemed necessary
+Each task force should:
+* Hold regular meetings, to be determined by the Task Force Chair
+* Post meetings on the community calendar. Note that meetings do not necessarily need to be public.
 
 #### Communication
-Each Task Force should:
-* post meeting notes or minutes in the corresponding task force folder in the Task Force's GitHub repository. Minutes should be public, but can be private if the work of the Task Force requires it
+Each task force should:
+* post meeting notes or minutes in the corresponding task force folder in the Task Force's GitHub repository. Minutes should be public, but can be private if the work of the task force requires it
 * utilise The Carpentries [communication pathways](https://docs.carpentries.org/topic_folders/communications/index.html)
-* produce a Task Force report to be shared with the Executive Council upon completion of the deliverables as outlined in the Task Force Charter
+* produce a task force report to be shared with the Executive Council upon completion of the deliverables as outlined in the task force Charter
 
 ### Public Documentation
-Each Task Force shall have a folder in the [Carpentries Task Forces GitHub repository](https://github.com/carpentries/task-forces) with the following information:
+Each task force shall have a folder in the [Carpentries Task Forces GitHub repository](https://github.com/carpentries/task-forces) with the following information:
 * [Task Force Charter](https://github.com/carpentries/task-forces/blob/master/task-force-charter-template.md)
 * Meeting notes or minutes
-* Task Force report 
+* Task force report 
 
-The Task Force chair is responsible for updating this information as necessary.
+The task force chair is responsible for updating this information as necessary.
 
 ### Internal Documentation
-Each Task Force should have internal documentation for the members that includes:
+Each task force should have internal documentation for the members that includes:
 * Onboarding information
 * Offboarding information
 * How the chair and other roles are selected
@@ -55,22 +57,24 @@ Each Task Force should have internal documentation for the members that includes
 
 Whenever possible, this internal documentation should be made available to the community.
 
-#### Task Force Formation
-The current mechanism for creation of a Task Force is for the Executive Council or [Core Team](https://carpentries.org/team/) to identify needs for information gathering or updates in current policies, guidelines or products, and collaboratively draft a Charter with relevant members of the community. Members of the community interested in proposing or leading a Task Force should get in touch with the Executive Council at carpentries-executive-council@carpentries.org. The Task Force comes into effect upon approval of the Task Force Charter by the Executive Council.
-
 #### Task Force Termination
-The Executive Council may terminate a Task Force at any time.
+The Executive Council may terminate a task force at any time.
 
 #### Task Force Actions Requiring Executive Council Approval
-The Task Force will not undertake any of the following actions without obtaining approval of the Executive Council:
+The task force will not undertake any of the following actions without obtaining approval of the Executive Council:
 * Creation of a supplementary Code of Conduct
 * Creation and/or release of position statements
 * Host branded events
 * Create and/or use a logo
 * Launch its own fundraising campaign
 
-Note that the above list is not exhaustive. Task Forces should consult with the Executive Council if there is any 
+Note that the above list is not exhaustive. A task force should consult with the Executive Council if there is any 
 question about whether or not what they are doing requires approval.
+
+### Past & Current Task Forces
+Some examples of task forces include the [CarpentryCon Task Force](https://carpentries.org/carp-con-tf/), 
+which gets regularly reformed to organise the international CarpentryCon conference on behalf of The Carpentries, 
+and the [Value Alignment Task Force](https://carpentries.org/blog/2021/12/values-alignment-task-force/).
 
 Update Log:
 

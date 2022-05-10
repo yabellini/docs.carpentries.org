@@ -163,14 +163,27 @@ A detailed description of the Responsibilities of Executive Council members and 
 ## 8. Committees and Task Forces
 
 ### Committees
-Committees are organised by the Executive Council to carry out specific tasks as delegated on an ongoing basis. Formation, Operations and terminations of Committees are regulated in the [Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html).
-Both Committees and Task Forces are overseen by Core Team, although the Executive Council may request quarterly reports on each group’s activities.
+Committees are proposed or organised by the [Executive Council](https://carpentries.org/governance/) 
+or the [Core Team](https://carpentries.org/team/) to carry out specific tasks on an 
+ongoing (i.e. longer-term) basis. The functioning of committees is overseen by the Core Team, and  
+they report periodically to the Executive Council about their activities.  
+Committees are an integral part of The Carpentries community and play an important
+role in how the community performs tasks and advances towards its goals and fulfills its mission.
+Formation, operations, roles and responsibilities, and termination of committees are regulated by the
+[Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html).
 
 ### Task Forces
-Task Forces are organised by the Executive Council to carry out specific tasks on a short-term basis (e.g., a year or less). Formation, Operations and terminations of Task Forces are regulated in the [Task Force Policy](https://docs.carpentries.org/topic_folders/governance/task-force-policy.html).
-
-### CarpentryCon Task Force
-CarpentryCon is the key community-building and networking event in The Carpentries' calendar of activities. This event brings together newer and more experienced community members to share knowledge, to network, to develop new skills, and to develop strategies for building strong local communities. Location and frequency of the meeting is determined by the CarpentryCon Task Force.
+Task Forces are proposed or organised by the [Executive Council](https://carpentries.org/governance/),
+the [Core Team](https://carpentries.org/team/) or by the community members 
+(in which case they have to be formally approved by the Executive Council).
+Task Forces bring together a small group of people focused on a
+particular topic for a set period of time (typically short-term, e.g. a year or less) - 
+to explore ideas, make updates in policy, procedures and guidelines,
+organise an event or information gathering activity for another decision or challenge.
+The functioning of committees is overseen by the Core Team, and 
+they report periodically to the Executive Council about their activities.
+Formation, operations, roles and responsibilities, and termination of task forces are regulated by the
+[Task Force Policy](https://docs.carpentries.org/topic_folders/governance/task-force-policy.html).
 
 ## 9. Core Team
 

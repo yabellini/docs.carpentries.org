@@ -1,92 +1,98 @@
 ## The Carpentries Committee Policy
 
-As per The Carpentries Bylaws, 
-[Committees](https://docs.carpentries.org/topic_folders/governance/bylaws.html#committees-and-task-forces) are 
-organised either by the Executive Council or the Core Team to carry out specific tasks on an ongoing and 
-longer-term basis. Committees are an integral part of The Carpentries community and play an important role in how 
-the community advances towards its goals and fulfills its mission; some examples 
-include the [Code of Conduct Committee](https://carpentries.org/coc-ctte/), 
-various Lesson Program Governance Committees and Curriculum Advisory Committees, 
-the [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra/),
-and the [Instructor Development Committee](https://carpentries.org/inst-dev/), 
-the [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md).
-
-** The above definition is maybe better suited for the [Carpentries Bylaws section on Committees and Task Forces](https://docs.carpentries.org/topic_folders/governance/bylaws.html#commit`tees-and-task-forces), which perhaps perhaps a detailed definition and examples. But we cannot update the
-Bylaws just yet - something to be checked.**
+See the definition of a [committee](https://docs.carpentries.org/topic_folders/governance/bylaws.html#committees)
+in the Bylaws. 
 
 ### Context
-This policy defines the operational processes and the lines of communication to and from a Committee 
-to ensure transparency, accountability and sustainability the Committee's activities.
+This policy defines the operational processes and the lines of communication to and from a committee 
+to ensure transparency, accountability and sustainability of the committee's activities.
 
-#### Meetings
-Each Committee should:
-* Hold regular meetings, at least 4 per year
-* Post meetings on the community calendar. Note that meetings do not necessarily need to be public. For example, 
-for the Code of Conduct Committee, only business meetings are public, not incident meetings
-* Aim to host at least one community discussion per year
+### Committee Formation
+A committees is formed by creating the public documentation described below and submitting it for approval to 
+the Executive Council. If a committee is proposed or lead by the Core Team, the formal 
+approval of the Executive Council is not needed and the Executive Council should only be informed by the Core Team. 
+Upon approval, the committee is listed at [The Carpentries website](https://carpentries.org/committees/) 
+with a link to its public documentation.
+
+### Committee Operations 
+The following are operational guidelines for committees.
 
 #### Roles and Responsibilities
-Each Committee should:
-* Appoint a Committee chair, and optionally a co-chair, with a description of their roles and responsibilities
+Each committee should:
+* Appoint a committee chair, and optionally a co-chair, with a description of their roles and responsibilities
 * Identify term limits and succession plan for chair/co-chair
-* Provide a “roles and responsibilities” document for the Committee
-* Identify processes for onboarding new members
-* Identify a process for offboarding members
+* Provide a “Roles and Responsibilities” document for the committee
+* Identify processes for on-boarding new members
+* Identify a process for off-boarding members
 * Include a process for recruiting and selecting new members
-* Appoint a [Core Team](https://carpentries.org/team/) member liaison
+* Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend committee meetings
+* Prepare periodical written reports to the Executive Council with an agreed frequency (e.g. quarterly, biannually or annually). 
+This frequency can be updated in the future in agreement with the Executive Council.
+
+#### Meetings
+Each committee should:
+* Hold regular meetings (e.g. quarterly or biannually)
+* Post meetings on the community calendar. Note that meetings do not necessarily need to be public. For example,
+  for the Code of Conduct Committee, only business meetings are public but not the incident meetings
+* Aim to host at least one community discussion per year to let the community know about the committee's activities
 
 #### Communication
-Each Committee should:
-* Post meeting notes or minutes in a consistent location. Minutes should be public, but can be private if the work of 
-the committee requires it
+Each committee should:
+* Post meeting notes or minutes in a consistent location. Minutes should be public unless the work of 
+the committee requires them to remain private
 * Utilise [The Carpentries communication](https://docs.carpentries.org/topic_folders/communications/index.html) 
-pathways to engage with the community
-* Send written updates to the Executive Council every 6 months
+pathways to engage with the community - e.g. community calendar, community discussions, etc.
+* Communicate with their Core Team liaison on a regular basis and via written reports to the 
+Executive Council 
 
-### Public Documentation
+#### Public Documentation
 Each committee should have a public page with the following information:
 
 * Committee name
-* A short description of what the Committee does
-* Contact information for the Committee
-* Link to roles and responsibilities
-* Link to public Committee materials - e.g. the Committee’s GitHub repository, the relevant section of the 
+* A short description of what the committee does
+* Contact information for the committee
+* Link to the committee's "Roles and responsibilities" document
+* Link to the committee's public materials - e.g. the committee’s GitHub repository, the relevant section of the 
 Handbook (if such section exists)
-* Information for when meetings are held
-* Link to public meeting notes (current and past)
-* Names of current members including their roles
-* Names of past members including their roles
-* Name of the Core Team Liaison
-* Information for how to join the Committee
+* Information on when the committee meetings are held
+* Link to the public meeting notes (current and past), if available
+* Names of the current members including their roles
+* Names of the past members including their roles
+* Name of the Core Team liaison person
+* Information for how to join the committee
 
-The Committee chair is responsible for updating this information at least yearly.
+The committee chair is responsible for keeping the public documentation up to date.
 
-### Internal Documentation
-The Committee should also have documentation for its members that includes:
-* Onboarding information
-* Offboarding information
+#### Internal Documentation
+The committee should also have documentation for its members that includes:
+* On-boarding information
+* Off-boarding information
 * How the chair and other roles are selected
-* Information on recruiting or selecting committee members: e.g. language, rubric
-
-### Committee Formation
-Committees are formed by creating the public documentation described above and submitting it for approval to the 
-Executive Council. Upon approval, the Committee is listed at 
-[The Carpentries website](https://carpentries.org/committees/) with a link to this public documentation.
-
-### Committee Termination
-The Executive Council may terminate a Committee at any time.
+* Information on recruiting or selecting committee members: e.g. language, rubric, etc.
 
 ### Committee Actions Requiring Executive Council Approval
-The committee will not undertake any of the following actions without obtaining approval of the Executive Council:
+A committee will not undertake any of the following actions without obtaining approval of the Executive Council:
 * Creation of a supplementary Code of Conduct
 * Creation and/or release of position statements
 * Host branded events
 * Create and/or use a logo
 * Launch their own fundraising campaign
 
-Note that the above list is not exhaustive. Committees should consult with the Executive Council if there is any 
-question about whether or not what they are doing requires approval.
+Note that the above list is not exhaustive. Committees should consult with the Core Team or the 
+Executive Council if there is any question about whether or not what they are doing requires approval.
+
+### Committee Termination
+A committee may naturally cease to function upon fulfilling its role, in which case the Executive Council 
+should be notified. The Executive Council may terminate a committee at any time if the committee is not deemed 
+necessary any more.
+
+### Past & Current Committees
+Some examples of committees include the [Code of Conduct Committee](https://carpentries.org/coc-ctte/),
+various Lesson Program Governance Committees and Curriculum Advisory Committees,
+the [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra/),
+and the [Instructor Development Committee](https://carpentries.org/inst-dev/) and 
+the [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md).
 
 Update log:
 
-Approved [2020-07-06](https://github.com/carpentries/executive-council-info/issues/43) by the Executive Council 
+Approved [2020-07-06](https://github.com/carpentries/executive-council-info/issues/43) by the Executive Council.
