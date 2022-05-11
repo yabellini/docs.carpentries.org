@@ -27,12 +27,12 @@ Each committee should:
 * Include a process for recruiting and selecting new members
 * Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend committee meetings
 * Prepare periodical written reports to the Executive Council with an agreed frequency (e.g. quarterly, biannually or annually). 
-This frequency can be updated in the future in agreement with the Executive Council.
+The agreed frequency of reporting can be revised in agreement with the Executive Council during the lifetime of the committee.
 
 #### Meetings
 Each committee should:
 * Hold regular meetings (e.g. quarterly or biannually)
-* Post meetings on the community calendar. Note that meetings do not necessarily need to be public. For example,
+* Post meetings on the community calendar. Note that meetings do not necessarily need to be public - for example,
   for the Code of Conduct Committee, only business meetings are public but not the incident meetings
 * Aim to host at least one community discussion per year to let the community know about the committee's activities
 
@@ -42,8 +42,8 @@ Each committee should:
 the committee requires them to remain private
 * Utilise [The Carpentries communication](https://docs.carpentries.org/topic_folders/communications/index.html) 
 pathways to engage with the community - e.g. community calendar, community discussions, etc.
-* Communicate with their Core Team liaison on a regular basis and via written reports to the 
-Executive Council 
+* Communicate with their Core Team liaison on a regular basis 
+* Produce periodic written reports to the Executive Council 
 
 #### Public Documentation
 Each committee should have a public page with the following information:
@@ -59,24 +59,28 @@ Handbook (if such section exists)
 * Names of the current members including their roles
 * Names of the past members including their roles
 * Name of the Core Team liaison person
-* Information for how to join the committee
+* Information on how to join the committee
 
 The committee chair is responsible for keeping the public documentation up to date.
 
 #### Internal Documentation
-The committee should also have documentation for its members that includes:
+A committee should have internal documentation for its members that includes:
+
 * On-boarding information
 * Off-boarding information
 * How the chair and other roles are selected
 * Information on recruiting or selecting committee members: e.g. language, rubric, etc.
 
+Whenever possible, this internal documentation should be made available to the community.
+
 ### Committee Actions Requiring Executive Council Approval
 A committee will not undertake any of the following actions without obtaining approval of the Executive Council:
+
 * Creation of a supplementary Code of Conduct
 * Creation and/or release of position statements
-* Host branded events
-* Create and/or use a logo
-* Launch their own fundraising campaign
+* Hosting branded events
+* Creation and/or use a logo **comment: which logo? The Carpentries logo?**
+* Launching an own fundraising campaign
 
 Note that the above list is not exhaustive. Committees should consult with the Core Team or the 
 Executive Council if there is any question about whether or not what they are doing requires approval.
