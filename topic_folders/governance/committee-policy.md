@@ -9,8 +9,8 @@ to ensure transparency, accountability and sustainability of the committee's act
 
 ### Committee Formation
 A committees is formed by creating the public documentation described below and submitting it for approval to 
-the Executive Council. If a committee is proposed or lead by the Core Team, the formal 
-approval of the Executive Council is not needed and the Executive Council should only be informed by the Core Team. 
+the Executive Council. If a committee is proposed or led by the Core Team, the formal 
+approval of the Executive Council is not needed and the Executive Council should only be informed. 
 Upon approval, the committee is listed at [The Carpentries website](https://carpentries.org/committees/) 
 with a link to its public documentation.
 
@@ -19,9 +19,9 @@ The following are operational guidelines for committees.
 
 #### Roles and Responsibilities
 Each committee should:
-* Appoint a committee chair, and optionally a co-chair, with a description of their roles and responsibilities
+* Appoint a committee chair, and optionally a co-chair
 * Identify term limits and succession plan for chair/co-chair
-* Provide a “Roles and Responsibilities” document for the committee
+* Provide a “Roles and Responsibilities” document for the committee and its members
 * Identify processes for on-boarding new members
 * Identify a process for off-boarding members
 * Include a process for recruiting and selecting new members

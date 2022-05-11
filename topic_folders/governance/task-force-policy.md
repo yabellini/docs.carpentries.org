@@ -22,7 +22,8 @@ Each task force should:
 * Provide a [Task Force Charter](https://github.com/carpentries/task-forces/blob/master/task-force-charter-template.md)
 that outlines the context, objectives and deliverables of the task force
 * Set a timeline for the start and completion of the task force's deliverables
-* Appoint a task force chair, and optionally a co-chair, with a description of their roles and responsibilities
+* Appoint a task force chair, and optionally a co-chair
+* Provide a “Roles and Responsibilities” document for the committee and its members  (** comment: do we need this? it was not there in the original text in the Handbook**)
 * Identify processes for recruiting and selecting task force members
 * Create a public-facing folder for the task force in the [Carpentries Task Forces Repository](https://github.com/carpentries/task-forces), 
 to store the Task Force Charter and all relevant information about the task force during its existence
