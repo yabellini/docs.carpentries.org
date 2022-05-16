@@ -19,7 +19,7 @@ This page contains:
 
 ### Lesson Program Governance Policy
 
-Note that [Instructor Training Governance](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html) will also follow this policy.
+Note that the [Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md) will also follow this policy.
 
 * Each Lesson Program will have a Lesson Program Governance Committee.
 * Each Lesson Program Governance Committee will comply with the general [committee policy as described in the Carpentries Handbook](https://docs.carpentries.org/topic_folders/governance/committee-policy.html)
