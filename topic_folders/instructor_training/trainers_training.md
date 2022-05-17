@@ -36,10 +36,10 @@ For the most recent Trainer Training schedule and discussion questions, see the 
 1. Consolidate rankings, adding discretionary points for gaps in representation by characteristics like gender, race, geography, and experience.
 1. Notify accepted applicants using [this email template](email_templates_admin.html#accepting-new-trainers).
 1. Schedule Book Club meetings across time zones.
-1. Inform the Communications Lead so he/she can promote this.
+1. Inform the Communications Lead so they can promote this.
 1. Update the [Trainer training Etherpad](http://pad.software-carpentry.org/trainer-training).
 1. Update the [Reading Guides](https://drive.google.com/drive/u/0/folders/0B2Xc7BrFgkvUa3N6NDFyMUF5aGs) as needed.
 1. Take attendance at all Book Club meetings. At most one absence is allowed.
 1. After Book Club is over, remind Trainers to complete follow up tasks.
 1. Send out Trainer certificates.
-1. Inform the Communications Lead so he/she can promote the new cohort.
+1. Inform the Communications Lead so they can promote the new cohort.
