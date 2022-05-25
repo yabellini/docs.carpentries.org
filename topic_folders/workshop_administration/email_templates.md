@@ -17,7 +17,7 @@ I am organising a local [ Data/Library/Software ] Carpentry workshop for [ estim
 
 I have completed instructor training for The Carpentries and am certified to teach their materials. To lead a workshop, I will need at least one (preferably two) co-instructors to help out in teaching the material. The workshops are two days long and instructors usually switch every half day. I am planning to cover [ your workshop topics ] and was hoping you could teach the [ topic ] section of the workshop. The Carpentries provides ready-to-go lesson materials, so we would not need to develop anything from scratch. If you are interested, you can review the materials for [ topic ] here [ link to lesson ] and the rest of the curricular materials here [link to http://www.datacarpentry.org/lessons/ or https://software-carpentry.org/lessons/ or https://librarycarpentry.org/lessons/].
 
-I am excited to teach  a workshop here and think it will be very helpful to our [ target audience ]. If you are interested in being a co-instructor, please let me know and we can get together and plan. et me know if you know anyone else who might be interested and able to help out with the [ topic ] part of the workshop.
+I am excited to teach  a workshop here and think it will be very helpful to our [ target audience ]. If you are interested in being a co-instructor, please let me know and we can get together and plan. Let me know if you know anyone else who might be interested and able to help out with the [ topic ] part of the workshop.
 
  Excited about the prospect of co-teaching with you! 
 
