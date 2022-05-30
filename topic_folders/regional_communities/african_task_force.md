@@ -14,7 +14,7 @@ The Carpentries in Africa grew from strenght to strengh during 2021. During the 
 * ~~24 February
 * ~~24 March
 * ~~28 April
-* 26 May
+* ~~26 May
 * 23 June
 * 28 July
 * 25 August
