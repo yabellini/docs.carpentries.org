@@ -10,7 +10,8 @@ to ensure transparency, accountability and sustainability of the committee's act
 ### Committee Formation
 A committees is formed by creating the public documentation described below and submitting it for approval. 
 If a committee is proposed or led by the Core Team, the formal 
-approval of the Executive Council is not needed and the Executive Council should only be informed. 
+approval of the Executive Council is not needed and the Executive Council should only be informed. In all other cases, 
+the Executive Council approves the committee. 
 Upon approval, the committee is listed at [The Carpentries website](https://carpentries.org/committees/) 
 with a link to its public documentation.
 
@@ -87,7 +88,8 @@ Executive Council if there is any question about whether or not what they are do
 
 ### Committee Termination
 A committee may naturally cease to function upon fulfilling its role, in which case the Executive Council 
-should be notified. The Executive Council may terminate a committee at any time if the committee is not deemed 
+should be notified. The Core Team may terminate committees that it had approved. 
+Executive Council may terminate any committee at any time if the committee is not deemed 
 necessary any more.
 
 ### Past & Current Committees
