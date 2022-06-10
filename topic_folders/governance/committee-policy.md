@@ -8,10 +8,14 @@ This policy defines the operational processes and the lines of communication to 
 to ensure transparency, accountability and sustainability of the committee's activities.
 
 ### Committee Formation
-A committees is formed by creating the public documentation described below and submitting it for approval. 
+A committees is formed by creating the public documentation described below and submitting it for approval.
+If a committee is proposed by the Executive Council, it is approved implicitly. 
 If a committee is proposed or led by the Core Team, the formal 
-approval of the Executive Council is not needed and the Executive Council should only be informed. In all other cases, 
-the Executive Council approves the committee. 
+approval of the Executive Council is not needed and the Executive Council should only be informed.
+(** do we have any other case, e.g. community member proposes something?**) In all other cases, e.g. a committee is proposed by
+a community member, this should be done by contacting the Core Team to endorse the proposal. Such a proposal can then be approved 
+by the Core Team (in the first instance) with the Executive Council notified, or by the Executive Council (if the Core
+Team feels that the Executive Council needs to weigh in on the proposal).
 Upon approval, the committee is listed at [The Carpentries website](https://carpentries.org/committees/) 
 with a link to its public documentation.
 

@@ -13,7 +13,7 @@ submitting it for approval. If a task force is proposed by the Executive Council
 If a task force is proposed or led by the Core Team, a formal approval of the Executive Council 
 is not necessary and the Executive Council should only be informed. In all other cases, e.g. a task force is proposed by 
 a community member, this should be done by opening an issue at the [Task Force's repository](https://github.com/carpentries/task-forces) 
-to propose the formation of a new task force, and contacting the Core Team to endorse it. The proposal can then be approved 
+to propose the formation of a new task force, and contacting the Core Team to endorse it. Such a proposal can then be approved 
 by the Core Team (in the first instance) with the Executive Council notified, or by the Executive Council (if the Core 
 Team feels that the Executive Council needs to weigh in on the proposal).
 Upon approval, the task force is listed at [The Carpentries website](https://carpentries.org/committees/)
