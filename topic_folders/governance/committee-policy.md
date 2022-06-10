@@ -8,8 +8,8 @@ This policy defines the operational processes and the lines of communication to 
 to ensure transparency, accountability and sustainability of the committee's activities.
 
 ### Committee Formation
-A committees is formed by creating the public documentation described below and submitting it for approval to 
-the Executive Council. If a committee is proposed or led by the Core Team, the formal 
+A committees is formed by creating the public documentation described below and submitting it for approval. 
+If a committee is proposed or led by the Core Team, the formal 
 approval of the Executive Council is not needed and the Executive Council should only be informed. 
 Upon approval, the committee is listed at [The Carpentries website](https://carpentries.org/committees/) 
 with a link to its public documentation.
@@ -32,9 +32,9 @@ The agreed frequency of reporting can be revised in agreement with the Executive
 #### Meetings
 Each committee should:
 * Hold regular meetings (e.g. quarterly or biannually)
-* Post meetings on the community calendar. Note that meetings do not necessarily need to be public - for example,
-  for the Code of Conduct Committee, only business meetings are public but not the incident meetings
-* Aim to host at least one community discussion per year to let the community know about the committee's activities
+* Post meetings on the community calendar. Note that meetings do not necessarily need to be open to public to attend. 
+For example, for the Code of Conduct Committee, only business meetings are public but not the incident meetings
+* Aim to host at least one community discussion per year to let the community know about the committee's activities.
 
 #### Communication
 Each committee should:
@@ -53,9 +53,9 @@ Each committee should have a public page with the following information:
 * Contact information for the committee
 * Link to the committee's "Roles and responsibilities" document
 * Link to the committee's public materials - e.g. the committee’s GitHub repository, the relevant section of the 
-Handbook (if such section exists)
+Handbook (if available)
 * Information on when the committee meetings are held
-* Link to the public meeting notes (current and past), if available
+* Link to the public meeting notes (if available)
 * Names of the current members including their roles
 * Names of the past members including their roles
 * Name of the Core Team liaison person
@@ -82,7 +82,7 @@ A committee will not undertake any of the following actions without obtaining ap
 * Creation and/or use a logo **comment: which logo? The Carpentries logo?**
 * Launching an own fundraising campaign
 
-Note that the above list is not exhaustive. Committees should consult with the Core Team or the 
+Note that the above list is not exhaustive. Committees should consult with the Core Team (in the first instance) or the 
 Executive Council if there is any question about whether or not what they are doing requires approval.
 
 ### Committee Termination
