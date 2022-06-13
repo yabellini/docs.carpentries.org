@@ -173,7 +173,7 @@ they report periodically to the Executive Council about their activities.
 
 ### Committees
 Committees are organised to carry out a specific task on an 
-ongoing (i.e. longer-term) basis.  
+ongoing (i.e. longer-term) basis. 
 Formation, operations, roles and responsibilities, and termination of committees are regulated by the
 [Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html).
 
