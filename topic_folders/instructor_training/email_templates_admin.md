@@ -142,7 +142,7 @@ Attendance is required for the full two-days of the workshop in order
 to certify as a Carpentries Instructor. Participants who miss more 
 than one hour will not pass our training requirements. If you know 
 ahead of time that you will miss an hour of the training, please 
-notify your Trainers.
+notify your Trainers. See the [full Cancellation and Makeups Policy](https://docs.carpentries.org/topic_folders/instructor_training/cancellations_and_makeups.html) for more information.
 
 Before your training, you will
 be asked to read some brief materials to become 
