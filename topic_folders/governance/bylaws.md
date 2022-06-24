@@ -164,9 +164,9 @@ A detailed description of the Responsibilities of Executive Council members and 
 Committees and task forces are an integral part of The Carpentries community and play an important
 role in how the community performs tasks and advances towards its goals and fulfills its mission.
 
-Committees and task forces can be proposed or organised by the [Executive Council](https://carpentries.org/governance/)
-or the [Core Team](https://carpentries.org/team/). Community members may also propose a committee or a task force 
-via the Core Team as detailed in the respective policies listed below.
+Committees and task forces are typically proposed or organised by the [Executive Council](https://carpentries.org/governance/)
+or the [Core Team](https://carpentries.org/team/). Community members may also submit a proposal for a committee or a 
+task force via the Core Team as detailed in their respective policies.
 
 The functioning of committees and task forces is overseen by the Core Team and  
 they report periodically to the Executive Council about their activities.
@@ -180,7 +180,7 @@ Formation, operations, roles and responsibilities, and termination of committees
 ### Task Forces
 Task Forces are organised to bring together a small group of people focused on a
 particular topic for a set period of time (typically short-term, e.g. a year or less) - 
-to explore ideas, propose or make updates in policy, procedures and guidelines,
+to explore ideas, propose or make updates in a policy, procedures or guidelines,
 organise an event or information gathering activity for another decision or challenge. 
 Formation, operations, roles and responsibilities, and termination of task forces are regulated by the
 [Task Force Policy](https://docs.carpentries.org/topic_folders/governance/task-force-policy.html).
