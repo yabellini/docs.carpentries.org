@@ -68,8 +68,8 @@ Each committee should have a public page with the following information:
 * A short description of what the committee does
 * Contact information for the committee
 * Link to the committee's "Roles and Responsibilities" document
-* Link to the committee's other public materials - e.g. the committee’s GitHub repository, the relevant section of the 
-Handbook (if available)
+* Link to the committee's other public materials (if available) - e.g. the committee’s GitHub repository, the relevant section of the 
+Handbook, etc. 
 * Information on when the committee meetings are held
 * Link to the public meeting notes (if available)
 * Names of the current members including their roles
