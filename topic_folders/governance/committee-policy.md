@@ -65,7 +65,7 @@ pathways to engage with the community - e.g. community calendar, community discu
 Each committee should have a public page with the following information:
 
 * Committee name
-* A short description of what the committee does
+* A short description of what the committee does, including its aims and objectives as outlined in the [committee proposal](#committee-proposal)
 * Contact information for the committee
 * Link to the committee's "Roles and Responsibilities" document
 * Link to the committee's other public materials (if available) - e.g. the committee’s GitHub repository, the relevant section of the 
