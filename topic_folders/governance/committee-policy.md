@@ -85,9 +85,9 @@ A committee will not undertake any of the following actions without obtaining ap
 
 * Any modifications to the Code of Conduct
 * Creation and/or release of position statements
-* Hosting Carpentries-branded events
-* Modifications of The Carpentries logos (refer to the [Carpentries Logo Usage Policy](https://docs.carpentries.org/topic_folders/communications/resources/logos.html))
-* Launching an own fundraising campaign
+* Host Carpentries-branded events
+* Modify The Carpentries logos (refer to the [Carpentries Logo Usage Policy](https://docs.carpentries.org/topic_folders/communications/resources/logos.html))
+* Launch an own fundraising campaign
 
 Note that the above list is not exhaustive. Committees should consult the Core Team (in the first instance) or the 
 Executive Council if there is any question about whether or not what they are doing requires approval.
@@ -99,7 +99,7 @@ Executive Council may terminate any committee at any time.
 
 ### Past & Current Committees
 
-Some examples of committees include:
+The following is a list of the committees available in the community:
 - [Code of Conduct Committee](https://carpentries.org/coc-ctte/)
 - Curriculum Advisory Committees (CACs):
     - [Data Carpentry CAC](https://datacarpentry.org/curriculum-advisors/)
