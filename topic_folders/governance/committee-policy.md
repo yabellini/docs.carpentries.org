@@ -44,7 +44,7 @@ Each committee should:
 - Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend committee meetings, and 
 communicate with the liaison on a regular basis
 - Meetings and communication:
-  - Hold regular meetings (at least twice a year) and post meeting notes or minutes in a consistent location (meeting notes or minutes should be public unless the work of
+  - Organise regular meetings (at least twice a year) and post meeting notes or minutes in a consistent location (meeting notes or minutes should be public unless the work of
     the committee requires them to remain private)
   - Post meetings in the community calendar (note that meetings do not necessarily need to be open to public to attend - for example, the Code of Conduct Committee's 
 business meetings are public but the incident meetings are not)
@@ -69,7 +69,7 @@ Handbook, etc.
 
 The committee chair is responsible for keeping the public documentation up to date.
 
-### Committee Actions Requiring Executive Council Approval
+#### Actions Requiring Executive Council Approval
 A committee will not undertake any of the following actions without obtaining approval of the Executive Council:
 
 - Any modifications to the Code of Conduct
@@ -88,7 +88,7 @@ Executive Council may terminate any committee at any time.
 
 ### Past & Current Committees
 
-The following is a list of the committees available in the community:
+The following is a list of some community committees:
 - [Code of Conduct Committee](https://carpentries.org/coc-ctte/)
 - Curriculum Advisory Committees (CACs):
     - [Data Carpentry CAC](https://datacarpentry.org/curriculum-advisors/)
