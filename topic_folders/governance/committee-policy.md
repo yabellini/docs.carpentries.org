@@ -21,7 +21,7 @@ with a link to its public documentation.
 
 #### Committee Proposal
 A committee proposal should:
-- explain the need for or context of the committee
+- explain the need for or the context for the committee
 - explain why it should be an on-going/longer-term project 
 - list aims and objectives of the committee
 
@@ -36,7 +36,7 @@ Each committee should:
 - Identify term limits for chair/co-chair/standard members
 - Provide a public “Roles and Responsibilities” document for the committee and its members
 - Create internal documentation (which may be made public), including:
-  - Process for recruiting and selecting new members
+  - Process for recruiting and/or selecting new members
   - Process for on-boarding new members
   - Process for off-boarding members
   - A succession plan for chair/co-chair
@@ -44,7 +44,7 @@ Each committee should:
 - Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend committee meetings, and 
 communicate with the liaison on a regular basis
 - Meetings and communication:
-  - Organise regular meetings (at least twice a year) and post meeting notes or minutes in a consistent location (meeting notes or minutes should be public unless the work of
+  - Organise regular meetings (at least twice a year) and post meeting notes in a consistent location (meeting notes should be public unless the work of
     the committee requires them to remain private)
   - Post meetings in the community calendar (note that meetings do not necessarily need to be open to public to attend - for example, the Code of Conduct Committee's 
 business meetings are public but the incident meetings are not)
@@ -55,8 +55,7 @@ business meetings are public but the incident meetings are not)
 #### Public Documentation
 Each committee should have a public page with the following information:
 
-- Committee name
-- A short description of what the committee does, including its aims and objectives as outlined in the [committee proposal](#committee-proposal)
+- The name of the committee and a short description of what the committee does, including its aims and objectives as outlined in the [committee proposal](#committee-proposal)
 - Contact information for the committee
 - Link to the committee's "Roles and Responsibilities" document
 - Link to the committee's other public materials (if available) - e.g. the committee’s GitHub repository, the relevant section of the 
