@@ -71,7 +71,7 @@ This table has moved. Suggested lessons are available in the [Instructor Trainin
 [trainer-process]: ../instructor_training/trainers_training.html
 [trainer-pad]: http://pad.carpentries.org/trainers
 [community-calendar]: https://carpentries.org/community/#community-events
-[trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
+[trainer-minutes]: https://github.com/carpentries/trainers/tree/main/minutes
 [Etherpad-template]: http://pad.carpentries.org/ttt-template
 [googledoc-template]: https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit
 [training-template]: https://github.com/carpentries/training-template
