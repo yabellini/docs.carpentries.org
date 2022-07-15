@@ -31,7 +31,7 @@ The following are operational guidelines for committees.
 #### Roles and Responsibilities
 Each committee should:
  
-- Create [public documentation for the committee](#public-documentation) described below
+- Create the [public documentation for the committee](#public-documentation) described below
 - Appoint a committee chair, and, optionally, a co-chair
 - Identify term limits for chair/co-chair/standard members
 - Provide a public “Roles and Responsibilities” document for the committee and its members
