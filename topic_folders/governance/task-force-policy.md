@@ -57,6 +57,7 @@ Each task force should have a public-facing folder in the
 [Carpentries Task Forces GitHub Repository](https://github.com/carpentries/task-forces) with the following information:
 
 - [Task Force Charter](https://github.com/carpentries/task-forces/blob/master/task-force-charter-template.md)
+- Clear  indication about the current status of the Task Force (active, project completed)
 - Contact information for the task force
 - Link to the public meeting notes (if available)
 - Names and roles of the task force members
