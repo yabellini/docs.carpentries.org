@@ -49,7 +49,7 @@ communicate with the liaison on a regular basis
   - Post meetings in the community calendar (note that meetings do not necessarily need to be open to public to attend - for example, the Code of Conduct Committee's 
 business meetings are public but the incident meetings are not)
   - Aim to host at least one community discussion per year to let the community know about the committee's activities
-  - Utilise other [The Carpentries community communication pathways](https://docs.carpentries.org/topic_folders/communications/index.html) to engage with the community as needed
+  - Utilise other [Carpentries community communication pathways](https://docs.carpentries.org/topic_folders/communications/index.html) to engage with the community as needed
 - Prepare written reports to the Executive Council with an agreed frequency, e.g. quarterly, biannually or annually (the frequency of reporting can be adjusted by the Executive Council during the lifetime of the committee)
 
 #### Public Documentation
