@@ -73,7 +73,7 @@ A task force will not undertake any of the following actions without obtaining a
 - Creation and/or release of position statements
 - Host Carpentries-branded events (unless that is the primary goal of the approved task force)
 - Any modifications of The Carpentries logos (refer to the [Carpentries Logo Usage Policy](https://docs.carpentries.org/topic_folders/communications/resources/logos.html))
-- Launch an own fundraising campaign
+- Launch a fundraising campaign
 
 Note that the above list is not exhaustive. In the case of any ambiguity, task forces should consult the Core Team (in the first instance) or the
 Executive Council to clarify if things they plan to do require approval.
