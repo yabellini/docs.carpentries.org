@@ -7,7 +7,7 @@ This policy defines the operational processes and the lines of communication to 
 to ensure transparency, accountability and sustainability of the committee's activities.
 
 ### Committee Formation
-A committee is initiated by outlining a [proposal](#committee-proposal) and abiding to the following the approval procedure:
+A committee is initiated by outlining a [proposal](#committee-proposal) and abiding by the following the approval procedure:
 
 - Committee proposals by the Executive Council are approved implicitly 
 - Committee proposals by the Core Team do not require a formal approval of the Executive Council and the Executive Council should only be informed
