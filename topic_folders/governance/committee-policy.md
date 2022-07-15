@@ -41,7 +41,7 @@ Each committee should:
   - Process for off-boarding members
   - A succession plan for chair/co-chair
   - Decision making process
-- Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend committee meetings, and 
+- Request a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend committee meetings, and 
 communicate with the liaison on a regular basis
 - Meetings and communication:
   - Organise regular meetings (at least twice a year) and post meeting notes in a consistent location (meeting notes should be public unless the work of
