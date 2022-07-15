@@ -7,7 +7,7 @@ This policy defines the operational processes and the lines of communication to 
 to ensure transparency, accountability and effectiveness the task force's activities.
 
 ### Task Force Formation                                             
-A task force is initiated by submitting a [task force charter proposal](#task-force-charter-proposal) and abiding to the following approval procedure:
+A task force is initiated by submitting a [task force charter proposal](#task-force-charter-proposal) and abiding by the following approval procedure:
 
 - Task force proposals by the Executive Council are approved implicitly
 - Task force proposals by the Core Team do not require a formal approval of the Executive Council and the Executive Council should only be informed
