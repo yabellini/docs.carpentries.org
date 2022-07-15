@@ -43,7 +43,7 @@ Each task force should:
 - Create internal documentation (which may be made public), including:
   - Process for recruiting and/or selecting new members
   - Decision making process
-- Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend committee meetings, and
+- Request a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend committee meetings, and
   communicate with the liaison on a regular basis
 - Meetings and communication:
   - Organise regular meetings to progress with the task force's activities and post meeting notes in a consistent location (meeting notes should be public unless the work of the task force requires them to remain private)
