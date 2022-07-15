@@ -71,7 +71,7 @@ A task force will not undertake any of the following actions without obtaining a
 
 - Any modifications to the Code of Conduct
 - Creation and/or release of position statements
-- Host Carpentries-branded events
+- Host Carpentries-branded events (unless that is the primary goal of the approved task force)
 - Any modifications of The Carpentries logos (refer to the [Carpentries Logo Usage Policy](https://docs.carpentries.org/topic_folders/communications/resources/logos.html))
 - Launch an own fundraising campaign
 
