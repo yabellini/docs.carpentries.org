@@ -16,7 +16,7 @@ The Carpentries in Africa grew from strenght to strengh during 2021. During the 
 * ~~28 April
 * ~~26 May
 * ~~23 June
-* 28 July
+* ~~28 July
 * 11 August ([CarpentryCon@Home 2022](https://2022.carpentrycon.org/) at 9:00 SAST, 7:00 UTC) 
 * 22 September
 * 27 October
