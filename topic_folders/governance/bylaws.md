@@ -181,7 +181,7 @@ Formation, operations, roles and responsibilities, and termination of committees
 Task Forces are organised to bring together a small group of people focused on a
 particular topic for a set period of time (typically short-term, e.g. a year or less) - 
 to explore ideas, propose or make updates in a policy, procedures or guidelines,
-organise an event or information gathering activity for another decision or challenge. 
+or organise an event or information gathering activity for another decision or challenge. 
 Formation, operations, roles and responsibilities, and termination of task forces are regulated by the
 [Task Force Policy](https://docs.carpentries.org/topic_folders/governance/task-force-policy.html).
 

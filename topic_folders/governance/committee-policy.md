@@ -1,19 +1,19 @@
 ## The Carpentries Committee Policy
 
 See the definition of a [committee](https://docs.carpentries.org/topic_folders/governance/bylaws.html#committees)
-in the Bylaws. 
+in the Bylaws.
 
 This policy defines the process for making and approving committee proposals, and
-operational processes and the lines of communication to and from committees 
+operational processes and the lines of communication to and from committees
 to ensure transparency, accountability and sustainability of the committee's activities.
 
 #### Committee Proposal
 A committee proposal should:
 - explain the need for or the context for the committee
-- explain why it should be an on-going/longer-term project 
+- explain why it should be an on-going/longer-term project
 - list aims and objectives of the committee
 
-Committee proposals can be submitted to the [Core Team via email](mailto:team@carpentries.org) or by creating an 
+Committee proposals can be submitted to the [Core Team via email](mailto:team@carpentries.org) or by creating an
 issue in the [`committees` repository](TODO) in The Carpentries GitHub.
 
 ### Committee Formation
@@ -29,7 +29,7 @@ Committee proposals are reviewed and approved according to the following procedu
 Upon approval, the committee is listed at [The Carpentries website](https://carpentries.org/committees/)
 with a link to its public documentation.
 
-### Committee Operations 
+### Committee Operations
 The following are operational guidelines for committees. Each committee should:
 
 - Create the official [committee charter](TODO), including the committee's roles and responsibilities.
@@ -53,8 +53,8 @@ The following are operational guidelines for committees. Each committee should:
 - Maintain internal and public-facing communication:
   - Organise committee meetings (at least twice a year) and post meeting notes in a consistent location (meeting notes should be public unless the work of
     the committee requires them to remain private)
-  - Post meetings in the community calendar (note that meetings do not necessarily need to be open to public to attend - for example, the Code of Conduct Committee's 
-business meetings are public but the incident meetings are not)
+  - Post meetings in the community calendar (note that meetings do not necessarily need to be open to public to attend - for example, the Code of Conduct Committee's
+    business meetings are public but the incident meetings are not)
   - Aim to host at least one community discussion per year to let the community know about the committee's activities
   - Utilise other [The Carpentries community communication pathways](https://docs.carpentries.org/topic_folders/communications/index.html) to engage with the community as needed
 - Prepare written reports to the Executive Council with an agreed frequency, e.g. quarterly, biannually or annually (the frequency of reporting can be adjusted by the Executive Council during the lifetime of the committee)
@@ -71,12 +71,12 @@ A committee will not undertake any of the following actions without obtaining ap
 - Any modifications of The Carpentries logos (please refer to the [Carpentries Logo Usage Policy](https://docs.carpentries.org/topic_folders/communications/resources/logos.html) for the approved ways of using the logos)
 - Launch an own fundraising campaign
 
-Note that the above list is not exhaustive. In the case of any ambiguity, committees should consult the Core Team (in the first instance) or the 
+Note that the above list is not exhaustive. In the case of any ambiguity, committees should consult the Core Team (in the first instance) or the
 Executive Council to clarify if anything they plan to do requires approval.
 
 ### Committee Termination
-A committee may naturally cease to function upon fulfilling its role, in which case the Executive Council 
-should be notified. The Core Team may terminate committees that it had approved. 
+A committee may naturally cease to function upon fulfilling its role, in which case the Executive Council
+should be notified. The Core Team may terminate committees that it had approved.
 Executive Council may terminate any committee at any time.
 
 ### Past & Current Committees
@@ -85,7 +85,7 @@ The following is a list of the community committees:
 - [Code of Conduct Committee](https://carpentries.org/coc-ctte/)
 - [Curriculum Advisory Committees](https://carpentries.org/curriculum-advisors/) (CACs)
 - [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra/)
-- [Instructor Development Committee](https://carpentries.org/inst-dev/) 
+- [Instructor Development Committee](https://carpentries.org/inst-dev/)
 - [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md)
 - Lesson Program Governance Committees
 

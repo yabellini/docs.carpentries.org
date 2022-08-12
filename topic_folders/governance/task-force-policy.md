@@ -7,7 +7,7 @@ This policy defines the operational processes and the lines of communication to 
 to ensure transparency, accountability and effectiveness the task force's activities.
 
 ### Task Force Formation                                             
-A task force is initiated by submitting a [task force charter proposal](#task-force-charter-proposal) and abiding to the following approval procedure:
+A task force is initiated by submitting a [task force charter proposal](#task-force-charter-proposal) and abiding by the following approval procedure:
 
 - Task force proposals by the Executive Council are approved implicitly
 - Task force proposals by the Core Team do not require a formal approval of the Executive Council and the Executive Council should only be informed
@@ -43,7 +43,7 @@ Each task force should:
 - Create internal documentation (which may be made public), including:
   - Process for recruiting and/or selecting new members
   - Decision making process
-- Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend committee meetings, and
+- Request a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend committee meetings, and
   communicate with the liaison on a regular basis
 - Meetings and communication:
   - Organise regular meetings to progress with the task force's activities and post meeting notes in a consistent location (meeting notes should be public unless the work of the task force requires them to remain private)
@@ -57,6 +57,7 @@ Each task force should have a public-facing folder in the
 [Carpentries Task Forces GitHub Repository](https://github.com/carpentries/task-forces) with the following information:
 
 - [Task Force Charter](https://github.com/carpentries/task-forces/blob/master/task-force-charter-template.md)
+- Clear  indication about the current status of the Task Force (active, project completed)
 - Contact information for the task force
 - Link to the public meeting notes (if available)
 - Names and roles of the task force members
@@ -70,9 +71,9 @@ A task force will not undertake any of the following actions without obtaining a
 
 - Any modifications to the Code of Conduct
 - Creation and/or release of position statements
-- Host Carpentries-branded events
+- Host Carpentries-branded events (unless that is the primary goal of the approved task force)
 - Any modifications of The Carpentries logos (refer to the [Carpentries Logo Usage Policy](https://docs.carpentries.org/topic_folders/communications/resources/logos.html))
-- Launch an own fundraising campaign
+- Launch a fundraising campaign
 
 Note that the above list is not exhaustive. In the case of any ambiguity, task forces should consult the Core Team (in the first instance) or the
 Executive Council to clarify if things they plan to do require approval.
