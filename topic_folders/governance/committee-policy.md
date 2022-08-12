@@ -5,7 +5,7 @@ in the Bylaws.
 
 This policy defines the process for making and approving committee proposals, and
 operational processes and the lines of communication to and from committees
-to ensure transparency, accountability and sustainability of the committee's activities.
+to ensure transparency, accountability and sustainability of committees' activities.
 
 #### Committee Proposal
 A committee proposal should:
@@ -57,7 +57,7 @@ The following are operational guidelines for committees. Each committee should:
     business meetings are public but the incident meetings are not)
   - Aim to host at least one community discussion per year to let the community know about the committee's activities
   - Utilise other [The Carpentries community communication pathways](https://docs.carpentries.org/topic_folders/communications/index.html) to engage with the community as needed
-- Prepare written reports to the Executive Council with an agreed frequency, e.g. quarterly, biannually or annually (the frequency of reporting can be adjusted by the Executive Council during the lifetime of the committee)
+- Prepare written reports to the Executive Council with an agreed frequency, e.g. quarterly, biannually or annually (the frequency of reporting can be adjusted by the Executive Council during the lifetime of the committee).
 
 It is recommended that the committee's documentation is stored in a repository under [The Carpentries GitHub](https://github.com/carpentries/).
 The Core Team can assist with creating such a repository upon the committee's approval; if this is not possible, e.g. due to
