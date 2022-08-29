@@ -28,7 +28,7 @@ If an incident is ongoing, whether in-person or online, any community member (wo
 
 **In-Person Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**
 * Ensure participants are safe.
-* If not, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
+* If participants are not safe, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
 * Listen to the reporter and write down as many details as possible.
 * Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. 
 * Inform the workshop host that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. 
