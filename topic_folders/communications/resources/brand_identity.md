@@ -60,7 +60,7 @@
 
 <p style="color:#FFD6D8;"><span style="font-size:50px;">&#9733;</span>Dawn: #FFD6D8 or rgb(255, 214, 216).</p>
 
-<p style="color:#FFE7A8;"><span style="font-size:50px;">&#9733;</span>Dawn: #FFE7A8 or rgb(255, 231, 168).</p>
+<p style="color:#FFE7A8;"><span style="font-size:50px;">&#9733;</span>Sunshine: #FFE7A8 or rgb(255, 231, 168).</p>
 </div>
 
 
