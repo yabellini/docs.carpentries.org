@@ -173,7 +173,7 @@ include full stops, does not precede a comma in British English
 ##### inclusivity
 Use inclusive language.  This includes word choice that recognises the complexity of the subject matter and respects the diversity of all members of the community. Use globally accessible references, either with a more common name or a more verbose description.
 
-Things to avoid: diminishing or dismissive language (just, simply, obviously, etc), local colloquialisms. Sensory words (see hear, read, look, run, reach, listen)
+Things to avoid: diminishing or dismissive language (just, simply, obviously, etc), local colloquialisms, sensory words or action words (see hear, read, look, run, reach, listen)
 
 ##### images
 Include alt text on all images. 
