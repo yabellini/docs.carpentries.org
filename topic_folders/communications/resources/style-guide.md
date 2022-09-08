@@ -83,7 +83,7 @@ But <br>
 The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
 
 ##### colour 
-Use adequate contrast to ensure the best readability. Colour should not be the only means of conveying information (indicating action, prompting a response, or distinguishing a visual element). Avoid using the colour combinations of red/green, green/brown, green/blue, blue/gray. Use shapes, patterns, textures, and labels to help distinguish differences. 
+Use adequate contrast to ensure the best readability. Colour should not be the only means of conveying information (indicating action, prompting a response, or distinguishing a visual element). Avoid using the colour combinations of red/green, green/brown, green/blue, blue/gray. Use shapes, patterns, textures, and labels to help distinguish differences. [Contrast Checker from WebAIM](https://webaim.org/resources/contrastchecker).
 
 ##### commas
 Use commas to separate clauses in long sentences. ‘If the judges truly reflected on their decisions regarding the non-award of prizes in 2010, they would not find it hard to see why people objected to their choices.’
