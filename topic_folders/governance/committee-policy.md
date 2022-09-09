@@ -48,7 +48,7 @@ The following are operational guidelines for committees. Each committee should:
   - Process for recruiting and/or selecting new members
   - Process for on-boarding new members
   - Process for off-boarding members
-  - A succession plan for chair/co-chair
+  - Succession plan for chair/co-chair
   - Decision making process
 - Maintain internal and public-facing communication:
   - Organise committee meetings (at least twice a year) and post meeting notes in a consistent location (meeting notes should be public unless the work of
