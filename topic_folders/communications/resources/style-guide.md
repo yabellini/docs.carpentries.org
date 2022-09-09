@@ -248,9 +248,6 @@ Please spell this out in text, _e.g.,_ not as %, and write as two words, not one
 ##### periods
 _See [full stops](#full-stops)._
 
-##### plain language 
-Where possible employ plain language and/or link to definitions of complex terms, like "global capacity" and "computational skills".
-
 ---
 
 ## Q
