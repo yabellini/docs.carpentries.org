@@ -61,7 +61,35 @@ Meetings minutes are available in the committee's GitHub repository:
 
 ### Term lengths, recruitment, and onboarding
 
-To be added. 
+- Curriculum Advisors are expected to serve a two-year term. 
+- We understand that circumstances can change and priorities must be re-evaluated. If a Curriculum Advisor needs to step away from the role before the end of their two-year term, the Curriculum Team will support them to do this: 
+  - after the first year, the Curriculum Team will approach Curriculum Advisors to confirm that they wish to continue in the role or to step back.
+  - if an Advisor needs to step away from the role outside this schedule, they should inform their committee Chair and [the Curriculum Team](mailto:curriculum@carpentries.org).
+
+- CAC recruitment takes place annually, based on term limits and turnover within committees.
+- Rounds of recruitment will be announced on [The Carpentries blog](https://carpentries.org/blog/).
+- Volunteers will be asked to apply for the role by filling in a short webform describing their expertise and motivation for joining a committee.
+- Templates and workflows for CAC recruitment and onboarding are maintained in [the Core Team wiki (internal access only)](https://github.com/carpentries/core-team-wiki/tree/main/curriculum).
+
+- Onboarding aims to provide new Curriculum Advisors with context for the role and how CACs fit into The Carpentries model for curriculum development and maintenance, and what they can expect as they prepare to join their first committee meeting.
+- Onboarding for Curriculum Advisors takes place in two parts:
+  1. A general onboarding for all Curriculum Advisors
+  2. An additional onboarding for the committee officers (see _Roles and responsibilities_ above)
+- Both onboardings are delivered by the Curriculum Team over Zoom, with the possibility to watch a recording of the sessions available for those who cannot attend the synchronous sessions.
+- Links to onboarding slides:
+  - [general onboarding slides](https://docs.google.com/presentation/d/1xuMCP43EUvmFqvHDX9w4BwOdvWMDcjW0BGxyOQVFSBs/edit?usp=sharing)
+  - [officer onboarding slides](https://docs.google.com/presentation/d/1XZmV-EfYXnMo2H2aBqqJo1eIMP1kpzeX5pherky-Cho/edit?usp=sharing)
+- After following these onboarding sessions, Curriculum Advisors should complete the following steps:
+  1. [Log into AMY](https://amy.carpentries.org/) with their GitHub credentials and update their profile.
+     - When updating their AMY profile, it is essential that Advisors give consent for The Carpentries to publish their profile so that they can be listed on The Carpentries websites.
+  2. Join the mailing list for their committee on [The Carpentries TopicBox](https://carpentries.topicbox.com/groups). CAC mailing lists are named with the prefix "curriculum-advisors-". 
+     - These mailing lists are configured so that anyone can send a message to them, but list membership is moderated so that only current members of the committee will receive messages sent to the group.
+  3. Subscribe to notifications from the GitHub repositories for the lessons in their curriculum.
+     - This step is only _required_ for CAC chairs, but is recommended for all Curriculum Advisors as a way to stay up-to-date of discussions and developments taking place on their curriculum.
+     - Repositories are linked from the "Repository" column of the lesson tables in the "Lessons" page of each Lesson Program website:
+       - [Data Carpentry](https://datacarpentry.org/lessons/)
+       - [Library Carpentry](https://librarycarpentry.org/lessons/)
+       - [Software Carpentry](https://software-carpentry.org/lessons/)
 
 ### Current Curriculum Advisors
 
