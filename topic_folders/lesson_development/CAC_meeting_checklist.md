@@ -4,7 +4,7 @@
 
 - [Secretary] Create availability poll using [whenisgood](http://whenisgood.net/Create) (or similar service). 
   Be sure to enable the “use timezones” feature.
-    - This checklist below assumes that you will gather availability from committee members each time,
+    - This checklist assumes that you will gather availability from committee members each time,
       but you may find it easier to schedule several meetings at once. 
       For example, you might schedule quarterly meetings for a whole year 
       assuming that the day/time that works for the committee in one quarter 
