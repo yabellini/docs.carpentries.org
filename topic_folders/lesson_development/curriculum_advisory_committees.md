@@ -79,13 +79,13 @@ Meetings minutes are available in the committee's GitHub repository:
 - Links to onboarding slides:
   - [general onboarding slides](https://docs.google.com/presentation/d/1xuMCP43EUvmFqvHDX9w4BwOdvWMDcjW0BGxyOQVFSBs/edit?usp=sharing)
   - [officer onboarding slides](https://docs.google.com/presentation/d/1XZmV-EfYXnMo2H2aBqqJo1eIMP1kpzeX5pherky-Cho/edit?usp=sharing)
-- After following these onboarding sessions, Curriculum Advisors should complete the following steps:
+- After these onboarding sessions, Curriculum Advisors should complete the following steps:
   1. [Log into AMY](https://amy.carpentries.org/) with their GitHub credentials and update their profile.
      - When updating their AMY profile, it is essential that Advisors give consent for The Carpentries to publish their profile so that they can be listed on The Carpentries websites.
   2. Join the mailing list for their committee on [The Carpentries TopicBox](https://carpentries.topicbox.com/groups). CAC mailing lists are named with the prefix "curriculum-advisors-". 
      - These mailing lists are configured so that anyone can send a message to them, but list membership is moderated so that only current members of the committee will receive messages sent to the group.
   3. Subscribe to notifications from the GitHub repositories for the lessons in their curriculum.
-     - This step is only _required_ for CAC chairs, but is recommended for all Curriculum Advisors as a way to stay up-to-date of discussions and developments taking place on their curriculum.
+     - This step is only _required_ for CAC chairs, but is recommended for all Curriculum Advisors as a way to stay up-to-date about discussions and developments taking place on their curriculum.
      - Repositories are linked from the "Repository" column of the lesson tables in the "Lessons" page of each Lesson Program website:
        - [Data Carpentry](https://datacarpentry.org/lessons/)
        - [Library Carpentry](https://librarycarpentry.org/lessons/)
