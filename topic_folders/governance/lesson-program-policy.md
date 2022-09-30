@@ -6,7 +6,7 @@ From [The Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governa
 *A Lesson Program within The Carpentries possesses the following characteristics:  
 - Intention and purpose for lessons that align with The Carpentries mission and vision
 - Goals and objectives for lessons and/or workshops that are distinct from other Lesson Programs
-- Service to a particular audience of learners and instructors
+- Service to a particular audience of learners
 - Evidence of community member commitment to Lesson Program governance (see below), lesson maintenance, and curriculum development*
 
 Adoption as an official The Carpentries Lesson Program is the last step of Lesson Program incubation as outlined in the [Lesson Program Incubation Roadmap](#lesson-program-incubation-roadmap).
