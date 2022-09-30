@@ -112,7 +112,7 @@ As the Lesson Project develops and undertakes the activities listed above in the
 The Carpentries Executive Council will then review these materials to determine whether the Lesson Project has met the core criteria for Incubation:
 - Intention and purpose for lessons that align with The Carpentries mission, vision, and values
 - Goals and objectives for lessons and/or workshops that are distinct from other Lesson Programs
-- Service to a particular audience of learners and instructors
+- Service to a particular audience of learners
 - Evidence of community member commitment to Lesson Program governance, lesson maintenance, and curriculum development.
 
 The Executive Council will decide on one of the options below:
