@@ -655,11 +655,9 @@ Hi [ trainee name ],
 
 Thank you for participating in an instructor discussion session and a
 teaching demonstration. I’d like to check you off in our system and 
-issue you your instructor certification, but I don’t currently have a 
+issue you your Instructor certification, but I do not currently have a 
 record of your lesson contribution. If you’ve already made a 
-contribution, please send me a link to the PR or issue. If you’re 
-working on your contribution, please check out these guidelines for 
-some tips.
+contribution, please log in to your [AMY profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile) and select “Training progress” at the top of the screen.  You can now enter in a link to your lesson contribution.  This will be evaluated in 7-10 days.  If you are having trouble logging into AMY, you may contact  [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) and we will help you log in. If you do not use GitHub, you may submit your lesson contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform).  A Carpentries Core Team member will create an issue based on the relevant repository, and will send you a link so that you may view any responses. In either case, you can track your progress by [logging into AMY here](https://amy.carpentries.org).
 
 Please get in touch if you have any questions.
 
