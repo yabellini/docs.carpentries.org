@@ -96,10 +96,17 @@ The code base can be found in the [AMY GitHub repo](https://github.com/carpentri
 The [web based application can be found here](https://amy.carpentries.org/).  
 [Documentation for AMY administrators can be found here](https://carpentries.github.io/amy/). 
 
-
-
-
 ### Teaching
+
+#### Signing up to teach
+
+Once you sign into your AMY profile, you can view upcoming teaching opportunities at Centrally-Organised workshops.  Click on the blue button labeled "View upcoming teaching opportunities with The Carpentries."  
+
+![AMY instructor screen](images/amy_instructor_signup.png)
+
+Here, you can browse teaching opportunites by workshop location or curriculum and register your interest in teaching.  A member of our Workshop Administration team will follow up with you.  
+
+
 
 #### Setting Up a Workshop
 Please see our [Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) section for
