@@ -82,7 +82,7 @@ Executive Council members will not serve for more than three consecutive 2 year 
 No employer may have more than two elected or appointed representatives on the Executive Council, and Carpentries Core Team are not eligible to serve as Executive Council Members. The Executive Council has the final say in determining whether people are working for the same employer. If more than two people who are working for the same employer are elected, they must step down one by one to be replaced by other nominees in order of the number of votes received.
 
 ### Regular Meetings and Quorum
-The Executive Council must meet at least ten times per year, either in person or online. Quorum for meetings of the Executive Council is five Members, including at least one Council-elected and one Community-elected Member. The Executive Council may use an asynchronous public online voting mechanism for motions to be approved inbetween regular meetings.
+The Executive Council must meet at least quarterly, either in person or online. The meetings follow the parliamentary procedure documented in the Carpentries Handbook. Quorum for meetings of the Executive Council is five Members, including at least one Council-elected and one Community-elected Member. The Executive Council may use an asynchronous public online voting mechanism for motions to be approved inbetween regular meetings.
 
 ### Compensation
 Members of the Executive Council shall not receive compensation from the Organisation for their service, with the exception of administrative support, travel, and accommodation costs related to their duties on the Executive Council.
