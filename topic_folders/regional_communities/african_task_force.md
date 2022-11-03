@@ -14,13 +14,13 @@ The Carpentries in Africa grew from strenght to strengh during 2021. During the 
 * ~~24 February
 * ~~24 March
 * ~~28 April
-* 26 May
-* 23 June
-* 28 July
-* 25 August
-* 22 September
-* 27 October
-* 24 November
+* ~~26 May
+* ~~23 June
+* ~~28 July
+* ~~11 August ([CarpentryCon@Home 2022](https://2022.carpentrycon.org/) at 9:00 SAST, 7:00 UTC) 
+* ~~22 September
+* ~~27 October
+*   1 December
 
 - **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org) and we can pair you up with a team at a time and date that will suit you.
 

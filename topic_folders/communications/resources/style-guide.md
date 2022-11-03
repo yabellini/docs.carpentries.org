@@ -82,6 +82,9 @@ But <br>
 
 The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
 
+##### colour 
+Use adequate contrast to ensure the best readability. Colour should not be the only means of conveying information (indicating action, prompting a response, or distinguishing a visual element). Avoid using the colour combinations of red/green, green/brown, green/blue, blue/gray. Use shapes, patterns, textures, and labels to help distinguish differences. [Contrast Checker from WebAIM](https://webaim.org/resources/contrastchecker).
+
 ##### commas
 Use commas to separate clauses in long sentences. ‘If the judges truly reflected on their decisions regarding the non-award of prizes in 2010, they would not find it hard to see why people objected to their choices.’
 
@@ -170,7 +173,10 @@ include full stops, does not precede a comma in British English
 ##### inclusivity
 Use inclusive language.  This includes word choice that recognises the complexity of the subject matter and respects the diversity of all members of the community. Use globally accessible references, either with a more common name or a more verbose description.
 
-Things to avoid: diminishing or dismissive language (just, simply, obviously, etc), local colloquialisms
+Things to avoid: diminishing or dismissive language (just, simply, obviously, etc), local colloquialisms, sensory words or action words (see, hear, read, look, run, reach, listen)
+
+##### images
+Include alt text on all images. 
 
 ##### initials
 Separate initials in names from each other with spaces and full stops, _e.g.,_ N. K. Jemisin.
@@ -183,6 +189,13 @@ not -ize at end of word, _e.g._, characterise, sympathise, organise. One excepti
 
 ##### italics
 Words and phrases in languages other than English, and scientific names, _e.g._, *Macropus rufus*, *Bufo marinus*.
+
+---
+
+## L
+
+##### link text
+Avoid "click here", "more", and "read more" when embedding a link in text. Use words that describe link, not the full URL. Link up to a full sentence but avoid using longer. Use non-colour indicators such as a persistent underline to highlight link. When linking an email, use Email first name last name, instead of just the person's name. 
 
 ---
 
@@ -288,3 +301,6 @@ Times should be rendered in UTC in a 24-hour format, _e.g.,_ 12:00 UTC, 17:30 UT
 
 ##### versus and vs
 Use versus in most written cases, but if abbreviation is necessary, use "vs" rather than "vs."
+
+##### Videos 
+All videos should be captioned. 

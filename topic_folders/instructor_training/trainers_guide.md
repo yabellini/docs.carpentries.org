@@ -30,7 +30,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 
 ##### During the Demo
 -  Go to the Zoom room. The link is in the [Etherpad][demo-pad].    
--  Once everyone is in the call (audio and video working), remind them of the Code of Conduct, explain the procedure for the demo session, and remind them that trainees have to be able to teach from any episode from their chosen lesson. Ask whether anyone has only prepared for 5 minutes from one episode instead of the entire lesson, and if so, suggest strongly they reschedule. It can help to remind them that this is not a high stakes test but a friendly opportunity for feedback.
+-  Once everyone is in the call (audio and video working), remind them of the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html), explain the procedure for the demo session, and remind them that trainees have to be able to teach from any episode from their chosen lesson. Ask whether anyone has only prepared for 5 minutes from one episode instead of the entire lesson, and if so, suggest strongly they reschedule. It can help to remind them that this is not a high stakes test but a friendly opportunity for feedback.
 -  Ask those not presenting to mute their microphone, and ask them to give feedback using the same positive-vs-negative and content-vs-presentation rubric used in training. For a full session (5 trainees), they should add feedback to the Etherpad. If you have fewer people, you may choose to have them jot down comments and deliver them verbally as time allows.
 -  Give the assignment to the first trainee, then give them a bit of time to set up the demo (they may have to import some packages, load some data, move to a certain folder etc).  
 -  Ask them to share their screen using the “Share Screen” lower menu in Zoom.  
@@ -71,7 +71,7 @@ This table has moved. Suggested lessons are available in the [Instructor Trainin
 [trainer-process]: ../instructor_training/trainers_training.html
 [trainer-pad]: http://pad.carpentries.org/trainers
 [community-calendar]: https://carpentries.org/community/#community-events
-[trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
+[trainer-minutes]: https://github.com/carpentries/trainers/tree/main/minutes
 [Etherpad-template]: http://pad.carpentries.org/ttt-template
 [googledoc-template]: https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit
 [training-template]: https://github.com/carpentries/training-template

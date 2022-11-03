@@ -23,8 +23,8 @@
 
 #### Tracking Lesson Contributions
 
-1. Trainees should email the link to their contribution to [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org).
-1. Carpentries Core Team will go to this person's record in AMY and [mark this step as complete](../workshop_administration/amy_manual.md), including a link to their contribution.
+1. Trainees should go to their [AMY profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile) and select “Training progress” at the top of the screen.  They can now enter in a link to their lesson contribution.  This will be evaluated in 7-10 days.  If they do not use GitHub, they may submit their lesson contribution via [this form](https://docs.google.com/forms/d/e/1FAIpQLSeMBOj5Rdh8Mgk0ebRbeRyHhGHKbItdft6avWuEzmeg8CgWbA/viewform). If they submit via this form, a Carpentries Core Team member will create an issue based on the relevant repository, and will send the trainee a link so that they may view any responses. 
+2. Carpentries Core Team will go to this person's record in AMY and [mark this step as complete](../workshop_administration/amy_manual.md), including a link to their contribution.
 
 #### Recording Extensions to Complete Checkout
 
@@ -35,7 +35,7 @@
 #### Awarding badges
 
 1. Search in AMY for all persons not badged but eligible for a badge.
-1. Open that person's record and add SWC or DC instructor badge.
+1. Open that person's record and add an Instructor badge.
 
 #### Trainee no-shows and cancellations
 
