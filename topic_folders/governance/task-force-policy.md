@@ -47,7 +47,7 @@ including the task force's roles and responsibilities
   - Name of the Core Team liaison person
   - Information on how to apply to join the task force
   - The task force report to the Executive Council (once produced, after the work of the task forces is completed)
-- Create internal documentation (which may also be made public), including:
+- Create internal [documentation for operational procedures](https://github.com/carpentries/task-forces/blob/main/task-force-charter-template.md#task-force-charter-name-of-task-force) (which may also be made public), including:
   - Process for recruiting and/or selecting new members
   - Decision making process
 - Maintain internal and public-facing communication:
@@ -58,7 +58,7 @@ including the task force's roles and responsibilities
 The task force's public documentation should be stored in a folder within the [`task-forces` repository](https://github.com/carpentries/task-forces) 
 in [The Carpentries GitHub](https://github.com/carpentries/).
 The Core Team will assist with creating such a folder upon the task force's approval. If the task force has sensitive 
-internal documentation, the task force should decide where such documentation should be stored.
+internal documentation, the task force should decide where such documentation should be stored. 
 
 A task force will not undertake any of the following actions without obtaining approval of the Executive Council:
 

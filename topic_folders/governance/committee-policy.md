@@ -33,7 +33,7 @@ with a link to its public documentation.
 ### Committee Operations
 The following are operational guidelines for committees. Each committee should:
 
-- Create the official [committee charter](https://github.com/carpentries/committees/blob/main/committee-charter-template.md), including the committee's roles and responsibilities
+- Create the official [committee charter](https://github.com/carpentries/committees/blob/main/committee-charter-template.md), including the [committee's roles and responsibilities](https://github.com/carpentries/committees/blob/main/committee-charter-template.md#roles-and-responsibilities)
 - Appoint the committee chair, and, optionally, a co-chair and identify term limits for chair/co-chair/standard members
 - Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend the committee meetings
 - Create a public space for the committee, including:
@@ -45,7 +45,7 @@ The following are operational guidelines for committees. Each committee should:
   - Names of the current and past members including their roles
   - Name of the Core Team liaison person
   - Information on how to apply to join the committee
-- Create internal documentation (which may also be made public), including:
+- Create internal [documentation for operational procedures](https://github.com/carpentries/committees/blob/main/committee-charter-template.md#operational-procedures) (which may also be made public), including:
   - Process for recruiting and/or selecting new members
   - Process for on-boarding new members
   - Process for off-boarding members
@@ -60,6 +60,7 @@ The following are operational guidelines for committees. Each committee should:
   - Utilise other [The Carpentries community communication pathways](https://docs.carpentries.org/topic_folders/communications/index.html) to engage with the community as needed
 - Prepare written reports to the Executive Council with an agreed frequency, e.g. quarterly, biannually or annually (the frequency of reporting can be adjusted by the Executive Council during the lifetime of the committee).
 
+Templates for creating the committee documentation are available from the [*committees* repository](https://github.com/carpentries/committees). 
 It is recommended that the committee's documentation is stored in a separate repository 
 under [The Carpentries GitHub](https://github.com/carpentries/). The Core Team can assist with creating such a 
 repository upon the committee's approval; if this is not possible, e.g. due to
