@@ -1,7 +1,7 @@
 ## The Carpentries Committee Policy
 
 See the definition of a [committee](https://docs.carpentries.org/topic_folders/governance/bylaws.html#committees)
-in the Bylaws.
+according to the Bylaws.
 
 This policy defines the process for making and approving committee proposals, and
 operational processes and the lines of communication to and from committees
@@ -11,10 +11,11 @@ to ensure transparency, accountability and sustainability of committees' activit
 A committee proposal should:
 - explain the need for or the context for the committee
 - explain why it should be an on-going/longer-term project
-- list aims and objectives of the committee
+- list aims and objectives of the committee.
 
-Committee proposals can be submitted to the [Core Team via email](mailto:team@carpentries.org) or by creating an
-issue in the [`committees` repository](TODO) in The Carpentries GitHub.
+Committee proposals can be submitted by creating an
+issue in the [*committees* repository](https://github.com/carpentries/committees/issues) in [The Carpentries GitHub](https://github.com/carpentries/) or 
+by emailing the proposal to the [Core Team](mailto:team@carpentries.org).
 
 ### Committee Formation
 Committee proposals are reviewed and approved according to the following procedure:
@@ -32,11 +33,11 @@ with a link to its public documentation.
 ### Committee Operations
 The following are operational guidelines for committees. Each committee should:
 
-- Create the official [committee charter](TODO), including the committee's roles and responsibilities.
-- Appoint the committee chair, and, optionally, a co-chair and identify term limits for chair/co-chair/standard members.
-- Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend the committee meetings.
+- Create the official [committee charter](https://github.com/carpentries/committees/blob/main/committee-charter-template.md), including the committee's roles and responsibilities
+- Appoint the committee chair, and, optionally, a co-chair and identify term limits for chair/co-chair/standard members
+- Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend the committee meetings
 - Create a public space for the committee, including:
-  - The committee's charter with its roles and responsibilities
+  - The committee's charter
   - Contact information for the committee
   - Other public materials (if available)
   - Information on when the committee meetings are held
@@ -53,14 +54,15 @@ The following are operational guidelines for committees. Each committee should:
 - Maintain internal and public-facing communication:
   - Organise committee meetings (at least twice a year) and post meeting notes in a consistent location (meeting notes should be public unless the work of
     the committee requires them to remain private)
-  - Post meetings in the community calendar (note that meetings do not necessarily need to be open to public to attend - for example, the Code of Conduct Committee's
+  - Post meetings in the community calendar (note that meetings do not necessarily need to be open to public to attend even though they are added to the calendar - for example, the Code of Conduct Committee's
     business meetings are public but the incident meetings are not)
   - Aim to host at least one community discussion per year to let the community know about the committee's activities
   - Utilise other [The Carpentries community communication pathways](https://docs.carpentries.org/topic_folders/communications/index.html) to engage with the community as needed
 - Prepare written reports to the Executive Council with an agreed frequency, e.g. quarterly, biannually or annually (the frequency of reporting can be adjusted by the Executive Council during the lifetime of the committee).
 
-It is recommended that the committee's documentation is stored in a repository under [The Carpentries GitHub](https://github.com/carpentries/).
-The Core Team can assist with creating such a repository upon the committee's approval; if this is not possible, e.g. due to
+It is recommended that the committee's documentation is stored in a separate repository 
+under [The Carpentries GitHub](https://github.com/carpentries/). The Core Team can assist with creating such a 
+repository upon the committee's approval; if this is not possible, e.g. due to
 privacy reasons, the committee should decide where they will keep their public and internal documentation.
 
 A committee will not undertake any of the following actions without obtaining approval of the Executive Council:
@@ -69,7 +71,7 @@ A committee will not undertake any of the following actions without obtaining ap
 - Creation and/or release of position statements
 - Host Carpentries-branded events
 - Any modifications of The Carpentries logos (please refer to the [Carpentries Logo Usage Policy](https://docs.carpentries.org/topic_folders/communications/resources/logos.html) for the approved ways of using the logos)
-- Launch an own fundraising campaign
+- Launch an own fundraising campaign.
 
 Note that the above list is not exhaustive. In the case of any ambiguity, committees should consult the Core Team (in the first instance) or the
 Executive Council to clarify if anything they plan to do requires approval.
@@ -81,7 +83,6 @@ Executive Council may terminate any committee at any time.
 
 ### Past & Current Committees
 
-The following is a list of the community committees:
 - [Code of Conduct Committee](https://carpentries.org/coc-ctte/)
 - [Curriculum Advisory Committees](https://carpentries.org/curriculum-advisors/) (CACs)
 - [Lesson Infrastructure Committee](https://carpentries.org/lesson-infra/)
