@@ -51,7 +51,7 @@ Since then more than 100 African instructors have participated in online or in-p
 - [Carpentries Connect South Africa 2021 opening and closing keynotes now available in isiXhosa and isiZulu](https://www.codeforsociety.org/eventfund/updates/carpentries-connect-south-africa-2021-opening-and-closing-keynotes-now-available-in-isixhosa-and-isizulu) by Angela Okune
 - [Glosario: African contributions](https://carpentries.org/blog/2021/11/Glosario-African-Contributions/) by Angelique Trusler
 - [Announcing The Carpentries African Capacity Development Manager, Angelique Trusler](https://carpentries.org/blog/2021/10/announcing-african-capacity-development-manager/) by Kari L. Jordan 
-- [CarpentryConnect South Africa 2021 in Review]([)](https://eresearch.uwc.ac.za/2021/10/06/carpentry-connect-south-africa-2021-in-review/)by the University of the Western Cape
+- [CarpentryConnect South Africa 2021 in Review](https://eresearch.uwc.ac.za/2021/10/06/carpentry-connect-south-africa-2021-in-review/) by the University of the Western Cape
 - [CarpentryConnect South Africa 2021 - A global event](https://carpentries.org/blog/2021/09/carpentryconnect/) by Angelique Trusler
 - [Highlighting our strategic plan efforts to support local community building](https://carpentries.org/blog/2021/07/Highlighting-our-strategic-plan-efforts-to-support-local-community-building/) by Kari L. Jordan and Angelique Trusler
 - [Registration for CarpentryConnect South Africa 2021 now open!](https://carpentries.org/blog/2021/06/CarpentryConnectSouthAfrica/) by Angelique Trusler
