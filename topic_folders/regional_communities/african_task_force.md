@@ -44,10 +44,14 @@ The first Carpentries workshops in Africa were run in 2013 but it only really ki
 
 Since then more than 100 African instructors have participated in online or in-person instructor training events. The African Task Force was revived in December 2017, then completely consisting of African instructors. The task force played a role in mentoring instructors who had been trained but hadn’t qualified as well as qualified instructors who needed support before teaching a workshop. Small online sessions were hosted by task force members to demonstrate how various lessons are taught and to help solidify skills in the tools we teach. The second African Task Force finished its activities in December 2018. Some of the South African-based activities were funded through the Rural Campuses Connection Project II (RCCP II), which ended in March 2019. You can read more about the experiences of the African Task Force in this [blog post](https://carpentries.org/blog/2019/01/african-task-force-update/) and about RCCPII [here](https://tenet-rccpii.github.io/rccpii-2018/).
 
-### Blog posts on Carpentries activities in Africa
+### Blog posts and other Carpentries activities in Africa
 
+- [CarpentryCon 2022: African Carpentries Monthly Meetup: Lanfrica](https://www.youtube.com/watch?v=9qy64xdIB2w) by Chris Emezue
+- [Behind the Scenes: What it took to run CarpentryConnect South Africa](https://www.codeforsociety.org/eventfund/updates/behind-the-scenes-what-it-took-to-run-carpentryconnect-south-africa) by Akashidiya Chakraborty, Angela Okune and Angelique Trusler
+- [Carpentries Connect South Africa 2021 opening and closing keynotes now available in isiXhosa and isiZulu](https://www.codeforsociety.org/eventfund/updates/carpentries-connect-south-africa-2021-opening-and-closing-keynotes-now-available-in-isixhosa-and-isizulu) by Angela Okune
 - [Glosario: African contributions](https://carpentries.org/blog/2021/11/Glosario-African-Contributions/) by Angelique Trusler
 - [Announcing The Carpentries African Capacity Development Manager, Angelique Trusler](https://carpentries.org/blog/2021/10/announcing-african-capacity-development-manager/) by Kari L. Jordan 
+- [CarpentryConnect South Africa 2021 in Review]([)](https://eresearch.uwc.ac.za/2021/10/06/carpentry-connect-south-africa-2021-in-review/)by the University of the Western Cape
 - [CarpentryConnect South Africa 2021 - A global event](https://carpentries.org/blog/2021/09/carpentryconnect/) by Angelique Trusler
 - [Highlighting our strategic plan efforts to support local community building](https://carpentries.org/blog/2021/07/Highlighting-our-strategic-plan-efforts-to-support-local-community-building/) by Kari L. Jordan and Angelique Trusler
 - [Registration for CarpentryConnect South Africa 2021 now open!](https://carpentries.org/blog/2021/06/CarpentryConnectSouthAfrica/) by Angelique Trusler
