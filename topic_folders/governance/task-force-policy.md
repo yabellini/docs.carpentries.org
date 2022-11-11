@@ -37,7 +37,7 @@ The following are operational guidelines for task forces. Each task force should
 - Create the official [task force charter](https://github.com/carpentries/task-forces/blob/master/task-force-charter-template.md), 
 including the task force's roles and responsibilities
 - Appoint the task force chair, and, optionally, a co-chair
-- Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend the task force meetings
+- Request a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend the task force meetings
 - Create a public space for the task force, including:
   - The task force's charter and its current status (e.g. active, completed)
   - Contact information for the task force
