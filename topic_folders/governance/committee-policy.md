@@ -35,7 +35,7 @@ The following are operational guidelines for committees. Each committee should:
 
 - Create the official [committee charter](https://github.com/carpentries/committees/blob/main/committee-charter-template.md), including the [committee's roles and responsibilities](https://github.com/carpentries/committees/blob/main/committee-charter-template.md#roles-and-responsibilities)
 - Appoint the committee chair, and, optionally, a co-chair and identify term limits for chair/co-chair/standard members
-- Appoint a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend the committee meetings
+- Request a [Core Team](https://carpentries.org/team/) member liaison to serve as a point of contact and (optionally) attend the committee meetings
 - Create a public space for the committee, including:
   - The committee's charter
   - Contact information for the committee
