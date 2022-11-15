@@ -22,6 +22,19 @@ The Carpentries in Africa grew from strenght to strengh during 2021. During the 
 * ~~27 October
 *   1 December
 
+**2023 meetings**:
+* 26 January
+* 23 February
+* 23 March
+* 20 April
+* 25 May
+* 22 June
+* 27 July
+* 24 August
+* 28 September
+* 26 October
+* 23 November
+
 - **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them. If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org) and we can pair you up with a team at a time and date that will suit you.
 
 - Angelique Trusler, the African Capacity Development Manager, is ready to help you with any questions you have about running **Carpentries workshops** or any other ways you can get involved with **The Carpentries in Africa**!  Contact her at [admin-afr@carpentries.org](mailto:admin-afr@carpentries.org)
