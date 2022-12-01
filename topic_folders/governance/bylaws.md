@@ -20,7 +20,7 @@ The Executive Council is responsible for assessing a prospective Lesson Program 
 A Lesson Program within The Carpentries should possess the following characteristics:
 - Intention and purpose for lessons that align with The Carpentries mission and vision
 - Goals and objectives for lessons and/or workshops that are distinct from other Lesson Programs
-- Service to a particular audience of learners and instructors
+- Service to a particular audience of learners
 - Evidence of community member commitment to Lesson Program governance (see below), lesson maintenance, and curriculum development
 
 ### Governance of Lesson Programs
