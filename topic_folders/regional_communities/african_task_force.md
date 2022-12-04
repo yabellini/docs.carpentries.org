@@ -51,6 +51,7 @@ Since then more than 100 African instructors have participated in online or in-p
 
 ### Blog posts and other Carpentries activities in Africa
 
+- [IoT for Novices in South Africa](https://society-rse.org/iot-for-novices-in-south-africa/) by Jannetta Steyn
 - [CarpentryCon 2022: African Carpentries Monthly Meetup: Lanfrica](https://www.youtube.com/watch?v=9qy64xdIB2w) by Chris Emezue
 - [Behind the Scenes: What it took to run CarpentryConnect South Africa](https://www.codeforsociety.org/eventfund/updates/behind-the-scenes-what-it-took-to-run-carpentryconnect-south-africa) by Akashidiya Chakraborty, Angela Okune and Angelique Trusler
 - [Carpentries Connect South Africa 2021 opening and closing keynotes now available in isiXhosa and isiZulu](https://www.codeforsociety.org/eventfund/updates/carpentries-connect-south-africa-2021-opening-and-closing-keynotes-now-available-in-isixhosa-and-isizulu) by Angela Okune
