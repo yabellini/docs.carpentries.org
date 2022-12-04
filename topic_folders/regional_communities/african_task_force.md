@@ -1,26 +1,18 @@
 ## The Carpentries in Africa
 
 
-### Looking back at 2021
+### Looking back at 2022
 
-The Carpentries in Africa grew from strenght to strengh during 2021. During the year the African Carpentries Community participated in **19 workshops** across **5 countries** (South Africa, Ethiopia, Ghana, Kenya and Mauritius). Also, **more than 25 new instructors were badged** from **10 countries** (South Africa, Kenya, Rwanda, Ethiopia, Ghana, Morocco, Nigeria, Sudan, Tunisia and Uganda). Furthermore, the first virtual [CarpentryConnect South Africa 2021](https://carpentries.org/blog/2021/09/carpentryconnect/) took place from 6 to 17 September 2021. The event included 2 Carpentries workshops, 1 Carpentries instructor training event, 2 networking events, 1 learning session and 1 opening address.
+- **Eighteen** instructors from South Africa, Botswana, Tunisia, Tanzania and Kenya have been badged, with others also participating in the checkout process.
+- **20** Carpentries workshops were hosted in South Africa, Ghana, Ethiopia and Kenya.
+- **Three** new member organisations from South Africa and Namibia.
+- Grew our instructor trainer base in Ethiopia
+- Translated the opening and closing events of CarpentryConnect South Africa 2021 into [isiZulu and isiXhosa](https://www.google.com/url?q=https://www.codeforsociety.org/eventfund/updates/carpentries-connect-south-africa-2021-opening-and-closing-keynotes-now-available-in-isixhosa-and-isizulu&source=gmail&ust=1670282556546000&usg=AOvVaw3qsqjPS27Ga37NNcb7kden)
+- You can read more about The Carpentries in Africa [here](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html#blog-posts-and-other-carpentries-activities-in-africa).
 
 ### What We Do
 
 - **Monthly African Community Meetup**: Our monthly African Carpentries Community meetups have been running since 2017. Here we discuss topics that are of interest to our instructors in the African context, including previous and upcoming workshops, available resources, opportunities, events, and more. We would love to hear more voices at our monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you are keen to join please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
-
-**2022 meetings**:
-* ~~27 January
-* ~~24 February
-* ~~24 March
-* ~~28 April
-* ~~26 May
-* ~~23 June
-* ~~28 July
-* ~~11 August ([CarpentryCon@Home 2022](https://2022.carpentrycon.org/) at 9:00 SAST, 7:00 UTC) 
-* ~~22 September
-* ~~27 October
-*   1 December
 
 **2023 meetings**:
 * 26 January
