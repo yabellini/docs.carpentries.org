@@ -6,6 +6,7 @@ All mailing lists for [The Carpentries](https://carpentries.topicbox.com/groups)
 
 #### Africa
 - [Africa](https://carpentries.topicbox.com/groups/local-africa)
+- [Middle-East and North Africa](https://carpentries.topicbox.com/groups/local-middle-east)
 
 #### Asia
 - [India](https://carpentries.topicbox.com/groups/local-india)
