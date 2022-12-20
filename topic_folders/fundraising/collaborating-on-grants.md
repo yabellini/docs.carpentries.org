@@ -34,7 +34,7 @@ For more information about grants we have received from these sources, please re
 ### Sponsors
 - [Biotech Partners](http://www.biotechpartners.org/)
 - [Jump Recruits, LLC](https://jumprecruits.com/)
-- [RStudio](https://rstudio.com/)
+- [Posit](https://rstudio.com/)
 
 For more information about sponsorship opportunities, visit our [Sponsorship Program page](https://carpentries.org/sponsorship/).
 
