@@ -16,7 +16,6 @@ As of January 2021, the following standing committee structure was implemented a
 - [Officers Committee](#officers-committee)
 - [Governance Committee](#governance-committee)
 - [Finance Committee](#finance-committee)
-- [Communications Committee](#communications-committee)
 - [Program Committee](#program-committee)
 
 Serving on a specific standing committee provides Executive Council members with the opportunity to bring their subject matter expertise to specific governance and operational priorities, deal with issues and projects more effectively and efficiently, and maximize time and resources between meetings. Each Executive Council member serves on at least one, but no more than two committees. When considered beneficial or necessary, these committees can have members from The Carpentries community and/or Core Team.
@@ -57,12 +56,6 @@ This committee is chaired by the Treasurer of the Executive Council.
 
 #### Communications Committee
 This committee is chaired by the Secretary of the Executive Council.
-
-**Roles & Responsibilities**
-- Work to enhance The Carpentries public image
-- Prepare Public Statements from The Carpentries when needed
-- Ensure blog posts related to the work of the Executive council are published in a timely fashion
-- Write the Year-in-review summary of the major activities accomplished by the Executive Council
 
 #### Program Committee
 This committee can be chaired by any member of the Executive Council.
