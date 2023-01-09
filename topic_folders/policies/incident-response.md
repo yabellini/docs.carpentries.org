@@ -8,7 +8,8 @@ All Carpentries community members should feel empowered to enforce the Code of C
 
 Ideally, we would all be able to defuse an incident. In practice, we have varying comfort with situations depending on our current experience and the environment. Below are ways that you can be supportive and steps that you can take during or after an incident.
 
-If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report in person to a workshop host or instructor or via the [Code of Conduct incident report form][reporting-form] to the Code of Conduct committee.
+If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report via the [Code of Conduct incident report form][reporting-form] to the Code of Conduct committee.
+For in person events, please immediately contact a workshop host or instructor so that they can assist you in implementing the **Immediate Response Checklist** as listed below, and help submit a report to the Code of Conduct committee.
 
 ##### Immediate Response 
 
@@ -26,15 +27,16 @@ If an incident is ongoing, whether in-person or online, any community member (wo
 * If individuals are physically safe, contact law enforcement or security only at the reporter’s request.
 * Follow any local guidelines for handling incidents, including if you have a legal reporting role. 
 
-**In-Person Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**
+**In-Person and Online Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**
 * Ensure participants are safe.
 * If participants are not safe, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
-* Listen to the reporter and write down as many details as possible.
-* Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. 
-* Inform the workshop host that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. 
+* Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. 
+* If they would like your help or feel more comfortable if you complete the report, talk to them or communicate via email/online call to get their inputs in getting as much detail as possible, and help submit the report with their assistance. 
+* Inform the workshop host or the listed contact person (such as a CoC facilitator) that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host or instructor, report the incident directly to the Code of Conduct committee via the incident report form. 
 
-**Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**
-* Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. 
+**Online Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**
+* Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form].
+* Save screenshot of any online interaction where the issue occured and share in your report.
 * If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority.
 
 If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.md), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident.
