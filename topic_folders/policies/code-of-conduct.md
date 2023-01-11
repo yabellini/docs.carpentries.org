@@ -71,6 +71,20 @@ Part 2.3 Consequences of Unacceptable behaviour
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
 
+
+#### Process Flow Diagram
+
+The diagram below illustrates the following steps in following a Code of Conduct report.
+
+* First report -> assess if there is a CoC report and clear breach
+    * No report or breach -> respond with an explanation to the reporter
+    * Breach identified -> set up a first meeting with the CoCc (Read about Incident Response Group in CoCc Governance) to collectively identify specific issues and breaches
+* If a specific breach/issue was not identified -> reply to the reporter
+* If a specific breach/issue was identified -> email the reporter and/reportee as explained in CoC report handling and enforcement process
+* If it was undecided that a breach/issue occurred -> hold a meeting with the Reporter/Reportee as explained in CoC report handling and enforcement process -> Hold a second meeting with the CoCc to identify consequence/next steps as explained in CoC report handling and enforcement process
+
+![Code of Conduct process diagram](images/coc_process_diagram.png)
+
 #### Update Logs
 
 - 2020-09-23 The CoCc Governance document was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Kari L. Jordan and executive committee. Contributors: drafted by Karin Lagesen, Malvika Sharan and Karen Cranston (2019) and extensively reviewed and updated by the committee members of the Code of Conduct committee: Karin Lagesen, Malvika Sharan, Karen Cranston, Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, François Michonneau and Konrad Förstner (2019-2020).
