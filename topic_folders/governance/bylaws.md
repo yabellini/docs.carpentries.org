@@ -24,10 +24,10 @@ A Lesson Program within The Carpentries should possess the following characteris
 - Evidence of community member commitment to Lesson Program governance (see below), lesson maintenance, and curriculum development
 
 ### Governance of Lesson Programs
-Each Lesson Program will have a Curriculum Advisory Committee to serve as community governance organisation and act as a point of contact with The Carpentries Executive Council and Core Team. The Curriculum Advisory Committee will provide the Executive Council with an annual report of Lesson Program operations.
+Each Lesson Program will have a Governance Committee to serve as community governance organisation and act as a point of contact with The Carpentries Executive Council and Core Team. The Lesson Program Governance Committee will provide the Executive Council with an annual report of Lesson Program operations.
 
 ### Resignation and Termination of Lesson Programs
-In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and The Carpentries can be terminated. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Curriculum Advisory Committee can choose to discontinue the Lesson Program's association with The Carpentries. In either case, notice must be given to the other organisation to arrange for separation of responsibilities and resources.  
+In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and The Carpentries can be terminated. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Lesson Program Governance Committee can choose to discontinue the Lesson Program's association with The Carpentries. In either case, notice must be given to the other organisation to arrange for separation of responsibilities and resources.  
 
 ## 3. Organisational Membership
 
