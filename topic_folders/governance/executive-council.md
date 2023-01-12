@@ -54,9 +54,6 @@ This committee is chaired by the Treasurer of the Executive Council.
 - Identify revenue streams and resource development
 - Advise on a strategy to establish reserve funds, lines of credit, and short- and long-term investments
 
-#### Communications Committee
-This committee is chaired by the Secretary of the Executive Council.
-
 #### Program Committee
 This committee can be chaired by any member of the Executive Council.
 
