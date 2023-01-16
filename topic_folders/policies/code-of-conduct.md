@@ -80,8 +80,8 @@ The diagram below illustrates the following steps in following a Code of Conduct
     * No report or breach -> respond with an explanation to the reporter
     * Breach identified -> set up a first meeting with the CoCc (Read about Incident Response Group in CoCc Governance) to collectively identify specific issues and breaches
 * If a specific breach/issue was not identified -> reply to the reporter
-* If a specific breach/issue was identified -> email the reporter and/reportee as explained in CoC report handling and enforcement process
-* If it was undecided that a breach/issue occurred -> hold a meeting with the Reporter/Reportee as explained in CoC report handling and enforcement process -> Hold a second meeting with the CoCc to identify consequence/next steps as explained in CoC report handling and enforcement process
+* If a specific breach/issue was identified -> email the reporter/reportee as explained in CoC report handling and enforcement process
+* If it was undecided that a breach/issue occurred -> hold a meeting with the reporter/reportee as explained in CoC report handling and enforcement process -> Hold a second meeting with the CoCc to identify consequence/next steps as explained in CoC report handling and enforcement process
 
 ![Code of Conduct process diagram](images/coc_process_diagram.png)
 
