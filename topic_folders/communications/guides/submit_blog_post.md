@@ -65,9 +65,9 @@ after completion of the build triggered by this change.
     please work in <https://github.com/carpentries/carpentries.org>,
     which can be viewed at <https://carpentries.org/blog/>.
 
-1.  Posts go in the `_posts` folder.
+2.  Posts go in the `_posts` folder.
 
-1.  Posts need to be created in [Markdown](https://guides.github.com/features/mastering-markdown/) and named
+3.  Posts need to be created in [Markdown](https://guides.github.com/features/mastering-markdown/) and named
     according to this convention and case (lower kebab case).
 
     `YYYY-MM-DD-filename.md`
@@ -76,7 +76,7 @@ after completion of the build triggered by this change.
 
     `2018-04-29-book-review-teaching.md`
 
-1.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/carpentries/carpentries.org/blob/gh-pages/_posts/2018/04/2018-04-25-website-launch.md), e.g.
+4.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/carpentries/carpentries.org/blob/gh-pages/_posts/2018/04/2018-04-25-website-launch.md), e.g.
 
     ```
     ---
@@ -92,26 +92,37 @@ after completion of the build triggered by this change.
 
     Separate the header block from the post text by inserting a new line.
 
-1.  All fields should be filled in. If there is more than one author, separate the author names like this: `["Name 1", "Name 2"]`.
+5.  All fields should be filled in. If there is more than one author, separate the author names like this: `["Name 1", "Name 2"]`.
 
-1.  Images should be uploaded to the `images` folder. Images should be linked using Markdown, and paths to the image should be relative.
+6.  Images should be uploaded to the `images` folder. Images should be linked using Markdown, and paths to the image should be relative. Make sure the naming of your images is descriptive of what they are showing. For example, an image of a Carpentries workshop at ABC University and the date in YYYY-MM-DD format, 2023-01-10-carpentries-workshop-abc.jpg. Use the following formatting:
 
-    Example:
-    ```md
-    ![Image Description]({{ site.filesurl }}/images/myimage.jpg)
-    ```
-    A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it.
-
-    Example:
-    ```md
-    ![Image Description](https://web_address/pathway_to_full_image_filename)
-    ```
-
-    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md) and copy the formatting from there.
-
-1. Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you have submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries Core Team will review and merge your Pull Request or reach out to you with more questions.
+    `[<alt_text>]({{ site.urlimg }}/blog/<image_folder>/<image_name>)_<caption>_`
+    
+    Example:   
+    
+    
+    `![Carpentries workshop at ABC University]({{ site.urlimg }}/blog/2023/01/2023-01-10-carpentries-workshop-abc.jpg)_A Carpentries workshop at ABC University_`
+    
+    The following changes were made:
+    
+    1. `<alt_text>` was replaced with `Carpentries workshop at ABC University`
+    
+    2. `/blog/<image_folder>/<image_name>` was replaced with the location and title of your image, `blog/2023/01/2023-01-10-carpentries-workshop-abc.jpg`
+    
+    3. `<caption>` was replaced with a caption, `A Carpentries workshop at ABC University`
+    
+    
+  A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it.
+  
+  Example:   
+     
+  `![<alt_text>]({{ site.urlimg }}(https://web_address/pathway_to_full_image_filename)_<caption>_`
+  
+  If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md) and copy the formatting from there.
+     
+7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [Netlify](https://www.netlify.com) on your Pull Requests. Please review your pull request a few minutes after you have submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries Core Team will review and merge your Pull Request or reach out to you with more questions.
 
 
 #### Troubleshooting
 
-The most likely reason posts fail to build is because of 'rogue' characters in the YAML header. Rogue characters generally occur because material has been pasted in directly from programs like Word or Google documents. The most common rogue characters that cause issues are smart quotes (curly quote marks as opposed to plain ones), but others might be em or en dashes, mathematical or other symbols, or other characters that cannot be rendered in plain text by typing on a keyboard. Replace smart quotes with plain quote marks and smart em or en dashes with plain hyphens to avert any problems.
+The most likely reason posts fail to build is because of unsupported characters in the YAML header. Unsupported characters generally occur because material has been pasted in directly from programs like Word or Google documents. The most common unsupported characters that cause issues are smart quotes (curly quote marks as opposed to plain ones), but others might be em or en dashes, mathematical or other symbols, or other characters that cannot be rendered in plain text by typing on a keyboard. Replace smart quotes with plain quote marks and smart em or en dashes with plain hyphens to avert any problems.
