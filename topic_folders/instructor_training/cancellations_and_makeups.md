@@ -1,49 +1,41 @@
-## Instructor Training Cancellation and Makeup policy
-Cancellations are performed through Eventbrite, though they may also be accomplished by emailing [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org). **We strongly encourage cancellations more than 7 days prior to a workshop start date.** This allows other trainees to register for the available seat. 
-
-If a trainee repeatedly registers and cancels (more than 3 times), or registers for more than one seat at the same time, they may be barred from further registration.
-
-## Makeups policy
-**Summary:**
-Trainees who miss more than 1 hour of an Instructor Training event may be marked absent. Instructor certification cannot be completed without full attendance at an Instructor Training event.
-
-Trainees marked absent with an eligible reason may be invited to re-take the training or, where possible & practical, to attend a shorter make-up session. 
-
-Trainees marked absent without communication or an eligible reason will not be invited to re-take the training or attend a make-up session. If they wish to complete their training, they may be asked to re-apply or use an additional group training seat in order to register for a new event. 
-
-**Trainer actions:** 
-If a trainee misses more than 1 hour of an event and does not contact the Trainer, the trainee should be marked absent for that day. 
-
-If a trainee misses more than 1 hour of an event and informs the Trainer of a reason, the Trainer has some discretion in how to proceed. Depending on the situation, they may choose to either:
-
-1. **Mark the trainee absent**, with a note detailing which sections were missed and whether they have an excuse that seems eligible for a makeup session (see below for further action).
-
-1. **Mark the trainee present**, with an explanatory note. This action may be performed IF the trainee did not miss core participatory content (e.g. either live coding activity) as judged by the Trainer AND the total missed content is less than ¼ of the event (3-4 hours), OR if the Trainer takes it upon themselves to offer a make-up session.
-
-**IF a trainee is marked absent AND the Trainers believe that they have an eligible excuse (see below), a Trainer should additionally email** [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org), with the trainee and co-Trainer on cc, to request an invitation to make up the training. [It is ok for the trainee to contact us directly. However, when the Trainer assumes the burden of requesting help, this supports trainees who may feel uncomfortable or embarrassed. It also reduces the need for back-and-forth if details need to be confirmed with Trainers.]
+## Attendance Policy
 
 
-**Core Team actions:**
-If a trainee is marked absent and is not eligible for a make-up opportunity, the training will be marked ‘failed’ in AMY and the member seat will be forfeited until/unless the trainee gets in touch with an eligible excuse.
+### No Shows
 
-If a trainee is marked absent and is eligible for make-up, the training will be marked “asked to repeat” in AMY, and Core Team will determine whether a make-up session or new event is appropriate (see below), and will invite them to sign up accordingly.
+A ‘No Show’ is when a trainee does not cancel prior to an event and does not show up to training. In the event of a No Show, we mark the training seat used.
 
-If a trainee is not marked absent, they will receive credit for the training as normal.
+If extenuating circumstances have prevented a trainee from cancelling or attending an event, they may request permission to register for an additional event using the same registration code by emailing instructor.training@carpentries.org. IMPORTANT: **Requests to re-register <span style="text-decoration:underline;">must</span> be received within 7 days after the end date of the event. **
 
-
-**Eligibility for Make-up Workshops or Meetings**
-Eligible excuses will permit a trainee who has missed all or part of an Instructor Training event to register for a different event or attend a make-up session. Core Team will determine which option is appropriate except in cases where a Trainer takes it upon themselves to offer a make-up meeting. Most trainees who have missed more than ¼ of an event will be asked to repeat the training.
-
-Eligibility is determined on a case-by-case basis by the Core Team. We aim to be generous to all with adverse circumstances while respecting the time donated by our Instructor Trainers and the capacity limitations of our program. Both Instructor Training and service as a Carpentries Instructor involve significant and synchronized time commitments that may not be achievable under all circumstances. There are other options for participating in The Carpentries communities that have more flexible or distributed time requirements.
-
-**Examples of eligible excuses:**
-- Illness
-- Unexpected family demands (e.g. childcare)
-- Work-related emergencies (e.g. freezer failure)
-- Internet outage or bandwidth limitations
+Trainees with multiple unexplained no-shows may be barred from future registration.
 
 
-**Examples of excuses which may be deemed ineligible:** 
-- Work/deadline concerns, especially where foreseeable
-- Incompatible time zone selected 
-- Appointments or other planned absences 
+### Partial Absences
+
+Trainees who miss more than 1 hour of an Instructor Training event may be marked absent. Trainees are not eligible for Instructor certification until their record indicates that they have completed a full Instructor Training event.
+
+
+#### Makeup Meetings
+
+Trainees who miss up to 4 hours (1 half day) of an event can schedule a 50-minute 1:1 makeup meeting to complete their training with The Carpentries Director of Instructor Training. [Makeup meetings can be scheduled via Calendly.](https://calendly.com/karenword/ttt-makeups) Trainees who missed more than 4 hours of an event should not schedule a makeup meeting. (See Retaking a Training Event, below.)
+
+To prepare for a makeup meeting, trainees should review all sections of the Instructor Training Curriculum that they missed and come prepared to share thoughts and questions about those sections.
+
+
+#### Re-taking a Training Event 
+
+Trainees who miss more than 4 hours (1 half day) of an event are not eligible for a makeup meeting, but can ask to attend another event in full. To request permission to register for an additional training event, trainees should email [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) within 30 days of a missed event. 
+
+Trainees who miss more than 1 hour of a training may be marked absent, even when they have attended part of a prior event. Multiple partial trainings may not be used to complete the training requirement. 
+
+
+#### Ineligibility for Makeup Opportunities
+
+Trainees who miss an event in full without cancelling within 7 days (no-show) or who miss part of an event but do not request a makeup opportunity within 30 days are ineligible to register for a new training event using the same registration code. Trainees with a strong interest in completing training may contact [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to be advised on their options for re-admission.
+
+
+## Checkout Extensions Policy
+
+Trainees are asked to complete checkout within 90 days of attending an Instructor Training event. Having a deadline is necessary to support busy people in prioritising a goal we all care about. However, it is sometimes necessary for trainees to postpone completing checkout. 
+
+Trainees who are unable to complete checkout within the 90-day deadline should contact us at [instructor.training@carpentries.org](mailto:instructor.training@carpentries.org) to request an extension.Extensions may be granted up to one year after the checkout deadline.  After one year, you may contact instructor.training@carpentries.org to explore opportunities to re-take the training.
