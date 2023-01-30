@@ -102,7 +102,9 @@ after completion of the build triggered by this change.
        
     2. At the bottom of the page, select `Create a new branch for this commit and start a pull request`. make a note of the name of the patch, and
        click `Propose new file`.
-       
+    
+       ![Create a new blog post folder](./images/blog_post-new_branch_new_folder.png)
+    
     3. On the next window, click `Create pull request`.
     
     4. You should now see your new PR open, with a line that reads `<you> wants to merge 1 commit into main from <new_patch_branch_name>`.
@@ -128,6 +130,8 @@ after completion of the build triggered by this change.
        
     3. Click `Create a new branch for this commit and start a pull request` at the bottom of the page, make a note of the name of the patch, and
        click `Propose changes`.
+       
+       ![Create a new blog post PR branch](./images/blog_post-new_branch.png)
        
     4. On the next window, click `Create pull request`.
     
