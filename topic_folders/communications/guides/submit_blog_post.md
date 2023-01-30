@@ -61,14 +61,8 @@ after completion of the build triggered by this change.
 
 #### How to Contribute a Blog Post to The Carpentries blog
 
-1.  If you wish to contribute a blog post,
-    please work in <https://github.com/carpentries/carpentries.org>,
-    which can be viewed at <https://carpentries.org/blog/>.
-
-2.  Posts go in the `_posts` folder.
-
-3.  Posts need to be created in [Markdown](https://guides.github.com/features/mastering-markdown/) and named
-    according to this convention and case (lower kebab case).
+1.  Create a local [Markdown](https://guides.github.com/features/mastering-markdown/) file for your blog post 
+    and name it according to this convention and case (lower kebab case).
 
     `YYYY-MM-DD-filename.md`
 
@@ -76,7 +70,7 @@ after completion of the build triggered by this change.
 
     `2018-04-29-book-review-teaching.md`
 
-4.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/carpentries/carpentries.org/blob/gh-pages/_posts/2018/04/2018-04-25-website-launch.md), e.g.
+2.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/carpentries/carpentries.org/blob/gh-pages/_posts/2018/04/2018-04-25-website-launch.md), e.g.
 
     ```
     ---
@@ -92,35 +86,91 @@ after completion of the build triggered by this change.
 
     Separate the header block from the post text by inserting a new line.
 
-5.  All fields should be filled in. If there is more than one author, separate the author names like this: `["Name 1", "Name 2"]`.
+3.  All fields should be filled in. If there is more than one author, separate the author names like this: `["Name 1", "Name 2"]`.
 
-6.  Images should be uploaded to the `images` folder. Images should be linked using Markdown, and paths to the image should be relative. Make sure the naming of your images is descriptive of what they are showing. For example, an image of a Carpentries workshop at ABC University and the date in YYYY-MM-DD format, 2023-01-10-carpentries-workshop-abc.jpg. Use the following formatting:
+4.  Complete your blog post and leave placeholders in the text for any images that you will add in a following step, e.g. `ADD IMAGE - Figure 1: Caption`
 
-    `[<alt_text>]({{ site.urlimg }}/blog/<image_folder>/<image_name>)_<caption>_`
-    
-    Example:   
-    
-    
-    `![Carpentries workshop at ABC University]({{ site.urlimg }}/blog/2023/01/2023-01-10-carpentries-workshop-abc.jpg)_A Carpentries workshop at ABC University_`
-    
-    The following changes were made:
-    
-    1. `<alt_text>` was replaced with `Carpentries workshop at ABC University`
-    
-    2. `/blog/<image_folder>/<image_name>` was replaced with the location and title of your image, `blog/2023/01/2023-01-10-carpentries-workshop-abc.jpg`
-    
-    3. `<caption>` was replaced with a caption, `A Carpentries workshop at ABC University`
-    
-    
-  A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it.
-  
-  Example:   
+5.  To add your file to the github repository for blog posts,
+    please go to <https://github.com/carpentries/carpentries.org>.
+
+6.  Click on the `_posts` folder, and go to the year and month in which you wish to add your post, e.g. `2023/01`.
+
+7.  If a folder does not exist for the month you need:
+
+    a. Click on the year, e.g. `2023`, click `Add file` then `Create new file`, and in the box that says `Name your file...`, enter in the month 
+       followed by a slash, e.g. `02/`. The slash is very important to tell GitHub this is a folder.
+    b. At the bottom of the page, select `Create a new branch for this commit and start a pull request`. make a note of the name of the patch, and
+       click `Propose new file`.
+    c. On the next window, click `Create pull request`.
+    d. You should now see your new PR open, with a line that reads `<you> wants to merge 1 commit into main from <new_patch_branch_name>`.
+       The `<new_patch_branch_name>` will match the name given to you when you created your PR.
+    e. Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back to the `_posts/<year>/<month>/` folder.
+    f. Click `Upload files`, drag your new blog post markdown file into the box, or click `choose your files` to open a
+       file browser and select your files.
+    g. Make sure `Commit directly to the <new_patch_branch_name> branch` is selected.
+    h. Click `Commit changes`.
+    i. Go to step 9.
+
+8.  If a folder does already exist:
+
+    a. Make sure you are in the correct `_posts/<year>/<month>/` folder.
+    b. Click `Upload files`, drag your new blog post markdown file into the box, or click `choose your files` to open a 
+       file browser, and select your file.
+    c. Click `Create a new branch for this commit and start a pull request` at the bottom of the page, make a note of the name of the patch, and
+       click `Propose changes`.
+    d. On the next window, click `Create pull request`.
+    e. You should now see your new PR open, with a line that reads `<you> wants to merge 1 commit into main from <new_patch_branch_name>`.
+       The `<new_patch_branch_name>` will match the name given to you when you created your PR.
+       Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back to the `_posts/<year>/<month>/` folder.
+
+9.  If you want to include images that are already hosted on the web, go to step 11.
+
+10. To upload any images, first make sure you are on the `<new_patch_branch_name>` branch by clicking the drop down in the top left of the main code tab.
+    Do NOT use `main` as the branch to upload images. Use the PR branch name created in step 7 or 8 above.
+
+    a. Go to the `images/blog/` folder.
+    b. If the year and month does not exist as in step 7 above, click `Add file`, `Create new file`. In the next window type the `<year>/<month>/` in 
+       the `Name your file...` box. Scroll to the bottom, make sure `Commit directly to the <new_patch_branch_name>.` is selected, and `Commit new file`.
+       If the folder already exists, go to step c.
+    c. Select the correct year and month folder into which you want to upload your images, e.g. `carpentries.org/images/blog/2023/01/`.
+
+11. Click `Upload files`, drag or select the image files you wish to upload, make sure `Commit directly to the <new_patch_branch_name>.` is selected, and
+    click `Commit changes`.
      
-  `![<alt_text>]({{ site.urlimg }}(https://web_address/pathway_to_full_image_filename)_<caption>_`
-  
-  If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md) and copy the formatting from there.
+12. You can now edit your blog post markdown to link to the images you just uploaded.
+    a. Go back to the `_posts/<year>/<month>/` folder and select the blog post markdown file you uploaded in step 7 or 8. Click the `Edit this file` button
+       on the right, denoted by the pencil icon to the right of the Raw and Blame buttons.
+    b. Images should be linked using Markdown, and paths to the image should be relative.
+    c. Make sure the naming of your images is descriptive of what they are showing.
+       For example, an image of a Carpentries workshop at ABC University and the date in YYYY-MM-DD format, `2023-01-10-carpentries-workshop-abc.jpg`.
+    d. Change the placeholders you added into your text into the following, using the formatting shown:
+
+       `[<alt_text>]({{ site.urlimg }}/blog/<image_folder>/<image_name>)_<caption>_`
      
-7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [Netlify](https://www.netlify.com) on your Pull Requests. Please review your pull request a few minutes after you have submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries Core Team will review and merge your Pull Request or reach out to you with more questions.
+    e. Example:   
+        
+       `![Carpentries workshop at ABC University]({{ site.urlimg }}/blog/2023/01/2023-01-10-carpentries-workshop-abc.jpg)_A Carpentries workshop at ABC University_`
+    
+    f. In the example, The following changes were made:
+       - `<alt_text>` was replaced with `Carpentries workshop at ABC University`
+       - `/blog/<image_folder>/<image_name>` was replaced with the location and title of your image, `blog/2023/01/2023-01-10-carpentries-workshop-abc.jpg`
+       - `<caption>` was replaced with a caption, `A Carpentries workshop at ABC University`
+    g. A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it:
+    h. Example:
+
+       `![<alt_text>]({{ site.urlimg }}(https://web_address/pathway_to_full_image_filename)_<caption>_`
+  
+    i. If you are not sure how to add images in Markdown format, look at an
+       [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md)
+       and copy the formatting from there.
+     
+13. Once you have completed your changes, you can click on the `Preview` tab to make sure your images are showing.
+
+14. Once you have previewed your file, commit it making sure `Commit directly to the <new_patch_branch_name> branch.` is selected, and clicking `Commit changes`
+
+15. Congratulations, you're done!
+
+16. We automatically run tests using [Netlify](https://www.netlify.com) on your Pull Requests. Please review your pull request a few minutes after you have submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries Core Team will review and merge your Pull Request or reach out to you with more questions.
 
 
 #### Troubleshooting
