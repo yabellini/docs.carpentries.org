@@ -97,95 +97,94 @@ after completion of the build triggered by this change.
 
 7.  If a folder does not exist for the month you need:
 
-    1. Click on the year, e.g. `2023`, click `Add file` then `Create new file`, and in the box that says `Name your file...`, enter in the month 
-       followed by a slash, e.g. `02/`. The slash is very important to tell GitHub this is a folder.
+    - Click on the year, e.g. `2023`, click `Add file` then `Create new file`, and in the box that says `Name your file...`, enter in the month 
+      followed by a slash, e.g. `02/`. The slash is very important to tell GitHub this is a folder.
        
-    2. At the bottom of the page, select `Create a new branch for this commit and start a pull request`. make a note of the name of the patch, and
-       click `Propose new file`.
+    - At the bottom of the page, select `Create a new branch for this commit and start a pull request`. make a note of the name of the patch, and
+      click `Propose new file`.
     
-       ![Create a new blog post folder](./images/blog_post-new_branch_new_folder.png)
+      ![Create a new blog post folder](./images/blog_post-new_branch_new_folder.png)
     
-    3. On the next window, click `Create pull request`.
+    - On the next window, click `Create pull request`.
     
-    4. You should now see your new PR open, with a line that reads `<you> wants to merge 1 commit into main from <new_patch_branch_name>`.
-       The `<new_patch_branch_name>` will match the name given to you when you created your PR.
+    - You should now see your new PR open, with a line that reads `<you> wants to merge 1 commit into main from <new_patch_branch_name>`.
+      The `<new_patch_branch_name>` will match the name given to you when you created your PR.
        
-    5. Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back to the `_posts/<year>/<month>/` folder.
+    - Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back to the `_posts/<year>/<month>/` folder.
     
-    6. Click `Upload files`, drag your new blog post markdown file into the box, or click `choose your files` to open a
-       file browser and select your files.
+    - Click `Upload files`, drag your new blog post markdown file into the box, or click `choose your files` to open a
+      file browser and select your files.
        
-    7. Make sure `Commit directly to the <new_patch_branch_name> branch` is selected.
+    - Make sure `Commit directly to the <new_patch_branch_name> branch` is selected.
     
-    8. Click `Commit changes`.
+    - Click `Commit changes`.
     
-    9. Go to step 9.
+    - Go to step 9.
 
 8.  If a folder does already exist:
 
-    1. Make sure you are in the correct `_posts/<year>/<month>/` folder.
+    - Make sure you are in the correct `_posts/<year>/<month>/` folder.
     
-    2. Click `Upload files`, drag your new blog post markdown file into the box, or click `choose your files` to open a 
-       file browser, and select your file.
+    - Click `Upload files`, drag your new blog post markdown file into the box, or click `choose your files` to open a 
+      file browser, and select your file.
        
-    3. Click `Create a new branch for this commit and start a pull request` at the bottom of the page, make a note of the name of the patch, and
-       click `Propose changes`.
+    - Click `Create a new branch for this commit and start a pull request` at the bottom of the page, make a note of the name of the patch, and
+      click `Propose changes`.
        
-       ![Create a new blog post PR branch](./images/blog_post-new_branch.png)
+      ![Create a new blog post PR branch](./images/blog_post-new_branch.png)
        
-    4. On the next window, click `Create pull request`.
+    - On the next window, click `Create pull request`.
     
-    5. You should now see your new PR open, with a line that reads `<you> wants to merge 1 commit into main from <new_patch_branch_name>`.
-       The `<new_patch_branch_name>` will match the name given to you when you created your PR.
+    - You should now see your new PR open, with a line that reads `<you> wants to merge 1 commit into main from <new_patch_branch_name>`.
+      The `<new_patch_branch_name>` will match the name given to you when you created your PR.
        
-    6. Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back to the `_posts/<year>/<month>/` folder.
+    - Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back to the `_posts/<year>/<month>/` folder.
 
-9.  If you want to include images that are already hosted on the web, go to step 11.
+9.  If you want to include images that are already hosted on the web, go to step 12.
 
 10. To upload any images, first make sure you are on the `<new_patch_branch_name>` branch by clicking the drop down in the top left of the main code tab.
     **Do NOT use `main` as the branch to upload images**. Use the PR branch name created in step 7 or 8 above.
 
-    1. Go to the `images/blog/` folder.
+    - Go to the `images/blog/` folder.
     
-    2. If the year and month does not exist as in step 7 above, click `Add file`, `Create new file`. In the next window type the `<year>/<month>/` in 
-       the `Name your file...` box. Scroll to the bottom, make sure `Commit directly to the <new_patch_branch_name>.` is selected, and `Commit new file`.
-       If the folder already exists, go to step 10.3 below.
+    - If the year and month does not exist as in step 7 above, click `Add file`, `Create new file`. In the next window type the `<year>/<month>/` in 
+      the `Name your file...` box. Scroll to the bottom, make sure `Commit directly to the <new_patch_branch_name>.` is selected, and `Commit new file`.
        
-    3. Select the correct year and month folder into which you want to upload your images, e.g. `carpentries.org/images/blog/2023/01/`.
+    - If the folder does exist, select the correct year and month folder into which you want to upload your images, e.g. `carpentries.org/images/blog/2023/01/`.
 
 11. Click `Upload files`, drag or select the image files you wish to upload, make sure `Commit directly to the <new_patch_branch_name>.` is selected, and
     click `Commit changes`.
      
 12. You can now edit your blog post markdown to link to the images you just uploaded.
 
-    1. Go back to the `_posts/<year>/<month>/` folder and select the blog post markdown file you uploaded in step 7 or 8. Click the `Edit this file` button
-       on the right, denoted by the pencil icon to the right of the Raw and Blame buttons.
+    - Go back to the `_posts/<year>/<month>/` folder and select the blog post markdown file you uploaded in step 7 or 8. Click the `Edit this file` button
+      on the right, denoted by the pencil icon to the right of the Raw and Blame buttons.
        
-    2. Images should be linked using Markdown, and paths to the image should be relative.
+    - Images should be linked using Markdown, and paths to the image should be relative.
     
-    3. Make sure the naming of your images is descriptive of what they are showing.
-       For example, an image of a Carpentries workshop at ABC University and the date in YYYY-MM-DD format, `2023-01-10-carpentries-workshop-abc.jpg`.
+    - Make sure the naming of your images is descriptive of what they are showing.
+      For example, an image of a Carpentries workshop at ABC University and the date in YYYY-MM-DD format, `2023-01-10-carpentries-workshop-abc.jpg`.
        
-    4. Change the placeholders you added into your text into the following, using the formatting shown:
+    - Change the placeholders you added into your text into the following, using the formatting shown:
 
-       `[<alt_text>]({{ site.urlimg }}/blog/<image_folder>/<image_name>)_<caption>_`
+      `[<alt_text>]({{ site.urlimg }}/blog/<image_folder>/<image_name>)_<caption>_`
      
-    5. Example:   
+    - Example:   
         
        `![Carpentries workshop at ABC University]({{ site.urlimg }}/blog/2023/01/2023-01-10-carpentries-workshop-abc.jpg)_A Carpentries workshop at ABC University_`
     
-    6. In the example, The following changes were made:
-       - `<alt_text>` was replaced with `Carpentries workshop at ABC University`
-       - `/blog/<image_folder>/<image_name>` was replaced with the location and title of your image, `blog/2023/01/2023-01-10-carpentries-workshop-abc.jpg`
-       - `<caption>` was replaced with a caption, `A Carpentries workshop at ABC University`
+    - In the example, The following changes were made:
+        - `<alt_text>` was replaced with `Carpentries workshop at ABC University`
+        - `/blog/<image_folder>/<image_name>` was replaced with the location and title of your image, `blog/2023/01/2023-01-10-carpentries-workshop-abc.jpg`
+        - `<caption>` was replaced with a caption, `A Carpentries workshop at ABC University`
 
-    7. A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it. Example:
+    - A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it. Example:
 
-       `![<alt_text>]({{ site.urlimg }}(https://web_address/pathway_to_full_image_filename)_<caption>_`
+      `![<alt_text>]({{ site.urlimg }}(https://web_address/pathway_to_full_image_filename)_<caption>_`
   
-    8. If you are not sure how to add images in Markdown format, look at an
-       [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md)
-       and copy the formatting from there.
+    - If you are not sure how to add images in Markdown format, look at an
+      [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md)
+      and copy the formatting from there.
      
 13. Once you have completed your changes, you can click on the `Preview` tab to make sure your images are showing.
 
