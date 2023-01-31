@@ -24,6 +24,9 @@ If you wish to submit a blog post about your favourite tool or workflow, you can
 Read below and find out how to contribute a blog post to
 
   - [The Carpentries blog](#how-to-contribute-a-blog-post-to-the-carpentries-blog)
+  - [Data Carpentry blog](#how-to-contribute-a-blog-post-to-data-carpentry)
+  - [Library Carpentry blog](#how-to-contribute-a-blog-post-to-library-carpentry)
+  - [Software Carpentry blog](#how-to-contribute-a-blog-post-to-software-carpentry)
 
 
 #### General recommendations
@@ -61,8 +64,14 @@ after completion of the build triggered by this change.
 
 #### How to Contribute a Blog Post to The Carpentries blog
 
-1.  Create a local [Markdown](https://guides.github.com/features/mastering-markdown/) file for your blog post 
-    and name it according to this convention and case (lower kebab case).
+1.  If you wish to contribute a blog post,
+    please work in <https://github.com/carpentries/carpentries.org>,
+    which can be viewed at <https://carpentries.org/blog/>.
+
+1.  Posts go in the `_posts` folder.
+
+1.  Posts need to be created in [Markdown](https://guides.github.com/features/mastering-markdown/) and named
+    according to this convention and case (lower kebab case).
 
     `YYYY-MM-DD-filename.md`
 
@@ -70,7 +79,7 @@ after completion of the build triggered by this change.
 
     `2018-04-29-book-review-teaching.md`
 
-2.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/carpentries/carpentries.org/blob/gh-pages/_posts/2018/04/2018-04-25-website-launch.md), e.g.
+1.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/carpentries/carpentries.org/blob/gh-pages/_posts/2018/04/2018-04-25-website-launch.md), e.g.
 
     ```
     ---
@@ -86,116 +95,197 @@ after completion of the build triggered by this change.
 
     Separate the header block from the post text by inserting a new line.
 
-3.  All fields should be filled in. If there is more than one author, separate the author names like this: `["Name 1", "Name 2"]`.
+1.  All fields should be filled in. If there is more than one author, separate the author names like this: `["Name 1", "Name 2"]`.
 
-4.  Complete your blog post and leave placeholders in the text for any images that you will add in a following step, e.g. `ADD IMAGE - Figure 1: Caption`
+1.  Images should be uploaded to the `images` folder. Images should be linked using Markdown, and paths to the image should be relative.
 
-5.  To add your file to the github repository for blog posts,
-    please go to <https://github.com/carpentries/carpentries.org>.
+    Example:
+    ```md
+    ![Image Description]({{ site.filesurl }}/images/myimage.jpg)
+    ```
+    A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it.
 
-6.  Click on the `_posts` folder, and go to the year and month in which you wish to add your post, e.g. `2023/01`.
+    Example:
+    ```md
+    ![Image Description](https://web_address/pathway_to_full_image_filename)
+    ```
 
-7.  If a folder does not exist for the month you need:
+    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md) and copy the formatting from there.
 
-    1. Click on the year, e.g. `2023`, click `Add file` then `Create new file`, and in the box that says `Name your file...`, enter in the month 
-       followed by a slash, e.g. `02/`. The slash is very important to tell GitHub this is a folder.
-       
-    2. At the bottom of the page, select `Create a new branch for this commit and start a pull request`. make a note of the name of the patch, and
-       click `Propose new file`.
-    
-       ![Create a new blog post folder](./images/blog_post-new_branch_new_folder.png)
-    
-    3. On the next window, click `Create pull request`.
-    
-    4. You should now see your new PR open, with a line that reads `<you> wants to merge 1 commit into main from <new_patch_branch_name>`.
-       The `<new_patch_branch_name>` will match the name given to you when you created your PR.
-       
-    5. Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back to the `_posts/<year>/<month>/` folder.
-    
-    6. Click `Upload files`, drag your new blog post markdown file into the box, or click `choose your files` to open a
-       file browser and select your files.
-       
-    7. Make sure `Commit directly to the <new_patch_branch_name> branch` is selected.
-    
-    8. Click `Commit changes`.
-    
-    9. Go to step 9.
+1. Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you have submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries Core Team will review and merge your Pull Request or reach out to you with more questions.
 
-8.  If a folder does already exist:
 
-    1. Make sure you are in the correct `_posts/<year>/<month>/` folder.
-    
-    2. Click `Upload files`, drag your new blog post markdown file into the box, or click `choose your files` to open a 
-       file browser, and select your file.
-       
-    3. Click `Create a new branch for this commit and start a pull request` at the bottom of the page, make a note of the name of the patch, and
-       click `Propose changes`.
-       
-       ![Create a new blog post PR branch](./images/blog_post-new_branch.png)
-       
-    4. On the next window, click `Create pull request`.
-    
-    5. You should now see your new PR open, with a line that reads `<you> wants to merge 1 commit into main from <new_patch_branch_name>`.
-       The `<new_patch_branch_name>` will match the name given to you when you created your PR.
-       
-    6. Click on the `<new_patch_branch_name>` link, e.g. `froggleston-patch-1`, and navigate back to the `_posts/<year>/<month>/` folder.
+#### How to Contribute a Blog Post to Data Carpentry
 
-9.  If you want to include images that are already hosted on the web, go to step 11.
+1.  If you wish to contribute a blog post,
+    please work in <https://github.com/datacarpentry/datacarpentry.github.io>,
+    which can be viewed at <http://www.datacarpentry.org/blog/>.
 
-10. To upload any images, first make sure you are on the `<new_patch_branch_name>` branch by clicking the drop down in the top left of the main code tab.
-    **Do NOT use `main` as the branch to upload images**. Use the PR branch name created in step 7 or 8 above.
+1.  Posts go in the `_posts` folder.
 
-    1. Go to the `images/blog/` folder.
-    
-    2. If the year and month does not exist as in step 7 above, click `Add file`, `Create new file`. In the next window type the `<year>/<month>/` in 
-       the `Name your file...` box. Scroll to the bottom, make sure `Commit directly to the <new_patch_branch_name>.` is selected, and `Commit new file`.
-       If the folder already exists, go to step 10.3 below.
-       
-    3. Select the correct year and month folder into which you want to upload your images, e.g. `carpentries.org/images/blog/2023/01/`.
+1.  Posts need to be created in [Markdown](https://guides.github.com/features/mastering-markdown/) and named
+    according to this convention:
 
-11. Click `Upload files`, drag or select the image files you wish to upload, make sure `Commit directly to the <new_patch_branch_name>.` is selected, and
-    click `Commit changes`.
-     
-12. You can now edit your blog post markdown to link to the images you just uploaded.
+    `YYYY-MM-DD-filename.md`
 
-    1. Go back to the `_posts/<year>/<month>/` folder and select the blog post markdown file you uploaded in step 7 or 8. Click the `Edit this file` button
-       on the right, denoted by the pencil icon to the right of the Raw and Blame buttons.
-       
-    2. Images should be linked using Markdown, and paths to the image should be relative.
-    
-    3. Make sure the naming of your images is descriptive of what they are showing.
-       For example, an image of a Carpentries workshop at ABC University and the date in YYYY-MM-DD format, `2023-01-10-carpentries-workshop-abc.jpg`.
-       
-    4. Change the placeholders you added into your text into the following, using the formatting shown:
+    e.g.
 
-       `[<alt_text>]({{ site.urlimg }}/blog/<image_folder>/<image_name>)_<caption>_`
-     
-    5. Example:   
-        
-       `![Carpentries workshop at ABC University]({{ site.urlimg }}/blog/2023/01/2023-01-10-carpentries-workshop-abc.jpg)_A Carpentries workshop at ABC University_`
-    
-    6. In the example, The following changes were made:
-       - `<alt_text>` was replaced with `Carpentries workshop at ABC University`
-       - `/blog/<image_folder>/<image_name>` was replaced with the location and title of your image, `blog/2023/01/2023-01-10-carpentries-workshop-abc.jpg`
-       - `<caption>` was replaced with a caption, `A Carpentries workshop at ABC University`
+    `2017-07-10-assess_report.md`
 
-    7. A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it. Example:
+1.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2015-01-23-genomics-hackathon.md), e.g.
 
-       `![<alt_text>]({{ site.urlimg }}(https://web_address/pathway_to_full_image_filename)_<caption>_`
-  
-    8. If you are not sure how to add images in Markdown format, look at an
-       [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md)
-       and copy the formatting from there.
-     
-13. Once you have completed your changes, you can click on the `Preview` tab to make sure your images are showing.
+    ```
+    ---
+    layout: post
+    subheadline: "Lessons"
+    title: Data Carpentry Genomics and Asssessment Hackathon
+    teaser: "Announcing a Data Carpentry Genomics and Assessment Hackathon"
+    header:
+       image_fullwidth: "light-blue-wood-texture.jpg"
+    categories:
+       - blog
+    comments: true
+    show_meta: true
+    authors: ["Tracy Teal", "Belinda Weaver"]
+    ---
+    ```
 
-14. Once you have previewed your file, commit it making sure `Commit directly to the <new_patch_branch_name> branch.` is selected, and clicking `Commit changes`
+    Separate the header block from the post text by inserting a new line.
 
-15. Congratulations, you're done!
+1.  `Subheadline` is an optional field, as is `teaser`, but the other fields should be filled in. If there is more than one author, separate the author names like this: `["Name 1", "Name 2"]`.
 
-16. We automatically run tests using [Netlify](https://www.netlify.com) on your Pull Requests. Please review your pull request a few minutes after you have submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries Core Team will review and merge your Pull Request or reach out to you with more questions.
+1.  Images should be uploaded to the `images` folder. Images should be linked using Markdown, and paths to the image should be relative.
+
+    Example:
+    ```md
+    ![Image Description]({{ site.filesurl }}/images/myimage.jpg)
+    ```
+    A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it.
+
+    Example:
+    ```md
+    ![Image Description](https://web_address/pathway_to_full_image_filename)
+    ```
+
+    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md) and copy the formatting from there.
+
+1. Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you have submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries Core Team will review and merge your Pull Request or reach out to you with more questions.
+
+
+
+#### How to Contribute a Blog Post to Library Carpentry
+
+1.  If you wish to contribute a blog post,
+    please work in <https://github.com/LibraryCarpentry/librarycarpentry.github.io>,
+    which can be viewed at <https://librarycarpentry.org>.
+
+1.  Posts go in the `_posts` folder.
+
+1.  Posts need to be created in [Markdown](https://guides.github.com/features/mastering-markdown/) and named
+    according to this convention:
+
+    `YYYY-MM-DD-filename.md`
+
+    e.g.
+
+    `2018-09-12-data-in-the-desert.md`
+
+1.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/LibraryCarpentry/librarycarpentry.github.io/blob/master/_posts/2018/09/2018-09-12-data-in-the-desert.md), e.g.
+
+    ```
+    ---
+    layout: page
+    authors: ["Tracy Teal", "Belinda Weaver"]
+    title: "Data in the desert"
+    teaser: "Library Carpentry workshop at the University of Arizona"
+    date: 2018-09-12
+    tags: ["University of Arizona", "Library Carpentry", "The Carpentries", "Workshop"]
+    category: ["blog"]
+    ---
+    ```
+
+    Separate the header block from the post text by inserting a new line.
+
+1.  All fields should be filled in. If there is more than one author, separate the author names like this: `["Name 1", "Name 2"]`.
+
+1.  Images should be uploaded to the `images` folder. Images should be linked using Markdown, and paths to the image should be relative.
+
+    Example:
+    ```md
+    ![Image Description]({{ site.filesurl }}/images/myimage.jpg)
+    ```
+    A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it.
+
+    Example:
+    ```md
+    ![Image Description](https://web_address/pathway_to_full_image_filename)
+    ```
+
+    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://github.com/LibraryCarpentry/librarycarpentry.github.io/blob/master/_posts/2018/09/2018-09-12-data-in-the-desert.md) and copy the formatting from there.
+
+1. Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you have submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries Core Team will review and merge your Pull Request or reach out to you with more questions.
+
+##### Alternative Ways to Post
+
+If you are new to GitHub and want to submit a blog post without using this workflow, you can submit it through [this form](https://goo.gl/forms/xXDUwhq0rPY0jC5r2) and we will post it to the blog for you.
+
+
+#### How to Contribute a Blog Post to Software Carpentry
+
+1.  If you wish to contribute a blog post,
+    please work in <https://github.com/swcarpentry/website>,
+    which can be viewed at <https://software-carpentry.org/blog>.
+
+1.  Posts go in the `_posts` folder, which is divided up first by year,  e.g. `2017`, and then by month, e.g. `07`. Be sure to start creating your file in the correct folder.
+
+1.  Posts need to be created in [Markdown](https://guides.github.com/features/mastering-markdown/) and named according to this convention:
+
+    `YYYY-MM-DD-filename.md`
+
+    e.g.
+
+    `2017-07-10-assess_report.md`
+
+1.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/swcarpentry/website/blob/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md), e.g.
+
+    ```
+    ---
+    layout: post
+    subheadline: "Assessment"
+    title: "Analysis of Software Carpentry Workshop Impact"
+    date: 2017-07-10
+    time: "08:00:00"
+    authors: ["Tracy Teal", "Belinda Weaver"]
+    category: ["surveys", "workshops", "impact", "assessment"]
+    ---
+    ```
+
+    Separate the header block from the post proper by a new line.
+
+1.  `Subheadline` is an optional field, as is `time`, but the other fields should be filled in. If there is more than one author, separate the author names like this: `["Name 1", "Name 2"]`. Separate any categories the same way.
+
+1.  Images should be uploaded to the appropriate year in the `files/<year>/<month>` folder. Images should be linked using Markdown, and paths to the image should be relative.
+
+    Example:
+
+    ```md
+    ![Image Description]({{ site.filesurl }}/2017/07/myimage.jpg)
+    ```
+
+    A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it.
+
+    Example:
+
+    ```md
+    ![Image Description](https://web_address/pathway_to_full_image_filename)
+    ```
+
+    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://github.com/swcarpentry/website/blob/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md) or [one with a web link](https://github.com/swcarpentry/website/blob/gh-pages/_posts/2017/07/2017-07-10-assess_report.md) and copy the formatting from there.
+
+7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you have submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly.
+
 
 
 #### Troubleshooting
 
-The most likely reason posts fail to build is because of unsupported characters in the YAML header. Unsupported characters generally occur because material has been pasted in directly from programs like Word or Google documents. The most common unsupported characters that cause issues are smart quotes (curly quote marks as opposed to plain ones), but others might be em or en dashes, mathematical or other symbols, or other characters that cannot be rendered in plain text by typing on a keyboard. Replace smart quotes with plain quote marks and smart em or en dashes with plain hyphens to avert any problems.
+The most likely reason posts fail to build is because of 'rogue' characters in the YAML header. Rogue characters generally occur because material has been pasted in directly from programs like Word or Google documents. The most common rogue characters that cause issues are smart quotes (curly quote marks as opposed to plain ones), but others might be em or en dashes, mathematical or other symbols, or other characters that cannot be rendered in plain text by typing on a keyboard. Replace smart quotes with plain quote marks and smart em or en dashes with plain hyphens to avert any problems.
