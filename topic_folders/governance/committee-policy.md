@@ -91,6 +91,6 @@ Executive Council may terminate any committee at any time.
 - [Trainer Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md)
 - [Lesson Program Governance Committees](https://carpentries.org/blog/2022/11/lesson-program-governance/)
 
-Update Log:
-[Approved on 2022-12-02](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) by the Executive Council. 
-[Approved on 2020-09-23](https://github.com/carpentries/executive-council-info/issues/44) by the Executive Council. 
+### Update Log
+- [Approved on 2022-12-02](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) by the Executive Council. 
+- [Approved on 2020-09-23](https://github.com/carpentries/executive-council-info/issues/44) by the Executive Council. 
