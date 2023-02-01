@@ -7,7 +7,7 @@ This policy defines the process for making and approving task force proposals, a
 operational processes and the lines of communication to and from task forces
 to ensure transparency, accountability and sustainability of task forces' activities.
 
-#### Task Force Proposal
+### Task Force Proposal
 A task force proposal should:
 - explain the need for or the context of the task force
 - list aims and objectives of the task force
