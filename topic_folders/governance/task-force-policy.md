@@ -83,4 +83,5 @@ Executive Council may terminate any task force at any time.
 - Other past and current task forces can be found in [The Carpentries Task Force Repository](https://github.com/carpentries/task-forces)
 
 Update Log:
-Approved [2020-09-23](https://github.com/carpentries/executive-council-info/issues/44) by the Executive Council
+- [Approved on 2022-12-02](https://github.com/carpentries/executive-council-info/blob/main/minutes/2022/EC-minutes-2022-12-02-Q4.md) by the Executive Council. 
+- [Approved on 2020-09-23](https://github.com/carpentries/executive-council-info/issues/44) by the Executive Council. 
