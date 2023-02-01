@@ -78,8 +78,8 @@ Executive Council may terminate any task force at any time.
 
 ### Past & Current Task Forces
 
-- [CarpentryCon Task Force](https://carpentries.org/carp-con-tf/) - a recurring task force that gets periodically.
-  reformed to organise the international [CarpentryCon](https://carpentries.org) conference on behalf of The Carpentries
+- [CarpentryCon Task Force](https://carpentries.org/carp-con-tf/) - a recurring task force that gets periodically
+  reformed to organise the international [CarpentryCon](https://carpentries.org) conference on behalf of The Carpentries.
 - Other past and current task forces can be found in [The Carpentries Task Force Repository](https://github.com/carpentries/task-forces).
 
 ### Update Log
