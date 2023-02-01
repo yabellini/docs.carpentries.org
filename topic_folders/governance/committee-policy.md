@@ -7,7 +7,7 @@ This policy defines the process for making and approving committee proposals, an
 operational processes and the lines of communication to and from committees
 to ensure transparency, accountability and sustainability of committees' activities.
 
-#### Committee Proposal
+### Committee Proposal
 A committee proposal should:
 - explain the need for or the context for the committee
 - explain why it should be an on-going/longer-term project
