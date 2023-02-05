@@ -47,5 +47,25 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
 - It is not your job to reassure or forgive them.
 - Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter.
 
+#### Incidents involving Core Team members
+
+* If there are CoC reports either about or from (or in any way involving) Core
+  Team members who are Community Initiatives (CI) employees, and those reports
+  have the potential to rise to the level of harassment as defined by CI's
+  handbook, CI HR must be made aware immediately.
+* If a PEO employee (non-U.S. based Core Team members) is involved, we will
+  need to bring the PEO for country-specific advice.
+* In cases involving CI employees that are definitely not harassment, it is ok
+  to handle through CoCc without involving CI. Examples of types of things that
+  might be reported to the CoCc but that are not harassment are a workshop
+  participant swearing at an Instructor, or a community member who is rude and
+  pushy but not in any way related to sexual advances or protected categories.
+
+If a report involving a Core Team member is susceptible to meet the appropriate
+criteria for harassment, the CoCc should contact the Core Team liaison to the
+CoCc. The Core Team CoCc liaison will elevate anything that comes in by or about
+Core Team members to the Executive Team if appropriate and to Community
+Initiatives or the PEO if needed. If a report involves the Core Team CoCc
+liaison, the CoCc needs to contact the Executive Director directly.
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
