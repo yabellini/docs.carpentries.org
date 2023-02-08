@@ -76,8 +76,8 @@ The categories of information include:
 **What information do we collect?**
 
 We collect the name, email address and event attended of workshop participants.
-If you are a learner or helper, this information may be provided by you or by 
-the workshop host.
+If you are a learner or helper this information may be provided to us by you,
+or by the workshop host. This information is stored in our internal database, AMY.
 
 **How is this information used?**
 
@@ -122,12 +122,13 @@ third parties, including but not limited to funding entities.
 
 **What information do we collect?**
 
-We collect the name and email address of participants at Trainer training 
-events and of current Trainers. This information may be provided by the 
-participant or event host. If you choose to complete a volunteer/instructor 
-profile, we will store your name, email address, gender, nearest airport 
-location, organisational affiliation, occupation, ORCID ID, GitHub, any 
-social media handles, and personal URL in our internal database, AMY.
+We collect the name and email address of participants at Trainer training events.
+To facilitate the organisation of Training events, we maintain a contact
+list of current Trainers, their active status and their availability. This 
+information may be provided by you or the event host. If you choose to complete
+a Trainer profile, we may also collect your gender, nearest airport location,
+organisational affiliation, occupation, ORCID ID, GitHub, any social media handles,
+and personal URL in our internal database, AMY.
 
 **How is this information used?**
 
@@ -147,48 +148,83 @@ or third parties, including but not limited to funding entities.
 
 **What information do we obtain?**
 
-We may obtain the name and email address of Other volunteers. If you
-choose to complete a volunteer/instructor profile, we may store your
-name, email address, gender, nearest airport location, organisational
-affiliation, occupation, ORCID ID, GitHub, any social media handles, 
-and personal URL.
+_Maintainers:_
+We collect the name, email address, and language proficiency from Maintainers,
+as well information about their experience, motivation, and preferences as relates
+to the Maintainer role. If you choose to complete a Maintainer profile, we may
+also collect your ORCID ID and any information about your membership within any
+under-represented group in research and/or computing. After Maintainer Onboarding
+is complete, we also store your GitHub handle and information about the lesson(s)
+you maintain. This information is stored within our internal database, AMY.
+
+_Contributors:_
+When preparing a lesson for release, we extract publicly-available information
+about you (your GitHub handle, and the email address associated with your 
+commits) from the commit history of the project. We do not otherwise actively
+collect other personal information from lesson Contributors.
+
+_Other Volunteers:_
+When people volunteer to review lessons in the Lab, we collect their name and
+email address. When people propose lessons to the Incubator, we ask them to provide
+their GitHub username.
 
 **How is this information used?**
 
-We use this information to communicate with other volunteers, including
-communication about the organisation and opportunities to volunteer. We 
-may use volunteer information to contact you about additional opt-in 
-opportunities for assessment, training, teaching, volunteering and/or 
-community engagement. We do not provide personally identifiable information
-to any third party. However, we may share de-identified aggregate or summary 
-information regarding volunteers publicly or with other volunteers, 
-member sites or third parties, including but not limited to funding 
-entities.
+As a Maintainer or Contributor, we cross-reference your GitHub/name information
+against the community information stored in AMY to produce a `.zenodo.json` file
+for the lesson, which lists the  Maintainers (as Editors) and the other Contributors
+(as Authors). This file includes your GitHub handle or name, depending on the
+preference you have indicated in your AMY profile, and your ORCID ID if you provided
+it. With your consent, this information may be used in scientific publications or to
+credit authorship.
+
+Specifically as a Maintainer, we use your name on our websites, to list Maintainers
+as a whole and for specific lessons. We also use your name to add you to the
+maintainers Slack channel. We use your email address to contact you regarding surveys
+to assign your status as active or inactive, invite you to meetings and other
+calendar events, to contact you directly about lesson(s) you have maintained or
+contributed to, and we use your GitHub handle to create or update GitHub teams
+within our organisations, so that you can be tagged in issues/PRs as appropriate.
 
 ### Volunteers for subcommittees, liaison, and Executive Council
 
 **What information do we obtain?**
 
+We collect the name and email address of volunteers across our committees and
+councils, e.g. Trainers Leadership Committee (TLC), Curriculum Advisory Committee (CAC).
+With your consent if you choose to complete a volunteer profile, we may store your
+gender, nearest airport location, organisational affiliation, occupation, career
+stage, ORCID ID, GitHub, any social media handles, and personal URL.
+
 **How is this information used?**
 
+We use this information to communicate with other volunteers, including communication
+about the organisation and your role(s) within it. For committee and council members,
+we list your name and committee membership on our website. We may use volunteer
+information to contact you about additional opt-in opportunities for assessment, training,
+teaching, volunteering and/or community engagement. We do not provide personally
+identifiable information to any third party. However, we may share de-identified aggregate
+or summary information regarding volunteers publicly or with other volunteers, member
+sites or third parties, including but not limited to funding entities.
 
 ### Survey Respondents
 
-Community and workshop participants are invited to participate in a variety
-of surveys to better serve our community. These include but are not limited
-to pre-workshop and post-workshop surveys of learners, and various opt-in
-surveys to evaluate programs or events.
+Community and workshop participants are invited to participate in a variety of surveys
+to better serve our community. These include but are not limited to pre-workshop and
+post-workshop surveys of learners, and various opt-in surveys to evaluate programs or
+events.
 
 **What information do we obtain?**
+
 Pre- and post-workshop surveys
 
-Opt-in surveys are entirely voluntary and information is not collected in
-a way that it is linked to personally identifiable responses without the
-respondent’s consent to self-identify. Surveys collect information particular
-to the event or program being evaluated and optional information about the
-participant.
+Other opt-in surveys that you may be sent are entirely voluntary and information is
+not collected in a way that it is linked to personally identifiable responses without
+your consent to self-identify. Surveys collect information particular to the event
+or program being evaluated, and any optional information about you.
 
 **What do we do with this information?**
+
 We use survey information to evaluate and improve our programs, report on impact
 and outcomes, and understand the needs and interests of our community. With your
 consent, we may use your contact details to request follow-up information from you.
@@ -352,8 +388,26 @@ learn more, please see our [Cookie Policy](cookie-policy.md).
 
 ## 6. Your Privacy Choices
 
-Please contact us if you would like to request access and/or make any changes to
-your personal information.
+### Can I decide what communications to receive?
+
+Yes. All communication with us is opt-in, except for when you need to receive
+information about your program and for Instructors and Trainers, information
+required to maintain your status. If you have consented to us contacting you,
+you may occasionally be sent emails asking if you would like to opt-in to
+communication channels that we feel may be of interest to you (for example,
+a mailing list dedicated to your geographical area). In the absence of specific
+action from you, we will assume you choose not to join these channels.
+
+### Removing personal information
+
+Consent options regarding information held within the AMY database can be made by 
+you from within AMY itself. Any other requests by you to revoke consent from us
+holding any information on you outside the AMY database, please notify
+admin@carpentries.org. If you choose to exclude your information, we will delete
+your personal information from our databases. However, this may interfere with our
+ability to give you credit for training events you have completed or contributions
+you have made to our lessons, to contact you about upcoming events in your area,
+and may affect your active status within our organisation.
 
 ### Marketing Opt-Out
 
