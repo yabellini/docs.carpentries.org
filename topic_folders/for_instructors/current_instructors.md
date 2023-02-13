@@ -94,19 +94,17 @@ The individual profile view also includes a view for instructor training checkou
 
 The code base can be found in the [AMY GitHub repo](https://github.com/carpentries/amy).  
 The [web based application can be found here](https://amy.carpentries.org/).  
-[Documentation for AMY administrators can be found here](https://carpentries.github.io/amy/). 
+[Documentation for community members and AMY administrators can be found here](https://carpentries.github.io/amy/). 
 
 ### Teaching
 
 #### Signing up to teach
 
-Once you sign into your AMY profile, you can view upcoming teaching opportunities at Centrally-Organised workshops.  Click on the blue button labeled "View upcoming teaching opportunities with The Carpentries."  
+Once you sign into your [AMY profile]((https://amy.carpentries.org/)), you can view upcoming teaching opportunities at Centrally-Organised workshops.  Click on the blue button labeled "View upcoming teaching opportunities with The Carpentries."  
 
 ![AMY instructor screen](images/amy_instructor_signup.png)
 
-Here, you can browse teaching opportunites by workshop location or curriculum and register your interest in teaching.  A member of our Workshop Administration team will follow up with you.  
-
-
+Here, you can browse teaching opportunites by workshop location or curriculum and register your interest in teaching.  A member of our Workshop Administration team will follow up with you.  [Read more in the AMY users documentation](https://carpentries.github.io/amy/users_guide/community_index/#viewing-teaching-opportunities).
 
 #### Setting Up a Workshop
 Please see our [Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) section for
