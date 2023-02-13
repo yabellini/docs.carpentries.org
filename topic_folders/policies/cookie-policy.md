@@ -29,26 +29,6 @@ If you choose not to enable cookies, you will still be able to browse our
 websites, but it will restrict some of the functionality of our websites or what
 you can do.
 
-
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 70%;
-}
-table th:nth-of-type(3) {
-    width: 10%;
-}
-table th:nth-of-type(4) {
-    width: 10%;
-}
-/* We overwrite these classes to ensure the table fits in the page */
-.wy-table-responsive table td, .wy-table-responsive table th {
-    white-space: normal
-}
-</style>
-
 ### Matomo
 
 We use [Matomo](https://matomo.org/) for our site analytics. We set it up to
