@@ -65,7 +65,8 @@ The categories of information include:
   medical condition, marital status, or sexual orientation
 * Professional, employment, or education information, such as copies of your
   resume or CV and any other information required to verify your qualifications,
-  for Instructor and Core Team recruitment purposes
+  for Instructor and Core Team recruitment purposes, including video recordings
+  of recruitment interviews you may have with us
 * Inferences regarding your familiarity with programming languages and general
   computing skills, to help tailor our workshops to you
 
@@ -77,7 +78,8 @@ The categories of information include:
 
 We collect the name, email address and event attended of workshop participants.
 If you are a learner or helper this information may be provided to us by you,
-or by the workshop host. This information is stored in our internal database, AMY.
+or by the workshop host. This information is stored in our internal database, 
+[AMY](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles).
 
 **How is this information used?**
 
@@ -102,7 +104,8 @@ events and of current instructors. This information may be provided by the
 participant or event host. If you choose to complete a volunteer/instructor 
 profile, we will store your name, email address, gender, nearest airport 
 location, organisational affiliation, occupation, ORCID ID, GitHub, any social 
-media handles, and personal URL in our internal database, AMY.
+media handles, and personal URL in our internal database, 
+[AMY](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles).
 
 **How is this information used?**
 
@@ -128,7 +131,8 @@ list of current Trainers, their active status and their availability. This
 information may be provided by you or the event host. If you choose to complete
 a Trainer profile, we may also collect your gender, nearest airport location,
 organisational affiliation, occupation, ORCID ID, GitHub, any social media handles,
-and personal URL in our internal database, AMY.
+and personal URL in our internal database, 
+[AMY](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles).
 
 **How is this information used?**
 
@@ -155,7 +159,8 @@ to the Maintainer role. If you choose to complete a Maintainer profile, we may
 also collect your ORCID ID and any information about your membership within any
 under-represented group in research and/or computing. After Maintainer Onboarding
 is complete, we also store your GitHub handle and information about the lesson(s)
-you maintain. This information is stored within our internal database, AMY.
+you maintain. This information is stored within our internal database, 
+[AMY](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles).
 
 _Contributors:_
 When preparing a lesson for release, we extract publicly-available information
@@ -174,9 +179,10 @@ As a Maintainer or Contributor, we cross-reference your GitHub/name information
 against the community information stored in AMY to produce a `.zenodo.json` file
 for the lesson, which lists the  Maintainers (as Editors) and the other Contributors
 (as Authors). This file includes your GitHub handle or name, depending on the
-preference you have indicated in your AMY profile, and your ORCID ID if you provided
-it. With your consent, this information may be used in scientific publications or to
-credit authorship.
+preference you have indicated in your 
+[AMY](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles) 
+profile, and your ORCID ID if you provided it. With your consent, this information
+may be used in scientific publications or to credit authorship.
 
 Specifically as a Maintainer, we use your name on our websites, to list Maintainers
 as a whole and for specific lessons. We also use your name to add you to the
@@ -310,9 +316,10 @@ With your consent, we may share your name, education, social media account handl
 and professional affiliation with the public for your role in our community and
 other Core Team members’ biographies. The information you choose to provide to us 
 will determine how much information is shared with the public. You can opt-in or 
-opt-out of sharing your information publicly in your AMY profile. With your consent, 
-that you can revoke at any time, we may also share testimonials, reviews, alongside
-your personal information.
+opt-out of sharing your information publicly in your
+[AMY](https://carpentries.github.io/amy/users_guide/community_index/#user-profiles)
+profile. With your consent, that you can revoke at any time, we may also share
+testimonials, reviews, alongside your personal information.
 
 ### Carpentries Instructor applicants
 
