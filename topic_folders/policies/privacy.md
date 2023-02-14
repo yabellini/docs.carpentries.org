@@ -395,6 +395,14 @@ learn more, please see our [Cookie Policy](cookie-policy.md).
 
 ## 6. Your Privacy Choices
 
+As an organisation registered within the USA state of California, we abide by
+the privacy rights stipulated below. However, we have staff and volunteers who
+fall under other jurisdictions, so in all cases, we aim to comply with the GDPR
+guidance, details of which can be found under the EEA sections below. For 
+countries outside the UK, USA and EEA, we aim to comply with the processes
+set out for international data transfer via Standard Contractual Clauses where
+appropriate.
+
 ### Can I decide what communications to receive?
 
 Yes. All communication with us is opt-in, except for when you need to receive
@@ -511,8 +519,8 @@ using the contact details provided in the "Contact Information" section below.
 
 ## 8. EEA Individuals’ Rights
 
-If you are from the European Economic Area, you have the right, under certain
-circumstances, to:
+Under GDPR, if you are from the UK or European Economic Area, you have the right,
+under certain circumstances, to:
 
 * Access your Personal Information;
 * Correct inaccurate Personal Information;
