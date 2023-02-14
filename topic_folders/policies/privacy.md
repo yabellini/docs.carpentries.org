@@ -93,6 +93,11 @@ information to any third party. However, we may share de-identified aggregate
 or summary information regarding participants publicly or with volunteers, 
 member sites or third parties, including but not limited to funding entities.
 
+Workshop Hosts ("Hosting Organisations") are bound by the Data Usage & Privacy
+stipulations within the Workshop Agreement, and the Carpentries Code of Conduct
+(CoC) with respect to any confidential information shared between the us and
+the Hosts.
+
 ### Instructors
 
 "Instructors" includes Instructors, Instructor Trainees and Instructor Applicants.
