@@ -90,6 +90,9 @@ Members of the Executive Council shall not receive compensation from the Organis
 ### Confidentiality
 Members of the Executive Council will sometimes discuss or be made aware of information or activities that may be sensitive to share publicly (e.g. salary information). Executive Council Members are expected to treat such information confidentially and to disclose such information to those outside the Executive Council only when the Executive Council has agreed that such dissemination is appropriate.
 
+### Conflict of interest
+Each member of the Executive Council of The Carpentries must sign the Conflict of interest declaration form at the beginning of their term and must report in case potential new conflicts of interest are occurring.
+
 ### Removal
 If a Member of the Executive Council consistently fails to meet the obligations outlined above, they may be removed by a vote of three-quarters of the other Members of the Executive Council. A vote to remove a Member must be announced in writing (in the meeting agenda) to the entire Executive Council at least ten days in advance to vote on the removal. A vacated Executive Council seat will be filled following the Between-election vacancies procedure outlined in the Nominations and Elections section.
 
